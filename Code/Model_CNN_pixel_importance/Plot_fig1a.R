@@ -2,10 +2,10 @@
 library(tidyverse)
 library(scales)
 library(glmmTMB)
-library(DHARMa)
-library(lme4)
-library(lmerTest)
-
+library(patchwork)
+library(sjPlot)
+library(ggplot2)
+library(ggeffects)
 
 
 raw_data <- read_csv("Data/df_features_visualization.csv")
@@ -22,10 +22,10 @@ for(i in 1:nrow(cluster_size)){
            cluster_label == cluster_size$cluster_label[i])%>%
     dplyr::select(land_cover) %>% pull()
 
-  # Contar la frecuencia de cada string en el vector
+  # Count the frequency of each string in the vector
   counts <- table(landcovers_i)
 
-  # Encontrar el string que más veces aparece
+  # Find the string that appears the most times
   most_frequent <- names(which.max(counts))
   cluster_size$most_frequent_land_cover[i] <- most_frequent
 
@@ -33,7 +33,7 @@ for(i in 1:nrow(cluster_size)){
 
 data_model <- raw_data %>% left_join(cluster_size, by = c("site","cluster_label"))
 
-# Consideramos la distancia del pixel al centro del mapa
+# Consider the distance from the pixel to the center of the map
 data_model$dis_centre <- sqrt((data_model$x-9)^2+(data_model$y-9)^2)
 
 
@@ -42,25 +42,19 @@ data_model$dis_centre <- sqrt((data_model$x-9)^2+(data_model$y-9)^2)
 # MODEL FITTING
 ###############################################################################
 
-# Ajustar el modelo GLMM con distribución beta
+# Zero-inflated beta model
 model5_zi_dis_size <- glmmTMB(grad_cam_value ~  scale(dis_centre) : land_cover + scale(cluster_size) : most_frequent_land_cover +
                                 (1 | site),
                               ziformula = ~1 + scale(dis_centre) + scale(cluster_size),
                               data = data_model, family = ordbeta())
 
-# Resumen del modelo
-summary(model5_zi_dis_size)
-
 
 ##############################################################################
-# MODEL PLOT
+# PLOT MODEL
 ##############################################################################
 
-library(sjPlot)
-library(ggplot2)
-library(ggeffects)
 
-# Generar efectos marginales con ggeffects
+# Generate marginal effects with ggeffects.
 effects_dis_centre <- ggpredict(model5_zi_dis_size, terms = c("dis_centre", "land_cover"))
 effects_cluster_size <- ggpredict(model5_zi_dis_size, terms = c("cluster_size", "most_frequent_land_cover"))
 
@@ -84,7 +78,7 @@ effects_cluster_size$group_Color[effects_cluster_size$group == "Permanent Water"
 effects_cluster_size$group_Color[effects_cluster_size$group == "Seasonal Water"] <- 'cyan'
 
 
-# Efecto de dis_centre por land_cover
+# Effect dis_centre by land_cover
 plot1 <- ggplot(effects_dis_centre, aes(x = 100*x, y = predicted, color = group)) +
   geom_line(linewidth=1.3) +
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high, fill = group), alpha = 0.1, color = NA) +
@@ -93,7 +87,7 @@ plot1 <- ggplot(effects_dis_centre, aes(x = 100*x, y = predicted, color = group)
   labs(x = "Euclidean distance to the center of the map (meter)", y = "CNN pixel importance",
        title="GLMM: Effect of pixel distance to the map center by\ndominant land cover")+
   theme_bw()+
-  theme(legend.position = "none", legend.title = element_blank()) +  # Eliminar el título de la leyenda
+  theme(legend.position = "none", legend.title = element_blank()) +
   #guides(color = guide_legend(nrow = 3, byrow = TRUE))+
   theme(legend.text = element_text(size = 18),
         axis.text=element_text(size=16),
@@ -103,7 +97,7 @@ plot1 <- ggplot(effects_dis_centre, aes(x = 100*x, y = predicted, color = group)
   guides(color=FALSE)+guides(fill=FALSE)
 
 
-# Efecto de cluster_size por most_frequent_land_cover
+# Effect cluster_size by most_frequent_land_cover
 plot2 <- ggplot(effects_cluster_size, aes(x = x, y = predicted, color = group)) +
   geom_line(linewidth=1.3) +
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high, fill = group), alpha = 0.1, color = NA) +
@@ -113,7 +107,7 @@ plot2 <- ggplot(effects_cluster_size, aes(x = x, y = predicted, color = group)) 
        title = "GLMM: Effect of cluster size and most frequent land\ncover" )+
   ylim(0,1)+
   theme_bw()+
-  theme(legend.position = "bottom", legend.title = element_blank()) +  # Eliminar el título de la leyenda
+  theme(legend.position = "bottom", legend.title = element_blank()) +
   guides(color = guide_legend(nrow = 2, byrow = TRUE))+
   theme(legend.text = element_text(size = 18),
         axis.text=element_text(size=16),
@@ -121,13 +115,9 @@ plot2 <- ggplot(effects_cluster_size, aes(x = x, y = predicted, color = group)) 
         plot.title=element_text(size=19,face="bold"),
         strip.text = element_text(size = 18))
 
-# Mostrar los gráficos
-plot1
-plot2
 
 
-library(patchwork)
-png("Figures/fig_main_pixel_importance.png",
+png("Figures/fig1a.png",
     width = 500*8.7, # The width of the plot in inches
     height = 520*4.4, res=300)
 
