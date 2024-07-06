@@ -1,0 +1,838 @@
+"study_id","site_id","biome_num","crop","log_visit_rate","log_vr_small","log_vr_large"
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","Bramlett","12","Prunus dulcis",1.2163953243245,1.04731899428056,-0.393042588109605
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","Etters","12","Prunus dulcis",-0.798507696217769,-0.644357016390511,-2.59026716544582
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","Full Belly","12","Prunus dulcis",0.454255272277599,0.0487901641694346,-0.393042588109605
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","Laury","12","Prunus dulcis",0.628608659422377,0.545227050483326,-1.20397280432593
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","T&P3","12","Prunus dulcis",-0.980829253011724,-0.798507696217769,-2.59026716544582
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","Taber","8","Prunus dulcis",-0.393042588109605,-0.393042588109605,-1.89711998488588
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","Tim Mueller 1","12","Prunus dulcis",0.117783035656386,-0.0253178079842874,-1.20397280432593
+"Alexandra_Maria_Klein_Prunus_dulcis_USA_2009","Tim Mueller 2","12","Prunus dulcis",-1.20397280432593,-0.980829253011724,-2.59026716544582
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","COF2","1","Coffea arabica",-3.52636052461616,-3.34403896782221,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","COF3","1","Coffea arabica",-3.18988828799495,-3.05635689537043,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","COF4","7","Coffea arabica",-4.03718614838215,-3.74950407593037,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","COF5","1","Coffea arabica",-4.03718614838215,-3.74950407593037,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","HOM1","1","Coffea arabica",-3.34403896782221,-3.18988828799495,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","HOM2","7","Coffea arabica",-2.496741107435,-2.42774823594805,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","HOM4","1","Coffea arabica",-1.32913594727994,-1.30715704056117,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","SUN1","7","Coffea arabica",-3.74950407593037,-3.52636052461616,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","SUN2","1","Coffea arabica",-4.44265125649032,-4.03718614838215,-5.13579843705026
+"Alice_Classen_Coffea_arabica_Tanzania_2011_2012","SUN4","7","Coffea arabica",-4.03718614838215,-3.74950407593037,-5.13579843705026
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_1","4","Malus domestica",-2.30258509299405,-2.484906649788,-3.40119738166216
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_10","4","Malus domestica",-3.68887945411394,-3.40119738166216,-4.78749174278205
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_11","4","Malus domestica",-1.09861228866811,-1.49165487677772,-2.07944154167984
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_12","4","Malus domestica",-2.14843441316679,-2.59026716544583,-2.84158159372673
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_13","4","Malus domestica",-1.89711998488588,-2.22254238532051,-2.84158159372673
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_14","4","Malus domestica",-2.99573227355399,-3.40119738166216,-3.40119738166216
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_2","4","Malus domestica",-2.01490302054226,-3.40119738166216,-2.14843441316679
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_3","4","Malus domestica",-1.6094379124341,-2.70805020110221,-1.89711998488588
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_4","4","Malus domestica",-1.95427839872583,-2.484906649788,-2.59026716544583
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_5","4","Malus domestica",-2.484906649788,-2.99573227355399,-2.99573227355399
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_6","4","Malus domestica",-2.22254238532051,-3.68887945411394,-2.30258509299405
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_7","4","Malus domestica",-2.99573227355399,-3.68887945411394,-3.17805383034795
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_8","4","Malus domestica",-1.84305276361561,-2.484906649788,-2.38959646998368
+"Ariza_etal_apple_Belgium_2019","Ariza_etal_2019_9","4","Malus domestica",-2.38959646998368,-2.484906649788,-3.68887945411394
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_1","4","Prunus avium",-1.79175946922805,-2.14843441316679,-2.70805020110221
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_10","4","Prunus avium",-1.89711998488588,-2.01490302054226,-3.40119738166216
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_11","4","Prunus avium",-2.07944154167984,-2.07944154167984,-4.0943445622221
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_12","4","Prunus avium",-0.836248024200619,-0.817199829229924,-4.78749174278205
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_13","4","Prunus avium",-0.567984037605939,-0.780158557549575,-2.07944154167984
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_14","4","Prunus avium",-2.14843441316679,-2.14843441316679,-4.0943445622221
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_15","4","Prunus avium",-2.99573227355399,-3.40119738166216,-3.40119738166216
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_16","4","Prunus avium",-1.52939520476056,-1.74296930505862,-2.84158159372673
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_2","4","Prunus avium",-1.89711998488588,-2.14843441316679,-2.99573227355399
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_3","4","Prunus avium",-1.04982212449868,-1.32175583998232,-2.30258509299405
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_4","4","Prunus avium",-1.3535045382969,-2.30258509299405,-1.74296930505862
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_5","4","Prunus avium",-1.84305276361561,-1.95427839872583,-3.40119738166216
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_6","4","Prunus avium",-0.393042588109607,-0.393042588109607,-4.0943445622221
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_7","4","Prunus avium",-2.99573227355399,-2.99573227355399,-4.0943445622221
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_8","4","Prunus avium",-2.59026716544583,-2.70805020110221,-3.68887945411394
+"Ariza_etal_sweetcherry_Belgium_2019","Ariza_etal_2019_9","4","Prunus avium",-2.484906649788,-2.84158159372673,-3.17805383034795
+"Betina_Blochtein_Brassica_napus_Brazil_2011","L 1 Snitowski","1","Brassica napus",-3.98898404656427,-3.80666248977032,-5.59842195899838
+"Betina_Blochtein_Brassica_napus_Brazil_2011","L 6 Sr. Donadel","1","Brassica napus",-3.80666248977032,-3.65251180994306,-5.59842195899838
+"Betina_Blochtein_Brassica_napus_Brazil_2011","L2 Snitowski","1","Brassica napus",-3.2005266862,-3.11351530921037,-5.59842195899838
+"Betina_Blochtein_Brassica_napus_Brazil_2011","L3 Karlec","1","Brassica napus",-3.11351530921037,-3.11351530921037,-4.90527477843843
+"Betina_Blochtein_Brassica_napus_Brazil_2011","L4 Rupp","7","Brassica napus",-2.30258509299405,-2.26621744882317,-5.59842195899838
+"Betina_Blochtein_Brassica_napus_Brazil_2011","L5 Sr. Rupp","7","Brassica napus",-4.49980967033027,-4.21212759787848,-5.59842195899838
+"Bryony_Willcox_Macadamia_integrifolia_Australia_2016","mac_3","4","Macadamia integrifolia",-2.86220088092947,-2.74441784527309,-4.9416424226093
+"Bryony_Willcox_Macadamia_integrifolia_Australia_2016","mac_5","4","Macadamia integrifolia",-4.9416424226093,-4.24849524204936,-4.9416424226093
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango10","7","Mangifera indica",-2.59026716544583,-2.53619994417555,-5.48063892334199
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango2","7","Mangifera indica",-2.14843441316679,-2.10191439753189,-5.19295685089021
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango3","7","Mangifera indica",-1.20397280432594,-1.1889349269614,-5.39362754635236
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango4","7","Mangifera indica",-0.891598119283784,-0.879476758751439,-5.29831736654804
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango5","7","Mangifera indica",-0.885519073207401,-0.870481195842861,-5.07517381523383
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango6","7","Mangifera indica",-1.54229860959647,-1.52939520476056,-5.88610403145016
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango7","1","Mangifera indica",-4.0943445622221,-3.80666248977032,-5.19295685089021
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango8","7","Mangifera indica",-0.531879032963823,-0.524811865740731,-5.48063892334199
+"Bryony_Willcox_Mangifera_indica_Australia_2016","mango9","7","Mangifera indica",0.435318071257845,0.438254930931155,-5.39362754635236
+"Bryony_Willcox_Mangifera_indica_Australia_2016_2","man_1","4","Mangifera indica",-1.80614820668015,-1.76358859226136,-4.9416424226093
+"Bryony_Willcox_Mangifera_indica_Australia_2016_2","man_2","4","Mangifera indica",-1.57866625376735,-1.54881329061767,-5.07517381523383
+"Bryony_Willcox_Mangifera_indica_Australia_2017","man_1","4","Mangifera indica",-2.13073483606739,-2.07944154167984,-5.07517381523383
+"Bryony_Willcox_Mangifera_indica_Australia_2017","man_2","4","Mangifera indica",-2.05474892908946,-2.0306513775104,-5.76832099579377
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_1","4","Persea americana",-1.38629436111989,-1.36431545440112,-5.19295685089021
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_10","12","Persea americana",-1.09861228866811,-1.07391967607774,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_11","8","Persea americana",0.490622916448471,0.500775287912489,-4.0943445622221
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_12","8","Persea americana",-0.727048732235627,-0.709954298876327,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_2","4","Persea americana",-2.38959646998368,-2.30258509299405,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_3","4","Persea americana",-3.68887945411394,-3.40119738166216,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_5","4","Persea americana",-2.01490302054226,-1.95427839872583,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_6","4","Persea americana",-0.693147180559945,-0.676617878608735,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_7","4","Persea americana",-3.40119738166216,-3.17805383034795,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_8","8","Persea americana",-2.99573227355399,-2.59026716544583,-3.68887945411394
+"Bryony_Willcox_Persea_americana_Australia_2015","avo_9","8","Persea americana",-0.628608659422374,-0.613104472886409,-4.78749174278205
+"Bryony_Willcox_Persea_americana_Australia_2016","avo_1","4","Persea americana",-2.30258509299405,-2.23359222150709,-4.9416424226093
+"Bryony_Willcox_Persea_americana_Australia_2016","avo_2","4","Persea americana",-0.510825623765991,-0.500462836730444,-5.07517381523383
+"Bryony_Willcox_Persea_americana_Australia_2016","avo_3","4","Persea americana",-3.97656152656572,-3.68887945411394,-5.07517381523383
+"Bryony_Willcox_Persea_americana_Australia_2016","avo_5","4","Persea americana",-2.59026716544583,-2.43611648561857,-4.38202663467388
+"Bryony_Willcox_Persea_americana_Australia_2016","avo_6","4","Persea americana",0.674219170674426,0.677398823591806,-5.07517381523383
+"Bryony_Willcox_Persea_americana_Australia_2017","avo_1","4","Persea americana",-2.70805020110221,-2.62800749342867,-5.19295685089021
+"Bryony_Willcox_Persea_americana_Australia_2017","avo_2","4","Persea americana",-1.01856958099457,-1.00330210886378,-5.19295685089021
+"Bryony_Willcox_Persea_americana_Australia_2017","avo_3","4","Persea americana",-3.10109278921182,-2.99573227355399,-5.29831736654804
+"Bryony_Willcox_Persea_americana_Australia_2017","avo_5","4","Persea americana",-0.347785996521486,-0.338975366839331,-5.07517381523383
+"Bryony_Willcox_Persea_americana_Australia_2017","avo_6","4","Persea americana",-0.321583624127462,-0.31015492830384,-4.78749174278205
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","BQ1","1","Vicia faba",-0.0339015516756813,-0.0454623740767573,-3.40119738166216
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","BQ2","1","Vicia faba",0.245122458032985,0.2537805207761,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUMBI1","1","Vicia faba",-1.72722094809048,-1.66659632627405,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUMBI2","1","Vicia faba",-0.143100843640673,-0.130361817863244,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUMBI3","1","Vicia faba",-1.6094379124341,-1.55537069116382,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUMBI4","1","Vicia faba",0.2537805207761,0.262364264467491,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUMBI5","1","Vicia faba",0.209720530982069,0.218689200964829,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUMBI6","1","Vicia faba",-0.105360515657826,-0.093090423066012,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUSU1","1","Vicia faba",-0.510825623765991,-0.510825623765991,-3.80666248977032
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","CUSU2","10","Vicia faba",-0.143100843640673,-0.156004248476581,-3.40119738166216
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","Q1","10","Vicia faba",-1.86075234071501,-2.10191439753189,-2.89037175789616
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","Q2","10","Vicia faba",-0.973449145714104,-0.944461608840851,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","Q3","10","Vicia faba",-0.862223510603879,-0.836248024200619,-4.49980967033027
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","Q4","10","Vicia faba",-1.66659632627405,-1.66659632627405,-3.80666248977032
+"Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017","Q5","10","Vicia faba",-1.45528723260684,-1.45528723260684,-3.80666248977032
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_02","4","Vaccinium corymbosum",-1.26113121816588,-2.14843441316679,-1.6094379124341
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_03","4","Vaccinium corymbosum",-0.798507696217772,-1.89711998488588,-1.1239300966524
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_06","4","Vaccinium corymbosum",0.032789822822991,-1.20397280432594,-0.265703165733006
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_07","4","Vaccinium corymbosum",-0.356674943938732,-1.33750419695046,-0.771108722029657
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_08","4","Vaccinium corymbosum",0.139761942375159,-0.762140052046897,-0.333144446528538
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_09","4","Vaccinium corymbosum",-0.762140052046897,-1.52939520476056,-1.26113121816588
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_10","4","Vaccinium corymbosum",-0.124052648669979,-0.660357357736954,-0.916290731874155
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_11","4","Vaccinium corymbosum",-0.490206336563255,-1.20397280432594,-1.08618976866955
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_12","4","Vaccinium corymbosum",0.318453731118535,-0.105360515657826,-0.644357016390513
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_13","4","Vaccinium corymbosum",-1.26113121816588,-2.14843441316679,-1.6094379124341
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_14","4","Vaccinium corymbosum",-0.510825623765991,-1.04982212449868,-1.29098418131557
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2013","Nich_VTblu_Site_15","4","Vaccinium corymbosum",0.249460859631583,-1.26113121816588,0.032789822822991
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_01","4","Vaccinium corymbosum",-1.22502621352377,-1.93967959930468,-1.81707727721234
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_02","4","Vaccinium corymbosum",-1.18044230691574,-2.16905370036952,-1.57434659262283
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_03","4","Vaccinium corymbosum",-1.07044141170141,-1.44513486114282,-2.10842907855309
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_04","4","Vaccinium corymbosum",-1.23787435600162,-2.12026353620009,-1.66073120682165
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_06","4","Vaccinium corymbosum",-0.7339691750802,-1.96611285637283,-1.02165124753198
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_07","4","Vaccinium corymbosum",-0.356674943938732,-0.948039430188735,-1.1239300966524
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_08","4","Vaccinium corymbosum",-0.932039088842294,-1.4642559025896,-1.74296930505862
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_09","4","Vaccinium corymbosum",-0.762140052046897,-1.17657383013782,-1.74296930505862
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_10","4","Vaccinium corymbosum",-0.564314308716977,-1.01473080468741,-1.51982575374441
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_11","4","Vaccinium corymbosum",-0.524811865740731,-0.916290731874155,-1.56861591791385
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_12","4","Vaccinium corymbosum",-0.830768558435993,-1.30405626288292,-1.7227665977411
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_13","4","Vaccinium corymbosum",-1.42019591279557,-2.38959646998368,-1.79175946922805
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2014","Nich_VTblu_Site_14","4","Vaccinium corymbosum",-0.85566611005772,-1.22502621352377,-1.93967959930468
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_01","4","Vaccinium corymbosum",-1.38629436111989,-1.83258146374831,-2.20727491318972
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_02","4","Vaccinium corymbosum",-0.771108722029657,-2.18480205733766,-0.980829253011726
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_03","4","Vaccinium corymbosum",-1.1239300966524,-1.38629436111989,-2.30258509299405
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_04","4","Vaccinium corymbosum",-1.6094379124341,-2.99573227355399,-1.6094379124341
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_05","4","Vaccinium corymbosum",-1.08618976866955,-2.18480205733766,-1.38629436111989
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_06","4","Vaccinium corymbosum",-0.644357016390513,-1.67397643357167,-1.01473080468741
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_07","4","Vaccinium corymbosum",-0.49429632181478,-1.10866262452161,-1.20397280432594
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_08","4","Vaccinium corymbosum",-0.450201001949556,-1.04982212449868,-1.16315080980568
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_09","4","Vaccinium corymbosum",-1.02629162708848,-1.6519975268529,-1.69644928942373
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_10","4","Vaccinium corymbosum",-0.356674943938732,-0.941608539858445,-1.10866262452161
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_11","4","Vaccinium corymbosum",-0.798507696217772,-1.23787435600162,-1.71479842809193
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_12","4","Vaccinium corymbosum",-0.430782916092454,-1.1239300966524,-0.980829253011726
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_13","4","Vaccinium corymbosum",-1.38629436111989,-2.30258509299405,-1.6094379124341
+"Charlie_Nicholson_Vaccinium_corymbosum_USA_2015","Nich_VTblu_Site_14","4","Vaccinium corymbosum",-0.798507696217772,-0.916290731874155,-2.484906649788
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","11","4","Prunus avium",-3.11351530921037,-2.89037175789616,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","12","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","16","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","2","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","20","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","24","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","25","4","Prunus avium",-2.89037175789616,-2.70805020110221,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","26","4","Prunus avium",-3.11351530921037,-2.89037175789616,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","27","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","30","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Christof_Schuepp_Prunus_avium_Switzerland_2011","9","4","Prunus avium",-4.49980967033027,-3.80666248977032,-4.49980967033027
+"Claire_Kremen_Fragaria_ananassa_USA_2012","AR","12","Fragaria x ananassa",0.371563556432483,0.242946178610389,-1.6519975268529
+"Claire_Kremen_Fragaria_ananassa_USA_2012","C","12","Fragaria x ananassa",-0.368651134985448,-0.660357357736954,-1.6519975268529
+"Claire_Kremen_Fragaria_ananassa_USA_2012","CB","12","Fragaria x ananassa",-0.344840486291729,-0.483426649577876,-2.22254238532051
+"Claire_Kremen_Fragaria_ananassa_USA_2012","DS","12","Fragaria x ananassa",-2.07944154167984,-2.01490302054226,-4.78749174278205
+"Claire_Kremen_Fragaria_ananassa_USA_2012","F","5","Fragaria x ananassa",1.07613943281605,1.07897631415125,-4.78749174278205
+"Claire_Kremen_Fragaria_ananassa_USA_2012","FE","12","Fragaria x ananassa",-1.69644928942373,-1.6519975268529,-4.78749174278205
+"Claire_Kremen_Fragaria_ananassa_USA_2012","LE","12","Fragaria x ananassa",-0.443686320928362,-0.430782916092454,-4.78749174278205
+"Claire_Kremen_Fragaria_ananassa_USA_2012","M","12","Fragaria x ananassa",1.15792886582453,1.1605432463986,-4.78749174278205
+"Claire_Kremen_Fragaria_ananassa_USA_2012","RB","12","Fragaria x ananassa",0.182321556793955,0.168335314819215,-3.40119738166216
+"Claire_Kremen_Fragaria_ananassa_USA_2012","RF","12","Fragaria x ananassa",-0.0961438605529023,-0.356674943938732,-1.49165487677772
+"Claire_Kremen_Fragaria_ananassa_USA_2012","RH","12","Fragaria x ananassa",-1.3535045382969,-1.3535045382969,-4.0943445622221
+"Claire_Kremen_Fragaria_ananassa_USA_2012","RK","12","Fragaria x ananassa",-1.6094379124341,-1.56861591791385,-4.78749174278205
+"Claire_Kremen_Fragaria_ananassa_USA_2012","S","12","Fragaria x ananassa",0.0645385211375712,0.0566953436765453,-3.68887945411394
+"Claire_Kremen_Fragaria_ananassa_USA_2012","SH","5","Fragaria x ananassa",-0.333144446528538,-0.660357357736954,-1.52939520476056
+"Claire_Kremen_Fragaria_ananassa_USA_2012","TB","12","Fragaria x ananassa",-2.07944154167984,-2.01490302054226,-4.78749174278205
+"Claire_Kremen_Fragaria_ananassa_USA_2012","UC","12","Fragaria x ananassa",0.545227050483323,0.545227050483323,-4.0943445622221
+"David_Crowder_Brassica_napus_USA_2013","clar1","8","Brassica napus",-2.30258509299405,-3.40119738166216,-2.01490302054226
+"David_Crowder_Brassica_napus_USA_2013","clar2","8","Brassica napus",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","conr1","8","Brassica napus",-1.20397280432594,-1.09861228866811,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","druf1","8","Brassica napus",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","hinn1","8","Brassica napus",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","hinn2","8","Brassica napus",-2.30258509299405,-2.01490302054226,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","jens1","8","Brassica napus",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","odbe1","8","Brassica napus",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","pcfs2","8","Brassica napus",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","stub3","8","Brassica napus",-2.30258509299405,-2.01490302054226,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","stub7","8","Brassica napus",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","UIK","8","Brassica napus",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","UIP","8","Brassica napus",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2013","winf1","8","Brassica napus",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","beck2","8","Brassica napus",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","clar4","8","Brassica napus",-1.79175946922805,-1.6094379124341,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","conr4","8","Brassica napus",-1.6094379124341,-1.45528723260684,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","conr5","8","Brassica napus",-2.01490302054226,-2.01490302054226,-2.70805020110221
+"David_Crowder_Brassica_napus_USA_2014","druf3","8","Brassica napus",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","jens3","8","Brassica napus",-1.09861228866811,-1.00330210886378,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","jens4","8","Brassica napus",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","odbe2","8","Brassica napus",-1.6094379124341,-1.6094379124341,-2.70805020110221
+"David_Crowder_Brassica_napus_USA_2014","olso3","8","Brassica napus",-0.916290731874155,-0.836248024200619,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","UIK2","8","Brassica napus",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"David_Crowder_Brassica_napus_USA_2014","UIP4","8","Brassica napus",-0.628608659422374,-0.567984037605939,-3.40119738166216
+"David_Crowder_Fragaria_ananassa_USA_2016","site_13","5","Fragaria x ananassa",-1.20397280432594,-2.99573227355399,-1.26113121816588
+"David_Crowder_Fragaria_ananassa_USA_2016","site_18","5","Fragaria x ananassa",-1.45528723260684,-2.99573227355399,-1.52939520476056
+"David_Crowder_Fragaria_ananassa_USA_2016","site_23","5","Fragaria x ananassa",-2.70805020110221,-3.40119738166216,-2.70805020110221
+"David_Crowder_Fragaria_ananassa_USA_2016","site_24","5","Fragaria x ananassa",-2.99573227355399,-3.40119738166216,-2.99573227355399
+"David_Crowder_Fragaria_ananassa_USA_2016","site_25","5","Fragaria x ananassa",-1.52939520476056,-4.0943445622221,-1.45528723260684
+"David_Crowder_Fragaria_ananassa_USA_2016","site_26","5","Fragaria x ananassa",-2.99573227355399,-3.40119738166216,-2.99573227355399
+"David_Crowder_Fragaria_ananassa_USA_2016","site_29","5","Fragaria x ananassa",-3.40119738166216,-4.0943445622221,-2.99573227355399
+"David_Crowder_Fragaria_ananassa_USA_2016","site_3","5","Fragaria x ananassa",-1.52939520476056,-3.40119738166216,-1.52939520476056
+"David_Crowder_Fragaria_ananassa_USA_2016","site_30","5","Fragaria x ananassa",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"David_Crowder_Fragaria_ananassa_USA_2016","site_34","5","Fragaria x ananassa",-1.89711998488588,-2.14843441316679,-2.70805020110221
+"David_Crowder_Fragaria_ananassa_USA_2016","site_36","5","Fragaria x ananassa",-1.69644928942373,-3.40119738166216,-1.69644928942373
+"David_Crowder_Fragaria_ananassa_USA_2016","site_5","5","Fragaria x ananassa",-1.6094379124341,-3.40119738166216,-1.6094379124341
+"David_Crowder_Fragaria_ananassa_USA_2016","site_6","5","Fragaria x ananassa",-0.628608659422374,-2.99573227355399,-0.660357357736954
+"David_Crowder_Fragaria_ananassa_USA_2016","site_7","5","Fragaria x ananassa",-2.01490302054226,-4.0943445622221,-1.89711998488588
+"David_Crowder_Fragaria_ananassa_USA_2016","site_8","5","Fragaria x ananassa",-3.40119738166216,-3.40119738166216,-3.40119738166216
+"David_Kleijn_Allium_porrum_Italy_2012","1_Prod_Field","12","Allium porrum",0.8754687373539,0.641853886172395,-0.356674943938732
+"David_Kleijn_Allium_porrum_Italy_2012","1TT","12","Allium porrum",0.916290731874155,0.8754687373539,-1.20397280432594
+"David_Kleijn_Allium_porrum_Italy_2012","2TT","12","Allium porrum",1.43508452528932,0.78845736036427,0.78845736036427
+"David_Kleijn_Allium_porrum_Italy_2012","3TT","12","Allium porrum",-0.510825623765991,-0.356674943938732,-2.30258509299405
+"David_Kleijn_Allium_porrum_Italy_2012","4TT","12","Allium porrum",0.182321556793955,0.182321556793955,-1.6094379124341
+"David_Kleijn_Allium_porrum_Italy_2012","5TT","12","Allium porrum",-1.20397280432594,-1.6094379124341,-1.20397280432594
+"David_Kleijn_Allium_porrum_Italy_2012","6TT","12","Allium porrum",1.1314021114911,0.78845736036427,0.0953101798043249
+"David_Kleijn_Allium_porrum_Italy_2012","7TT","12","Allium porrum",-1.6094379124341,-1.20397280432594,-2.30258509299405
+"David_Kleijn_Allium_porrum_Italy_2012","8TT","12","Allium porrum",0.587786664902119,0,0
+"David_Kleijn_Allium_porrum_Italy_2012","Prod. Bedr.","12","Allium porrum",-0.105360515657826,0,-2.30258509299405
+"Dupont_redclover_Denmark_2008","Braedstrup_2008","4","Trifolium pratense",0.729871013514639,-4.60766706618668,0.734667185778132
+"Dupont_redclover_Denmark_2008","Brushojgard_2008","4","Trifolium pratense",0.91180733329018,-3.71316547999409,0.921563508235545
+"Dupont_redclover_Denmark_2008","Frijsendalsvej, Sall_2008","4","Trifolium pratense",1.31639389684093,-4.31481788498043,1.31997171818882
+"Dupont_redclover_Denmark_2008","Galten_2008","4","Trifolium pratense",0.832943742723285,-5.68028636818902,0.834426322683508
+"Dupont_redclover_Denmark_2008","Gjern, Tingvejen_2008","4","Trifolium pratense",0.98820547191407,-4.54912879510447,0.99213475005396
+"Dupont_redclover_Denmark_2008","Hesselballe_2008","4","Trifolium pratense",1.55929149602977,-4.03541988357207,1.5630020754263
+"Dupont_redclover_Denmark_2008","Odense_2008","4","Trifolium pratense",1.09123773496686,-4.71088064041021,1.09425432850628
+"Dupont_redclover_Denmark_2008","Randers NO Syd_2008","4","Trifolium pratense",0.279668291728227,-5.16706907993808,0.283969373627618
+"Dupont_redclover_Denmark_2008","Skejby_2008","4","Trifolium pratense",0.900108441291049,-4.34163857376859,0.905385498391893
+"Dupont_redclover_Denmark_2008","Vamdrup_2008","4","Trifolium pratense",0.762140052046894,-4.72265688144376,0.766280844712925
+"Dupont_redclover_Denmark_2008","Vester Skerninge, Amarksvej_2008","4","Trifolium pratense",1.40024746362718,-4.83416326209119,1.40220632811251
+"Dupont_redclover_Denmark_2009","Braedstrup_2009","4","Trifolium pratense",-1.59336744240149,-4.72886165833064,-1.5508078279827
+"Dupont_redclover_Denmark_2009","Galten_2009","4","Trifolium pratense",-0.610246660589184,-4.76912974394886,-0.594742474053219
+"Dupont_redclover_Denmark_2009","Gjern, Blak_2009","4","Trifolium pratense",-0.176586186709214,-4.61923744319953,-0.164890146946022
+"Dupont_redclover_Denmark_2009","Gjern, Tingvejen_2009","4","Trifolium pratense",0.124234087480238,-4.52015681166113,0.133803538496389
+"Dupont_redclover_Denmark_2009","Hammel 1_2009","4","Trifolium pratense",0.374111526683789,-5.49518538644999,0.376932403025431
+"Dupont_redclover_Denmark_2009","Hammel 2_2009","4","Trifolium pratense",0.101416181925162,-4.99845024589904,0.107495228001545
+"Dupont_redclover_Denmark_2009","Horning_2009","4","Trifolium pratense",1.09407713350272,-5.49347288132208,1.09545359621144
+"Dupont_redclover_Denmark_2009","Nr. Aaby_2009","4","Trifolium pratense",0.130289898700352,-5.0401940963378,0.135955636236029
+"Dupont_redclover_Denmark_2009","Odense_2009","4","Trifolium pratense",1.01865141740363,-4.91093772598626,1.02130746146175
+"Dupont_redclover_Denmark_2009","Randers NO Nord_2009","4","Trifolium pratense",0.813884012582962,-4.77336464581729,0.817622334693569
+"Dupont_redclover_Denmark_2009","Randers NO Syd_2009","4","Trifolium pratense",0.797822060263592,-4.80059989873478,0.801518922144918
+"Dupont_redclover_Denmark_2009","Randers SO_2009","4","Trifolium pratense",1.03537669931095,-4.94603751194353,1.03789876874366
+"Dupont_redclover_Denmark_2009","Ringe_2009","4","Trifolium pratense",0.950976289862045,-4.84811636459848,0.954002010778582
+"Dupont_redclover_Denmark_2009","Ry_2009","4","Trifolium pratense",0.783936106637677,-4.59596124690278,0.788533815886307
+"Dupont_redclover_Denmark_2009","Skive_2009","4","Trifolium pratense",-0.457068599689838,-4.80087402154352,-0.44416519485393
+"Dupont_redclover_Denmark_2009","Vester Skerninge, Kohavevej_2009","4","Trifolium pratense",0.366869806075235,-5.04030196538488,0.371344086470156
+"Dupont_redclover_Denmark_2009","Viborg_2009","4","Trifolium pratense",-0.422760165514513,-5.09558899997642,-0.4134577728522
+"Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010","Plot_2C_2010_Glebe500_06","2","Malus domestica",-2.99573227355399,-2.59026716544583,-3.68887945411394
+"Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010","Plot_5B_2010_Glebe500_06","2","Malus domestica",-3.84303013394119,-3.55534806148941,-4.9416424226093
+"Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010","Plot_5C_2010_Glebe500_05","2","Malus domestica",-3.17805383034795,-2.99573227355399,-4.78749174278205
+"Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010","Plot_6A_2010_Glebe500_06","2","Malus domestica",-2.70805020110221,-2.59026716544583,-4.78749174278205
+"Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2012","Plot_1B_2012_Glebe500_05","2","Malus domestica",-3.40119738166216,-3.17805383034795,-4.78749174278205
+"Finbarr_G_Horgan_Abelmoschus_esculentus_Philippines_2015","Bukidnon02_dry","1","Abelmoschus esculentus",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Finbarr_G_Horgan_Abelmoschus_esculentus_Philippines_2015","Bukidnon02_wet","1","Abelmoschus esculentus",-3.40119738166216,-2.99573227355399,-4.0943445622221
+"Finbarr_G_Horgan_Abelmoschus_esculentus_Philippines_2015","Iloilo_wet","1","Abelmoschus esculentus",-2.30258509299405,-2.14843441316679,-4.0943445622221
+"Finbarr_G_Horgan_Abelmoschus_esculentus_Philippines_2015","IRRI500_wet","1","Abelmoschus esculentus",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","Bukidnon01_dry","1","Cucumis sativus",-1.04982212449868,-1.00330210886378,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","Bukidnon01_wet","1","Cucumis sativus",-2.484906649788,-2.30258509299405,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","Bukidnon02_dry","1","Cucumis sativus",-2.484906649788,-2.30258509299405,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","Bukidnon02_wet","1","Cucumis sativus",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","Iloilo_wet","1","Cucumis sativus",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","IRRI700_wet","1","Cucumis sativus",-3.40119738166216,-2.99573227355399,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","Tanay_dry","1","Cucumis sativus",-1.20397280432594,-1.14990558305566,-4.0943445622221
+"Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015","Tanay_wet","1","Cucumis sativus",-2.484906649788,-2.30258509299405,-4.0943445622221
+"Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015","Bukidnon01_wet","1","Lagenaria siceraria",-3.40119738166216,-2.99573227355399,-4.0943445622221
+"Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015","Bukidnon02_wet","1","Lagenaria siceraria",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015","Iloilo_wet","1","Lagenaria siceraria",-3.40119738166216,-2.99573227355399,-4.0943445622221
+"Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015","IRRI500_wet","1","Lagenaria siceraria",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015","Tanay_dry","1","Lagenaria siceraria",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Bukidnon01_dry","1","Luffa acutangula",-2.01490302054226,-1.89711998488588,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Bukidnon01_wet","1","Luffa acutangula",-1.09861228866811,-1.04982212449868,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Bukidnon02_dry","1","Luffa acutangula",-1.45528723260684,-1.38629436111989,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Bukidnon02_wet","1","Luffa acutangula",-3.40119738166216,-2.99573227355399,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Iloilo_dry","1","Luffa acutangula",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Iloilo_wet","1","Luffa acutangula",-2.484906649788,-2.30258509299405,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","IRRI500_dry","1","Luffa acutangula",-2.30258509299405,-2.14843441316679,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","IRRI500_wet","1","Luffa acutangula",-2.70805020110221,-2.484906649788,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","IRRI700_dry","1","Luffa acutangula",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","IRRI700_wet","1","Luffa acutangula",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Tanay_dry","1","Luffa acutangula",-1.45528723260684,-1.38629436111989,-4.0943445622221
+"Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015","Tanay_wet","1","Luffa acutangula",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Bukidnon01_dry","1","Momordica charantia",-2.01490302054226,-1.89711998488588,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Bukidnon01_wet","1","Momordica charantia",-1.52939520476056,-1.45528723260684,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Bukidnon02_dry","1","Momordica charantia",-1.79175946922805,-1.69644928942373,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Bukidnon02_wet","1","Momordica charantia",-3.40119738166216,-2.99573227355399,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Iloilo_dry","1","Momordica charantia",-2.70805020110221,-2.484906649788,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Iloilo_wet","1","Momordica charantia",-2.70805020110221,-2.484906649788,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","IRRI500_wet","1","Momordica charantia",-2.30258509299405,-2.14843441316679,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","IRRI700_dry","1","Momordica charantia",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","IRRI700_wet","1","Momordica charantia",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Tanay_dry","1","Momordica charantia",0.262364264467491,0.275103290244921,-4.0943445622221
+"Finbarr_G_Horgan_Momordica_charantia_Philippines_2015","Tanay_wet","1","Momordica charantia",-2.99573227355399,-2.70805020110221,-4.0943445622221
+"Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013","CASTELLANOS","1","Vaccinium meridionale",-1.74296930505862,-4.38202663467388,-1.67397643357167
+"Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013","GONZALEZ","1","Vaccinium meridionale",-0.321583624127462,-0.693147180559945,-1.38629436111989
+"Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013","JIMENEZ","1","Vaccinium meridionale",-0.147920130076622,-1.74296930505862,-0.338975366839331
+"Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013","PENA","1","Vaccinium meridionale",-2.30258509299405,-3.68887945411394,-2.30258509299405
+"Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013","SIERRA","1","Vaccinium meridionale",-1.08618976866955,-2.77258872223978,-1.20397280432594
+"Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005","Biala","4","Fagopyrum esculentum",-3.98898404656427,-3.80666248977032,-5.59842195899838
+"Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005","Branew","4","Fagopyrum esculentum",-3.25809653802148,-3.22530671519849,-6.65929391968364
+"Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005","Kapronie","4","Fagopyrum esculentum",-3.26011878340225,-3.26011878340225,-6.20455776256869
+"Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005","Kolonia Branewska","4","Fagopyrum esculentum",-3.29199808969716,-3.25809653802148,-6.65929391968364
+"Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005","Majdan","4","Fagopyrum esculentum",-2.66359843853138,-2.64209223331041,-6.49223983502047
+"Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005","Wolka Ratajska","4","Fagopyrum esculentum",-3.53472877428668,-3.46573590279973,-6.17378610390194
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","1","4","Brassica napus",-1.20397280432594,-1.6094379124341,-1.79175946922805
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","10","4","Brassica napus",-1.09861228866811,-1.09861228866811,-2.70805020110221
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","11","4","Brassica napus",-0.510825623765991,-0.510825623765991,-2.70805020110221
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","12","4","Brassica napus",-1.00330210886378,-0.916290731874155,-3.40119738166216
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","13","4","Brassica napus",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","14","4","Brassica napus",-1.45528723260684,-1.32175583998232,-3.40119738166216
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","15","4","Brassica napus",-0.836248024200619,-1.00330210886378,-2.01490302054226
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","2","4","Brassica napus",-1.09861228866811,-1.20397280432594,-2.30258509299405
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","3","4","Brassica napus",-0.762140052046897,-0.693147180559945,-3.40119738166216
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","4","4","Brassica napus",-1.32175583998232,-1.20397280432594,-3.40119738166216
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","5","4","Brassica napus",-1.45528723260684,-1.45528723260684,-2.70805020110221
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","6","4","Brassica napus",-0.265703165733006,-0.567984037605939,-1.32175583998232
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","7","4","Brassica napus",-0.693147180559945,-0.762140052046897,-2.30258509299405
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","8","4","Brassica napus",-1.00330210886378,-1.45528723260684,-1.6094379124341
+"Ignasi_Bartomeus_Brassica_napus_Sweden_2013","9","4","Brassica napus",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Bussloo","4","Brassica napus",-0.538996500732687,-1.04982212449868,-1.32175583998232
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Deventer","4","Brassica napus",-0.405465108108164,-1.52939520476056,-0.727048732235627
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Doetinchem","4","Brassica napus",0.942608040191529,-0.430782916092454,0.667829372575655
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Gelselaar","4","Brassica napus",0.550046336919272,-0.483426649577876,0.139761942375159
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Kloosterhaar","4","Brassica napus",-3.40119738166216,-2.99573227355399,-4.0943445622221
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Lengel","4","Brassica napus",-0.836248024200619,-1.26113121816588,-1.69644928942373
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Lettele","4","Brassica napus",-0.0339015516756813,-0.916290731874155,-0.510825623765991
+"Jeroen_Scheper_Brassica_napus_Netherlands_2011","Schalkhaar","4","Brassica napus",-0.105360515657826,-0.356674943938732,-1.45528723260684
+"Jeroen_Scheper_Brassica_napus_several_countries_2012","Bussloo","4","Brassica napus",-0.244196960512042,-0.265703165733006,-2.99573227355399
+"Jeroen_Scheper_Brassica_napus_several_countries_2012","Doetinchem","4","Brassica napus",-0.8754687373539,-0.958850346292951,-2.70805020110221
+"Jeroen_Scheper_Brassica_napus_several_countries_2012","Gelselaar","4","Brassica napus",-0.202524264111474,-0.22314355131421,-2.99573227355399
+"Jeroen_Scheper_Brassica_napus_several_countries_2012","Kloosterhaar","4","Brassica napus",0.168335314819215,0.139761942375159,-2.70805020110221
+"Jeroen_Scheper_Brassica_napus_several_countries_2012","Lengel","4","Brassica napus",-0.836248024200619,-1.38629436111989,-1.52939520476056
+"Jeroen_Scheper_Brassica_napus_several_countries_2012","Schalkhaar","4","Brassica napus",-0.693147180559945,-0.836248024200619,-2.30258509299405
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C02","7","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C07","7","Coffea arabica",-2.07944154167984,-1.89711998488588,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C08","2","Coffea arabica",-2.59026716544583,-2.30258509299405,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C09","7","Coffea arabica",-2.07944154167984,-2.30258509299405,-2.59026716544583
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C14","7","Coffea arabica",-2.30258509299405,-2.07944154167984,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C17","2","Coffea arabica",-2.59026716544583,-2.59026716544583,-2.99573227355399
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C18","2","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","C19","2","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O01","2","Coffea arabica",-2.99573227355399,-2.59026716544583,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O03","7","Coffea arabica",-2.99573227355399,-2.59026716544583,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O04","7","Coffea arabica",-3.68887945411394,-3.68887945411394,-2.99573227355399
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O06","7","Coffea arabica",-2.99573227355399,-2.59026716544583,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O08","7","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O09","7","Coffea arabica",-2.59026716544583,-2.30258509299405,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O12","7","Coffea arabica",-2.99573227355399,-3.68887945411394,-2.59026716544583
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O14","7","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2013","O18","2","Coffea arabica",-2.59026716544583,-2.30258509299405,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","C03","7","Coffea arabica",-1.6094379124341,-1.74296930505862,-2.59026716544583
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","C04","7","Coffea arabica",-2.59026716544583,-2.99573227355399,-2.59026716544583
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","C07","7","Coffea arabica",-1.89711998488588,-1.89711998488588,-2.99573227355399
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","C09","7","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","C17","2","Coffea arabica",-2.59026716544583,-2.99573227355399,-2.59026716544583
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","O01","2","Coffea arabica",-2.99573227355399,-2.59026716544583,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","O03","7","Coffea arabica",-2.99573227355399,-2.99573227355399,-2.99573227355399
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","O04","7","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","O07","7","Coffea arabica",-1.6094379124341,-1.49165487677772,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","O08","7","Coffea arabica",-2.99573227355399,-2.59026716544583,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","O09","7","Coffea arabica",-3.68887945411394,-2.99573227355399,-3.68887945411394
+"Juliana_Hipolito_Coffea_arabica_Brazil_2014","O14","7","Coffea arabica",-2.99573227355399,-2.99573227355399,-2.99573227355399
+"Juliana_Hipolito_Mangifera_indica_Brazil_2005","1","2","Mangifera indica",-6.35610766069589,-6.17378610390194,-7.96554557312999
+"Juliana_Hipolito_Mangifera_indica_Brazil_2005","2","2","Mangifera indica",-6.5792512120101,-6.17378610390194,-7.27239839257005
+"Juliana_Hipolito_Mangifera_indica_Brazil_2005","3","2","Mangifera indica",-5.07517381523383,-4.969813299576,-7.27239839257005
+"Juliana_Hipolito_Mangifera_indica_Brazil_2005","4","2","Mangifera indica",-6.17378610390194,-5.88610403145016,-7.27239839257005
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.IAJ.C","4","Malus domestica",-2.10006082888257,-3.60413822565885,-2.21784386453896
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.IAJ.E","4","Malus domestica",-2.12963128620369,-2.88340308858007,-2.56494935746154
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.LHO.C","4","Malus domestica",-1.55462967593911,-1.69773051957978,-3.16406758837321
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.LHO.E","4","Malus domestica",-2.09898613775281,-2.55851846713125,-2.84620053958303
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.LWO.C","4","Malus domestica",-2.68102152871429,-4.98360662170834,-2.58571134890997
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.LWO.E","4","Malus domestica",-2.27555642060613,-2.58571134890997,-3.19184715248028
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.MFO.C","4","Malus domestica",-2.69462718077007,-3.20545280453606,-3.20545280453606
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","c.MFO.E","4","Malus domestica",-2.32378730064465,-2.76562005292369,-3.01693448120459
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.BAF.C","4","Malus domestica",-0.906721280858004,-1.90355087521617,-1.33020489446885
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.BAF.E","4","Malus domestica",-0.950370045527018,-2.08980432871538,-1.29756624551121
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.IAJ.C","4","Malus domestica",-1.91787092899092,-2.17380430312812,-3.15463355613985
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.IAJ.E","4","Malus domestica",-1.53611675052089,-1.86332966172931,-2.65825953659919
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.LIA.C","4","Malus domestica",-1.57151867757181,-2.62466859216316,-1.93152141160321
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.LIA.E","4","Malus domestica",-1.46633706879343,-2.04170121369699,-2.20204386377217
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.TAF.C","4","Malus domestica",-1.65706596142335,-1.96944064646551,-2.80568867066613
+"Katherine_LW_Burns_Malus_domestica_Ireland_2018","d.TAF.E","4","Malus domestica",-1.92181259747625,-2.14495614879046,-3.24356843745857
+"Katherine_LW_Burns_Vicia_faba_Ireland_2018","BDF.18.C","4","Vicia faba",-3.40119738166216,-5.01063529409626,-3.2188758248682
+"Katherine_LW_Burns_Vicia_faba_Ireland_2018","BDF.18.E","4","Vicia faba",-3.06472514504094,-5.01063529409626,-2.93119375241642
+"Katherine_LW_Burns_Vicia_faba_Ireland_2019","JGF.19.C","4","Vicia faba",-2.84158159372673,-5.48063892334199,-2.77258872223978
+"Katherine_LW_Burns_Vicia_faba_Ireland_2019","KSF.19.C","4","Vicia faba",-3.53472877428668,-5.48063892334199,-3.40119738166216
+"Katherine_LW_Burns_Vicia_faba_Ireland_2019","KSF.19.E","4","Vicia faba",-3.87120101090789,-5.48063892334199,-3.68887945411394
+"Katherine_LW_Burns_Vicia_faba_Ireland_2019","NGF.19.C","4","Vicia faba",-2.07944154167984,-5.48063892334199,-2.04665171885684
+"Katherine_LW_Burns_Vicia_faba_Ireland_2019","NGF.19.E","4","Vicia faba",-2.30258509299405,-5.48063892334199,-2.26176309847379
+"Katherine_LW_Burns_Vicia_faba_Ireland_2019","SBF.19.C","4","Vicia faba",-3.28341434600577,-5.48063892334199,-3.17805383034795
+"Katherine_LW_Burns_Vicia_faba_Ireland_2019","SBF.19.E","4","Vicia faba",-2.84158159372673,-5.48063892334199,-2.77258872223978
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","1","4","Malus domestica",-2.82583323675859,-2.60268968544438,-4.21212759787848
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","10","4","Malus domestica",0.700706611806761,0.688801709300443,-3.04289774199642
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","13","4","Malus domestica",-1.36827585561721,-1.4860588912736,-2.87235325239349
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","14","4","Malus domestica",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","2","4","Malus domestica",-2.01490302054226,-1.89711998488588,-4.0943445622221
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","3","4","Malus domestica",-2.01490302054226,-2.01490302054226,-3.62434093297637
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","4","4","Malus domestica",-1.91959284073794,-2.01490302054226,-3.2188758248682
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","5","4","Malus domestica",-0.201164644595434,-0.201164644595434,-3.74212396863275
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","6","4","Malus domestica",-2.23804657185647,-2.42036812865043,-2.93119375241642
+"Leah_Blechschmidt_Malus_domestica_Canada_2018","8","4","Malus domestica",-1.91959284073794,-1.83258146374831,-4.31748811353631
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","1","4","Malus domestica",-0.313189831998994,-0.313189831998994,-3.47019025314911
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","10","4","Malus domestica",1.04220056144116,0.843435535922091,-0.624648258206278
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","11","4","Malus domestica",-0.916290731874155,-0.95265837604503,-3.14988295338125
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","12","4","Malus domestica",-0.944461608840851,-0.944461608840851,-3.29583686600433
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","13","4","Malus domestica",-4.0943445622221,-3.40119738166216,-4.0943445622221
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","14","4","Malus domestica",-1.72722094809048,-1.72722094809048,-3.51898041731854
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","2","4","Malus domestica",-0.853489830635125,-0.897941593205959,-2.89037175789616
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","4","4","Malus domestica",-1.11881499598563,-1.45528723260684,-2.08389589202922
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","5","4","Malus domestica",-0.174353387144778,-0.27443684570176,-2.23804657185647
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","7","4","Malus domestica",-0.425667815425684,-0.579818495252942,-2.12026353620009
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","8","4","Malus domestica",-2.42036812865043,-2.26621744882317,-4.21212759787848
+"Leah_Blechschmidt_Malus_domestica_Canada_2019","9","4","Malus domestica",-3.11351530921037,-3.80666248977032,-2.70805020110221
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S1","4","Brassica napus",-2.66722820658195,-2.95491027903374,-3.71705033108063
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S10","4","Brassica napus",-2.57191802677763,-2.61843804241252,-4.56434819146784
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S11","4","Brassica napus",-1.50407739677627,-1.50407739677627,-4.969813299576
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S12","4","Brassica napus",-1.05779029414785,-1.14117190308691,-3.3603753871419
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S13","4","Brassica napus",-1.7509374747078,-1.73113484741162,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S14","4","Brassica napus",-2.95491027903374,-2.95491027903374,-4.969813299576
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S15","4","Brassica napus",-2.5274662642068,-2.5274662642068,-4.969813299576
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S16","4","Brassica napus",-5.66296048013595,-4.969813299576,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S17","4","Brassica napus",-2.61843804241252,-2.57191802677763,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S18","4","Brassica napus",-2.95491027903374,-2.95491027903374,-4.969813299576
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S2","4","Brassica napus",-1.33222713984961,-1.31915505828226,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S3","4","Brassica napus",-1.81281287842589,-1.79175946922805,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S4","4","Brassica napus",-2.89037175789616,-2.82974713607973,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S5","4","Brassica napus",-2.66722820658195,-2.61843804241252,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S6","4","Brassica napus",-2.40486394211446,-2.36712361413162,-5.66296048013595
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S7","4","Brassica napus",-2.89037175789616,-2.95491027903374,-4.56434819146784
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S8","4","Brassica napus",-2.2289732756508,-2.2289732756508,-4.969813299576
+"Louis_Sutter_Brassica_napus_Switzerland_2014","S9","4","Brassica napus",-2.29566465014947,-2.26176309847379,-5.66296048013595
+"Marcos_Minarro_Malus_domestica_Spain_2015","Bus06","4","Malus domestica",-1.54489939129653,-1.48427476948009,-4.31748811353631
+"Marcos_Minarro_Malus_domestica_Spain_2015","Cal17","4","Malus domestica",-1.91959284073794,-1.83258146374831,-4.31748811353631
+"Marcos_Minarro_Malus_domestica_Spain_2015","Cam07","4","Malus domestica",-2.37143511754125,-2.37143511754125,-3.62434093297637
+"Marcos_Minarro_Malus_domestica_Spain_2015","Cay09","4","Malus domestica",-1.37304913436987,-1.83258146374831,-2.12026353620009
+"Marcos_Minarro_Malus_domestica_Spain_2015","Cey08","4","Malus domestica",-0.22312688478643,-0.257027861759212,-2.93119375241642
+"Marcos_Minarro_Malus_domestica_Spain_2015","Col13","4","Malus domestica",-1.75253875607477,-1.75253875607477,-3.62434093297637
+"Marcos_Minarro_Malus_domestica_Spain_2015","Gai04","4","Malus domestica",-1.27296567581289,-1.32175583998232,-3.2188758248682
+"Marcos_Minarro_Malus_domestica_Spain_2015","Lav16","4","Malus domestica",-1.02165124753198,-1.13943428318836,-2.70805020110221
+"Marcos_Minarro_Malus_domestica_Spain_2015","Mas12","4","Malus domestica",-1.54489939129653,-1.6094379124341,-3.2188758248682
+"Marcos_Minarro_Malus_domestica_Spain_2015","Mun24","4","Malus domestica",-2.93119375241642,-3.2188758248682,-3.2188758248682
+"Marcos_Minarro_Malus_domestica_Spain_2015","Nor22","4","Malus domestica",-0.762140052046897,-0.851752210736584,-2.70805020110221
+"Marcos_Minarro_Malus_domestica_Spain_2015","Obi23","4","Malus domestica",-0.851752210736584,-1.37304913436987,-1.6094379124341
+"Marcos_Minarro_Malus_domestica_Spain_2015","Pan21","4","Malus domestica",-1.18199389760716,-1.32175583998232,-2.70805020110221
+"Marcos_Minarro_Malus_domestica_Spain_2015","Por10","4","Malus domestica",-1.22640020666557,-1.22640020666557,-3.62434093297637
+"Marcos_Minarro_Malus_domestica_Spain_2015","Que19","4","Malus domestica",-1.42711635564015,-1.48427476948009,-3.2188758248682
+"Marcos_Minarro_Malus_domestica_Spain_2015","Qui15","4","Malus domestica",-1.13943428318836,-1.37304913436987,-2.371577964481
+"Marcos_Minarro_Malus_domestica_Spain_2015","Ria02","4","Malus domestica",-2.12026353620009,-2.12026353620009,-3.62434093297637
+"Marcos_Minarro_Malus_domestica_Spain_2015","Sal20","4","Malus domestica",-0.603891656885537,-1.0216142111808,-1.54489939129653
+"Marcos_Minarro_Malus_domestica_Spain_2015","San18","4","Malus domestica",-1.83258146374831,-1.83258146374831,-3.62434093297637
+"Marcos_Minarro_Malus_domestica_Spain_2015","Sel01","4","Malus domestica",0.345932112473227,-0.027056070023505,-0.762140052046897
+"Marcos_Minarro_Malus_domestica_Spain_2015","Sor05","4","Malus domestica",-1.54489939129653,-1.54489939129653,-3.62434093297637
+"Marcos_Minarro_Malus_domestica_Spain_2015","Tin25","4","Malus domestica",-1.27296567581289,-1.37304913436987,-2.93119375241642
+"Marcos_Minarro_Malus_domestica_Spain_2015","Tor03","4","Malus domestica",-2.01490302054226,-1.91959284073794,-4.31748811353631
+"Marcos_Minarro_Malus_domestica_Spain_2015","Val14","4","Malus domestica",-0.7339691750802,-0.82098055206983,-2.70805020110221
+"Marcos_Minarro_Malus_domestica_Spain_2015","Ver11","4","Malus domestica",-0.851439759554539,-0.949847515402998,-2.70805020110221
+"Nicolas_J_Vereecken_Brassica_napus_Belgium_2019","Flemalle","4","Brassica napus",-1.28093384546206,-3.03347260153684,-1.45528723260684
+"Nicolas_J_Vereecken_Brassica_napus_Belgium_2019","Freres_Delvaux","4","Brassica napus",-2.92427330957185,-3.15607492362917,-4.21212759787848
+"Nicolas_J_Vereecken_Brassica_napus_Belgium_2019","Pirmez","4","Brassica napus",-1.97408102602201,-2.484906649788,-2.82583323675859
+"Nicolas_J_Vereecken_Brassica_napus_Belgium_2019","Schiepers","4","Brassica napus",-2.13268605619865,-3.40119738166216,-2.42036812865043
+"Nicolas_J_Vereecken_Brassica_napus_France_2016","Villebrun-Colza","4","Brassica napus",-2.68743091389947,-4.969813299576,-2.77258872223978
+"Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019","Coin_des_Champs","4","Fragaria x ananassa",-2.028889262517,-2.53036902386476,-2.89037175789616
+"Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019","Ferme_du_Chateau","4","Fragaria x ananassa",-2.99573227355399,-3.03347260153684,-5.19295685089021
+"Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019","Fruits_du_Verger","4","Fragaria x ananassa",-1.26768861871204,-6.29156913955832,-1.26113121816588
+"Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019","Val-Notre-Dame","4","Fragaria x ananassa",-2.62800749342867,-3.34713016039188,-3.2005266862
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Ballat","4","Malus domestica",-3.11351530921037,-3.2470467018349,-4.68213122712422
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Bianca 18O","4","Malus domestica",-2.99573227355399,-3.11351530921037,-4.68213122712422
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Bianca 20C","4","Malus domestica",-2.82583323675859,-4.34565899050301,-2.99573227355399
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Bianca 21C","4","Malus domestica",-4.21212759787848,-6.29156913955832,-4.0943445622221
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Bianca 21O","4","Malus domestica",-3.65251180994306,-4.68213122712422,-3.89367386675995
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Gasi_malus_2019","4","Malus domestica",-0.6216882165778,-0.840530685992619,-2.2140316956526
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Laduron","4","Malus domestica",-1.02887895065343,-1.10978558926623,-3.4583557955021
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Pommeraie_2019","4","Malus domestica",-1.58203893824599,-1.848917883068,-2.95936462938312
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Vergers de Barry","4","Malus domestica",-3.34713016039188,-3.4583557955021,-4.90527477843843
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Vergers de Brunehaut","4","Malus domestica",-1.09861228866811,-2.26621744882317,-1.45528723260684
+"Nicolas_J_Vereecken_Malus_domestica_Belgium_2019","Vergers de la Vallee","4","Malus domestica",-0.594475653052916,-0.920931111430657,-1.848917883068
+"Nicolas_J_Vereecken_Malus_domestica_France_2016","Villebrun-Verger","4","Malus domestica",-2.68743091389947,-4.969813299576,-2.77258872223978
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Bois de la Borde","4","Malus domestica",-2.46292774306922,-3.58351893845611,-2.79506157809184
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Dampleux","4","Malus domestica",-1.48754809482506,-2.42036812865043,-1.96083579927199
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Ferme de Canon","4","Malus domestica",-1.4793847841859,-2.01490302054226,-2.3212772260062
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Fontenay","4","Malus domestica",-1.64717824041695,-2.08687652016735,-2.62800749342867
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Innenheim","4","Malus domestica",-1.69644928942373,-2.16443475451323,-2.62800749342867
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Jeunes de la Motte","4","Malus domestica",-2.14843441316679,-3.58351893845611,-2.37954613413017
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Le Plessis","4","Malus domestica",-2.08687652016735,-2.79506157809184,-2.70805020110221
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Maillebois","4","Malus domestica",-1.17357532714156,-1.43175673519665,-2.60268968544438
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","SCA de la Plesse","4","Malus domestica",-1.61874030509641,-3.34713016039188,-1.79175946922805
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","SCA de Vauleard","4","Malus domestica",-1.87272853176172,-3.29583686600433,-2.11718186966268
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Tilly","4","Malus domestica",-1.51244564644679,-2.05746263496106,-2.34032542097689
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Traenheim","4","Malus domestica",-2.24851787172377,-2.79506157809184,-3.03347260153684
+"Nicolas_J_Vereecken_Malus_domestica_France_2019","Vergers Ohey","4","Malus domestica",-1.79175946922805,-2.28423595432585,-2.6806512269141
+"Nicolas_J_Vereecken_Pyrus_communis_Belgium_2019","Gasi_pyrus_2019","4","Pyrus communis",-1.848917883068,-1.97408102602201,-3.80666248977032
+"Nicolas_J_Vereecken_Pyrus_communis_Belgium_2019","Pommeraie_pyrus_2019","4","Pyrus communis",-2.3212772260062,-2.76520861494216,-3.2470467018349
+"Nicolas_J_Vereecken_Rubus_idaeus_Belgium_2017","La Framboiseraie de Redu","4","Rubus idaeus",-3.80666248977032,-5.19295685089021,-3.58351893845611
+"Nicolas_J_Vereecken_Vaccinium_corymbosum_Belgium_2017","Fredandberries","4","Vaccinium corymbosum",-2.70805020110221,-4.49980967033027,-2.70805020110221
+"Nicolas_J_Vereecken_Vaccinium_corymbosum_Belgium_2017","Myrtille de Chardeneux","4","Vaccinium corymbosum",-1.75896964640506,-4.49980967033027,-1.75896964640506
+"Nicolas_J_Vereecken_Vaccinium_corymbosum_Belgium_2017","P'tits Fruits d'Ici","4","Vaccinium corymbosum",-1.4793847841859,-3.40119738166216,-1.6094379124341
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","AB","8","Vaccinium corymbosum",-1.54489939129653,-1.71479842809193,-3.06472514504094
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","AR","8","Vaccinium corymbosum",-2.61274002129789,-2.61274002129789,-4.31748811353631
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","BB","8","Vaccinium corymbosum",-1.79175946922805,-1.75253875607477,-5.01063529409626
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","BBR3","8","Vaccinium corymbosum",-2.61274002129789,-2.52572864430826,-5.01063529409626
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","BBR4","8","Vaccinium corymbosum",-1.96611285637283,-2.06619631492982,-3.62434093297637
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","BBR5","8","Vaccinium corymbosum",-1.79175946922805,-2.06619631492982,-2.93119375241642
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","BM","8","Vaccinium corymbosum",-2.06619631492982,-2.01490302054226,-5.01063529409626
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","BSA","8","Vaccinium corymbosum",-2.06619631492982,-2.01490302054226,-5.01063529409626
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","BSF","8","Vaccinium corymbosum",-2.01490302054226,-2.30258509299405,-3.06472514504094
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","PSE","8","Vaccinium corymbosum",-1.75253875607477,-2.12026353620009,-2.70805020110221
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","PSO","8","Vaccinium corymbosum",-1.48427476948009,-1.67843078392105,-2.93119375241642
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","QM","8","Vaccinium corymbosum",-2.70805020110221,-2.61274002129789,-5.01063529409626
+"Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016","QT","8","Vaccinium corymbosum",-1.83258146374831,-1.87514107816711,-3.91202300542815
+"Rachael_Winfree_Cucumis_melo_USA_2004","bar","4","Cucumis melo",-0.356674943938732,-0.693147180559945,-1.32175583998232
+"Rachael_Winfree_Cucumis_melo_USA_2004","del","4","Cucumis melo",-1.09861228866811,-1.09861228866811,-2.70805020110221
+"Rachael_Winfree_Cucumis_melo_USA_2004","ker","4","Cucumis melo",-2.30258509299405,-3.40119738166216,-2.01490302054226
+"Rachael_Winfree_Cucumis_melo_USA_2004","lee","5","Cucumis melo",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"Rachael_Winfree_Cucumis_melo_USA_2004","lit","4","Cucumis melo",-1.79175946922805,-2.01490302054226,-2.30258509299405
+"Rachael_Winfree_Cucumis_melo_USA_2004","map","4","Cucumis melo",-1.09861228866811,-1.32175583998232,-2.01490302054226
+"Rachael_Winfree_Cucumis_melo_USA_2004","non","4","Cucumis melo",-2.01490302054226,-2.30258509299405,-2.30258509299405
+"Rachael_Winfree_Cucumis_melo_USA_2004","pen","4","Cucumis melo",-2.30258509299405,-2.01490302054226,-3.40119738166216
+"Rachael_Winfree_Cucumis_melo_USA_2004","phi","4","Cucumis melo",-0.628608659422374,-3.40119738166216,-0.567984037605939
+"Rachael_Winfree_Cucumis_melo_USA_2004","ray","4","Cucumis melo",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"Rachael_Winfree_Cucumis_melo_USA_2004","spr","4","Cucumis melo",-0.405465108108164,-1.32175583998232,-0.762140052046897
+"Rachael_Winfree_Cucumis_melo_USA_2004","ter","4","Cucumis melo",-2.01490302054226,-2.70805020110221,-2.01490302054226
+"Rachael_Winfree_Cucumis_melo_USA_2004","tra","4","Cucumis melo",-0.628608659422374,-0.916290731874155,-1.6094379124341
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","aun","4","Solanum lycopersicum",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","bar","4","Solanum lycopersicum",-1.6094379124341,-1.79175946922805,-2.30258509299405
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","che","4","Solanum lycopersicum",-0.836248024200619,-1.32175583998232,-1.45528723260684
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","del","4","Solanum lycopersicum",-2.30258509299405,-2.01490302054226,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","hop","4","Solanum lycopersicum",-0.356674943938732,-0.405465108108164,-2.30258509299405
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","ker","4","Solanum lycopersicum",-1.6094379124341,-1.6094379124341,-2.70805020110221
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","mis","4","Solanum lycopersicum",-1.20397280432594,-1.09861228866811,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","pen","4","Solanum lycopersicum",-1.79175946922805,-1.6094379124341,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","phi","4","Solanum lycopersicum",-2.30258509299405,-2.70805020110221,-2.30258509299405
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","ray","4","Solanum lycopersicum",-2.01490302054226,-2.01490302054226,-2.70805020110221
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","sny","4","Solanum lycopersicum",-0.510825623765991,-0.456758402495715,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","sun","4","Solanum lycopersicum",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","trad","4","Solanum lycopersicum",-1.6094379124341,-1.45528723260684,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","wat","4","Solanum lycopersicum",-2.30258509299405,-2.30258509299405,-2.70805020110221
+"Rachael_Winfree_Solanum_lycopersicum_USA_2004","wil","4","Solanum lycopersicum",-0.567984037605939,-0.567984037605939,-2.70805020110221
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","bar","4","Solanum lycopersicum",-1.32175583998232,-1.79175946922805,-1.79175946922805
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","bra","4","Solanum lycopersicum",-1.09861228866811,-1.32175583998232,-2.01490302054226
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","bri","4","Solanum lycopersicum",-1.20397280432594,-1.6094379124341,-1.79175946922805
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","ker","4","Solanum lycopersicum",-1.6094379124341,-1.45528723260684,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","kim","4","Solanum lycopersicum",-2.30258509299405,-2.30258509299405,-2.70805020110221
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","lee","5","Solanum lycopersicum",-3.40119738166216,-3.40119738166216,-2.70805020110221
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","lit","4","Solanum lycopersicum",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","pen","4","Solanum lycopersicum",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","phi","4","Solanum lycopersicum",-1.6094379124341,-2.01490302054226,-2.01490302054226
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","ray","4","Solanum lycopersicum",-0.567984037605939,-1.79175946922805,-0.762140052046897
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","ter","4","Solanum lycopersicum",-2.30258509299405,-2.01490302054226,-3.40119738166216
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","tra","4","Solanum lycopersicum",-1.45528723260684,-2.01490302054226,-1.79175946922805
+"Rachael_Winfree_Solanum_lycopersicum_USA_2005","wat","4","Solanum lycopersicum",-1.32175583998232,-1.6094379124341,-2.01490302054226
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","AH","5","Vaccinium corymbosum",-5.19295685089021,-4.49980967033027,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","AML","5","Vaccinium corymbosum",-3.40119738166216,-3.58351893845611,-4.0943445622221
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","BER","5","Vaccinium corymbosum",-3.2470467018349,-3.11351530921037,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","DEL","5","Vaccinium corymbosum",-5.19295685089021,-4.49980967033027,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","DEM","5","Vaccinium corymbosum",-2.484906649788,-2.62800749342867,-3.80666248977032
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","DH","5","Vaccinium corymbosum",-2.70805020110221,-2.70805020110221,-4.49980967033027
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","DON","5","Vaccinium corymbosum",-4.0943445622221,-3.80666248977032,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","GLO","5","Vaccinium corymbosum",-1.75896964640506,-1.72722094809048,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","GRA","5","Vaccinium corymbosum",-4.0943445622221,-4.0943445622221,-4.49980967033027
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","LEE","5","Vaccinium corymbosum",-1.86075234071501,-2.01490302054226,-3.40119738166216
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","MAC","5","Vaccinium corymbosum",-2.62800749342867,-4.49980967033027,-2.62800749342867
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","MBR","5","Vaccinium corymbosum",-3.11351530921037,-2.99573227355399,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","MIL","5","Vaccinium corymbosum",-2.10191439753189,-2.55389952127495,-2.89037175789616
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","MOO","5","Vaccinium corymbosum",-1.93486031286873,-2.35974350683399,-2.79506157809184
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","RS","5","Vaccinium corymbosum",-3.2470467018349,-3.2470467018349,-4.49980967033027
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2010","WHA","5","Vaccinium corymbosum",-1.28093384546206,-1.72722094809048,-2.19722457733622
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","AH","5","Vaccinium corymbosum",-2.35974350683399,-2.42036812865043,-4.0943445622221
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","AML","5","Vaccinium corymbosum",-4.0943445622221,-3.80666248977032,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","BER","5","Vaccinium corymbosum",-2.484906649788,-2.42036812865043,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","DEL","5","Vaccinium corymbosum",-4.49980967033027,-4.0943445622221,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","DEM","5","Vaccinium corymbosum",-1.45528723260684,-1.82566102090374,-2.484906649788
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","DH","5","Vaccinium corymbosum",-2.99573227355399,-3.11351530921037,-4.0943445622221
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","DON","5","Vaccinium corymbosum",-2.89037175789616,-2.79506157809184,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","GLO","5","Vaccinium corymbosum",-2.10191439753189,-2.05746263496106,-5.19295685089021
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","GRA","5","Vaccinium corymbosum",-2.55389952127495,-2.62800749342867,-4.0943445622221
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","LEE","5","Vaccinium corymbosum",-1.24171313230878,-1.32175583998232,-3.40119738166216
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","MAC","5","Vaccinium corymbosum",-1.50407739677627,-2.10191439753189,-2.19722457733622
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","MBR","5","Vaccinium corymbosum",-3.58351893845611,-3.58351893845611,-4.49980967033027
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","MIL","5","Vaccinium corymbosum",-1.26113121816588,-1.45528723260684,-2.79506157809184
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","MOO","5","Vaccinium corymbosum",-1.06582246584512,-1.38629436111989,-2.24851787172377
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","RS","5","Vaccinium corymbosum",-3.40119738166216,-3.40119738166216,-4.49980967033027
+"Rachael_Winfree_Vaccinium_corymbosum_USA_2011","WHA","5","Vaccinium corymbosum",-1.36431545440112,-1.89711998488588,-2.14843441316679
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","BU","5","Vaccinium macrocarpon",-0.992002553609851,-2.14843441316679,-1.33750419695046
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","HC","5","Vaccinium macrocarpon",-0.780158557549575,-1.52939520476056,-1.38629436111989
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","HN","5","Vaccinium macrocarpon",-0.992002553609851,-1.95427839872583,-1.43758765550744
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","HP","5","Vaccinium macrocarpon",-1.09861228866811,-2.18480205733766,-1.47330573810952
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","HR","5","Vaccinium macrocarpon",-1.49165487677772,-2.11334309335552,-2.18480205733766
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","HS","5","Vaccinium macrocarpon",-2.04665171885684,-3.53472877428668,-2.22254238532051
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","HU","5","Vaccinium macrocarpon",-1.51034700978987,-2.07944154167984,-2.26176309847379
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","JE","5","Vaccinium macrocarpon",-0.948039430188735,-2.70805020110221,-1.11119107087497
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","JN","5","Vaccinium macrocarpon",-1.81707727721234,-2.91568956588045,-2.14843441316679
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","JW","5","Vaccinium macrocarpon",-1.40310147943627,-2.84158159372673,-1.63049132163193
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","LC","5","Vaccinium macrocarpon",-0.660357357736954,-1.92529086185258,-0.969779416825141
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","LE","5","Vaccinium macrocarpon",-2.01490302054226,-3.87120101090789,-2.11334309335552
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","MO","5","Vaccinium macrocarpon",-1.13683350148831,-2.84158159372673,-1.30625165344635
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","TH","5","Vaccinium macrocarpon",-0.905927944838609,-2.26176309847379,-1.17657383013782
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","UC","5","Vaccinium macrocarpon",-0.575364144903562,-1.92529086185258,-0.85566611005772
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2009","WH","5","Vaccinium macrocarpon",-1.32175583998232,-1.6094379124341,-2.59026716544583
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","BU","5","Vaccinium macrocarpon",-0.405465108108164,-2.11334309335552,-0.590289795120237
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","HC","5","Vaccinium macrocarpon",-0.59783700075562,-1.26113121816588,-1.29098418131557
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","HN","5","Vaccinium macrocarpon",-0.753251104629651,-1.63049132163193,-1.26113121816588
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","HP","5","Vaccinium macrocarpon",-0.916290731874155,-2.59026716544583,-1.09861228866811
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","HR","5","Vaccinium macrocarpon",-0.8754687373539,-1.95427839872583,-1.26113121816588
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","HS","5","Vaccinium macrocarpon",-2.01490302054226,-2.77258872223978,-2.53619994417555
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","HU","5","Vaccinium macrocarpon",-1.24653241874473,-2.64742557928578,-1.49165487677772
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","JE","5","Vaccinium macrocarpon",-0.503905180921417,-2.99573227355399,-0.575364144903562
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","JN","5","Vaccinium macrocarpon",-1.43758765550744,-3.28341434600577,-1.56861591791385
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","JW","5","Vaccinium macrocarpon",-0.926762031741451,-2.91568956588045,-1.04982212449868
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","LC","5","Vaccinium macrocarpon",-0.31015492830384,-2.18480205733766,-0.463359086527067
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","LE","5","Vaccinium macrocarpon",-2.01490302054226,-2.84158159372673,-2.484906649788
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","MO","5","Vaccinium macrocarpon",-0.124052648669979,-0.926762031741451,-0.701515430230462
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","TH","5","Vaccinium macrocarpon",-1.20397280432594,-1.86972101069777,-1.86972101069777
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","UC","5","Vaccinium macrocarpon",-0.374693449441411,-1.26113121816588,-0.885519073207401
+"Rachael_Winfree_Vaccinium_macrocarpon_USA_2010","WH","5","Vaccinium macrocarpon",-0.905927944838609,-3.40119738166216,-0.969779416825141
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","A1","7","Helianthus annuus",-0.738267615840415,-0.723000143709627,-4.91265488573605
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","A2","7","Helianthus annuus",-0.470003629245736,-0.454736157114947,-4.64439089914137
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","A3","7","Helianthus annuus",-1.49664241828876,-1.46385259546577,-4.89783979995091
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","A4","7","Helianthus annuus",-3.14988295338125,-2.99573227355399,-4.9416424226093
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","A5","7","Helianthus annuus",-2.14006616349627,-2.06002345582273,-4.62497281328427
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","N1","7","Helianthus annuus",-0.311939050097341,-0.303050102680095,-5.03043792139244
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","N2","7","Helianthus annuus",-1.16017018166754,-1.13663968425735,-4.89783979995091
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","N3","7","Helianthus annuus",-1.51732262352629,-1.47810191037301,-4.7361984483945
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","N4","7","Helianthus annuus",-2.09714111877924,-2.02814824729229,-4.7361984483945
+"Ruan_Veldtman_Helianthus_annuus_South_Africa_2011","N5","7","Helianthus annuus",-1.67637739510921,-1.63863706712636,-4.93447393313069
+"Ruan_Veldtman_Malus_domestica_South_Africa_2011","Vredelust Farm  - near","12","Malus domestica",-4.38202663467388,-3.68887945411394,-4.38202663467388
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","1","4","Brassica napus",-1.16315080980568,-1.49165487677772,-2.18480205733766
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","10","4","Brassica napus",-1.20397280432594,-1.54881329061767,-2.18480205733766
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","11","4","Brassica napus",-1.01473080468741,-2.77258872223978,-1.1239300966524
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","12","4","Brassica napus",-0.238891908282349,-2.07944154167984,-0.374693449441411
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","13","4","Brassica napus",-1.6094379124341,-1.54881329061767,-4.38202663467388
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","14","4","Brassica napus",-1.98413136187551,-2.07944154167984,-3.28341434600577
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","15","4","Brassica napus",-3.28341434600577,-2.99573227355399,-4.38202663467388
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","16","4","Brassica napus",-2.59026716544583,-3.28341434600577,-2.77258872223978
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","17","4","Brassica napus",-1.81707727721234,-2.07944154167984,-2.77258872223978
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","18","4","Brassica napus",-2.07944154167984,-1.98413136187551,-4.38202663467388
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","19","4","Brassica napus",-1.81707727721234,-2.07944154167984,-2.77258872223978
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","2","4","Brassica napus",-1.74296930505862,-1.89711998488588,-2.99573227355399
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","20","4","Brassica napus",-3.68887945411394,-3.28341434600577,-4.38202663467388
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","21","4","Brassica napus",-2.07944154167984,-2.18480205733766,-3.28341434600577
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","22","4","Brassica napus",-2.07944154167984,-2.18480205733766,-3.28341434600577
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","23","4","Brassica napus",-2.59026716544583,-2.77258872223978,-3.28341434600577
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","24","4","Brassica napus",-2.43611648561857,-2.43611648561857,-3.68887945411394
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","5","4","Brassica napus",-3.28341434600577,-3.28341434600577,-3.68887945411394
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","6","4","Brassica napus",-1.67397643357167,-2.43611648561857,-2.07944154167984
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","7","4","Brassica napus",-0.575364144903562,-1.98413136187551,-0.798507696217772
+"Sandra_Lindstrom_Brassica_napus_Sweden_2011","8","4","Brassica napus",-2.07944154167984,-2.43611648561857,-2.77258872223978
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","25","4","Brassica napus",-2.81341071676004,-2.99573227355399,-3.50655789731998
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","27","4","Brassica napus",-1.38629436111989,-1.34707364796661,-4.60517018598809
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","28","4","Brassica napus",-2.40794560865187,-2.52572864430826,-3.50655789731998
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","29","4","Brassica napus",-2.40794560865187,-2.40794560865187,-3.91202300542815
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","30","4","Brassica napus",-2.18480205733766,-2.43611648561857,-2.99573227355399
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","31","4","Brassica napus",-2.52572864430826,-2.40794560865187,-4.60517018598809
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","32","4","Brassica napus",-1.51412773262978,-1.51412773262978,-3.91202300542815
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","33","4","Brassica napus",-2.65926003693278,-3.2188758248682,-2.99573227355399
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","34","4","Brassica napus",-2.81341071676004,-2.81341071676004,-3.91202300542815
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","35","4","Brassica napus",-3.91202300542815,-3.50655789731998,-4.60517018598809
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","37","4","Brassica napus",-2.65926003693278,-2.65926003693278,-3.91202300542815
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","38","4","Brassica napus",-2.20727491318972,-2.12026353620009,-4.60517018598809
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","39","4","Brassica napus",-2.65926003693278,-3.2188758248682,-2.99573227355399
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","40","4","Brassica napus",-3.50655789731998,-3.50655789731998,-3.91202300542815
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","41","4","Brassica napus",-4.60517018598809,-3.91202300542815,-4.60517018598809
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","42","4","Brassica napus",-3.91202300542815,-3.50655789731998,-4.60517018598809
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","43","4","Brassica napus",-1.96611285637283,-1.96611285637283,-3.91202300542815
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","44","4","Brassica napus",-2.65926003693278,-2.65926003693278,-3.91202300542815
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","45","4","Brassica napus",-3.91202300542815,-3.50655789731998,-4.60517018598809
+"Sandra_Lindstrom_Brassica_napus_Sweden_2012","46","4","Brassica napus",-1.51412773262978,-1.51412773262978,-3.91202300542815
+"Saul_A_Cunningham_Brassica_napus_Australia_2006","a","4","Brassica napus",1.46668507651574,1.46772837342825,-5.39816270151775
+"Saul_A_Cunningham_Brassica_napus_Australia_2006","b","4","Brassica napus",2.15652128422865,2.15701572181598,-5.4553211153577
+"Saul_A_Cunningham_Brassica_napus_Australia_2006","c","4","Brassica napus",0.776948281964343,0.780158557594447,-4.96284463025991
+"Saul_A_Cunningham_Brassica_napus_Australia_2006","d","4","Brassica napus",0.0820131515820949,0.089856329043736,-4.76217393479776
+"Saul_A_Cunningham_Brassica_napus_Australia_2006","e","4","Brassica napus",-0.623129193575781,-0.619039208324591,-6.12029741895095
+"Saul_A_Cunningham_Brassica_napus_Australia_2006","f","4","Brassica napus",0.366244394954883,0.369572185047558,-5.33753807970132
+"Silvia_Castro_Helianthus_annuus_Spain_2017","AUS-EGI1_2017","12","Helianthus annuus",-4.04305126783455,-3.88890058800729,-5.8348107370626
+"Silvia_Castro_Helianthus_annuus_Spain_2017","AUS-EGI2_2017","12","Helianthus annuus",-3.55216840857203,-3.44680789291421,-5.74939298590825
+"Silvia_Castro_Helianthus_annuus_Spain_2017","AUS-NON1_2017","12","Helianthus annuus",-5.52942908751142,-4.83628190695148,-5.52942908751142
+"Silvia_Castro_Helianthus_annuus_Spain_2017","MEL-EGI1_2017","12","Helianthus annuus",-3.29318785783275,-3.53434991464964,-4.32280727501391
+"Silvia_Castro_Helianthus_annuus_Spain_2017","MEL-NGI1_2017","12","Helianthus annuus",-3.55013971638228,-3.86859344750081,-4.33859707674655
+"Silvia_Castro_Helianthus_annuus_Spain_2017","MEL-NON1_2017","12","Helianthus annuus",-3.57109641845755,-3.82241084673846,-4.38202663467388
+"Silvia_Castro_Helianthus_annuus_Spain_2017","PRE-EGI1_2017","12","Helianthus annuus",-5.01063529409626,-4.60517018598809,-5.7037824746562
+"Silvia_Castro_Helianthus_annuus_Spain_2017","PRE-EGI2_2017","12","Helianthus annuus",-3.50855589998265,-3.41324572017833,-5.8111409929767
+"Silvia_Castro_Helianthus_annuus_Spain_2017","PRE-NON1_2017","12","Helianthus annuus",-4.56781439944432,-4.56781439944432,-4.97327950755249
+"Silvia_Castro_Helianthus_annuus_Spain_2017","RED-EGI1_2017","12","Helianthus annuus",-3.59043938130068,-4.28358656186063,-3.87812145375246
+"Silvia_Castro_Helianthus_annuus_Spain_2017","RED-EGI2_2017","12","Helianthus annuus",-2.84781214347737,-3.05545150825561,-4.01096295328305
+"Silvia_Castro_Helianthus_annuus_Spain_2017","RED-NGI1_2017","12","Helianthus annuus",-4.91510286737469,-4.91510286737469,-5.32056797548286
+"Silvia_Castro_Helianthus_annuus_Spain_2017","RED-NON1_2017","12","Helianthus annuus",-2.99885240089023,-3.13238379351476,-4.38514676201012
+"Silvia_Castro_Helianthus_annuus_Spain_2017","VIL-EGI1_2017","12","Helianthus annuus",-4.00473240353241,-4.00473240353241,-5.25749537202778
+"Silvia_Castro_Helianthus_annuus_Spain_2017","VIL-EGI2_2017","12","Helianthus annuus",-4.31748811353631,-4.13516655674236,-5.92692602597041
+"Silvia_Castro_Helianthus_annuus_Spain_2017","VIL-NGI1_2017","12","Helianthus annuus",-4.36944785246702,-4.14630430115281,-5.75574221358691
+"Silvia_Castro_Helianthus_annuus_Spain_2017","VIL-NON1_2017","12","Helianthus annuus",-4.56694897316789,-4.34380542185368,-5.95324333428778
+"Silvia_Castro_Helianthus_annuus_Spain_2018","AUS-EGI1_2018","12","Helianthus annuus",-3.14845336057165,-3.05314318076733,-5.4510384535657
+"Silvia_Castro_Helianthus_annuus_Spain_2018","AUS-EGI2_2018","12","Helianthus annuus",-4.26619481914876,-4.95934199970871,-4.26619481914876
+"Silvia_Castro_Helianthus_annuus_Spain_2018","AUS-NGI1_2018","12","Helianthus annuus",-4.57213033190989,-4.57213033190989,-5.26527751246984
+"Silvia_Castro_Helianthus_annuus_Spain_2018","AUS-NON1_2018","12","Helianthus annuus",-4.66970870712566,-4.38202663467388,-5.76832099579377
+"Silvia_Castro_Helianthus_annuus_Spain_2018","MEL-EGI1_2018","12","Helianthus annuus",-4.5503619494931,-4.5503619494931,-4.95582705760126
+"Silvia_Castro_Helianthus_annuus_Spain_2018","MEL-NGI1_2018","12","Helianthus annuus",-3.05341138514067,-3.26105074991891,-4.21656219494635
+"Silvia_Castro_Helianthus_annuus_Spain_2018","MEL-NON1_2018","12","Helianthus annuus",-3.93182563272433,-3.93182563272433,-5.18458860121969
+"Silvia_Castro_Helianthus_annuus_Spain_2018","PRE-EGI2_2018","12","Helianthus annuus",-4.19970507787993,-3.91202300542815,-5.29831736654804
+"Silvia_Castro_Helianthus_annuus_Spain_2018","PRE-NGI1_2018","12","Helianthus annuus",-4.16200321069592,-4.16200321069592,-5.07829394257007
+"Silvia_Castro_Helianthus_annuus_Spain_2018","PRE-NON1_2018","12","Helianthus annuus",-5.77144112313002,-5.07829394257007,-5.77144112313002
+"Silvia_Castro_Helianthus_annuus_Spain_2018","RED-EGI1_2018","12","Helianthus annuus",-2.05412373369555,-3.32708940950843,-2.27726728500976
+"Silvia_Castro_Helianthus_annuus_Spain_2018","RED-EGI2_2018","12","Helianthus annuus",-0.744440474947496,-1.99720344344286,-1.06007862466587
+"Silvia_Castro_Helianthus_annuus_Spain_2018","RED-NGI1_2018","12","Helianthus annuus",-1.43345982956232,-3.27173931442527,-1.5800633037542
+"Silvia_Castro_Helianthus_annuus_Spain_2018","RED-NON1_2018","12","Helianthus annuus",-0.877971867572018,-2.4010251658073,-1.10488190168171
+"Silvia_Castro_Helianthus_annuus_Spain_2018","VIL-EGI1_2018","12","Helianthus annuus",-3.84659520010569,-3.84659520010569,-4.9452074887738
+"Silvia_Castro_Helianthus_annuus_Spain_2018","VIL-EGI2_2018","12","Helianthus annuus",-2.9492122579191,-3.26766598903763,-3.73766961828337
+"Silvia_Castro_Helianthus_annuus_Spain_2018","VIL-NGI1_2018","12","Helianthus annuus",-3.04452243772342,-3.11351530921037,-4.65396035015752
+"Silvia_Castro_Helianthus_annuus_Spain_2018","VIL-NON1_2018","12","Helianthus annuus",-3.70745583968687,-3.99513791213865,-4.40060302024682
+"Smitha_Krishnan_Coffea_canephora_India_2007","bal","1","Coffea canephora",-1.22897410653135,-1.21639532432449,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","bas","1","Coffea canephora",-3.40119738166216,-3.29583686600433,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","baso","1","Coffea canephora",-2.10191439753189,-2.05746263496106,-5.19295685089021
+"Smitha_Krishnan_Coffea_canephora_India_2007","be","1","Coffea canephora",-3.58351893845611,-3.40119738166216,-5.19295685089021
+"Smitha_Krishnan_Coffea_canephora_India_2007","chl","1","Coffea canephora",-2.82583323675859,-2.76520861494216,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","chs","1","Coffea canephora",-2.82583323675859,-2.76520861494216,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","devpur","1","Coffea canephora",-0.439366659783846,-0.432493780496084,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2007","dhm","1","Coffea canephora",-1.74827435728832,-1.72722094809048,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","hal","1","Coffea canephora",-1.74827435728832,-1.72722094809048,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","has","1","Coffea canephora",-2.19722457733622,-2.16443475451323,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","kap","1","Coffea canephora",-2.30258509299405,-2.26621744882317,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","kil","1","Coffea canephora",-1.26768861871204,-1.25461653714469,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2007","kis","1","Coffea canephora",-3.11351530921037,-3.03347260153684,-5.59842195899838
+"Smitha_Krishnan_Coffea_canephora_India_2008","bshbck","1","Coffea canephora",-4.02980604108453,-3.80666248977032,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","dha.sulu","1","Coffea canephora",-3.80666248977032,-3.62434093297637,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","hardha","1","Coffea canephora",-3.11351530921037,-3.01820512940605,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","harkas","1","Coffea canephora",-4.31748811353631,-4.02980604108453,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","ichbha","1","Coffea canephora",-1.86075234071501,-1.83258146374831,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","kottageri","1","Coffea canephora",-5.41610040220442,-4.72295322164447,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","kutnan","1","Coffea canephora",-5.41610040220442,-4.72295322164447,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","nal","1","Coffea canephora",-3.2188758248682,-3.11351530921037,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","nit","1","Coffea canephora",-2.52572864430826,-2.47166142303798,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","polche","1","Coffea canephora",-2.77704307258916,-2.70805020110221,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","porpon","1","Coffea canephora",-5.41610040220442,-4.72295322164447,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","titbck","1","Coffea canephora",-4.31748811353631,-4.02980604108453,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","tittat","1","Coffea canephora",-4.31748811353631,-4.02980604108453,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","tshkor","1","Coffea canephora",-4.72295322164447,-4.31748811353631,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2008","tshogr","1","Coffea canephora",-3.80666248977032,-3.62434093297637,-5.41610040220442
+"Smitha_Krishnan_Coffea_canephora_India_2009","armnew","1","Coffea canephora",-2.23804657185647,-2.2133539592661,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","bolnew","1","Coffea canephora",-1.35221504746703,-1.34195854729984,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","deviyynew","1","Coffea canephora",-1.10664446036537,-1.09861228866811,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","devtatnew","1","Coffea canephora",-3.03655426807425,-2.98248704680397,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","hatvannew","1","Coffea canephora",-1.67843078392105,-1.6642461489291,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","kottolinew","1","Coffea canephora",-2.26336437984076,-2.23804657185647,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","maibatnew","1","Coffea canephora",-3.28786869635515,-3.2188758248682,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","maimalnew","1","Coffea canephora",-3.2188758248682,-3.15433730373063,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2009","maimannew","1","Coffea canephora",-4.31748811353631,-4.13516655674236,-5.92692602597041
+"Smitha_Krishnan_Coffea_canephora_India_2014","BBtC conv","1","Coffea canephora",-1.96083579927199,-1.90954250488444,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","BBtC org","1","Coffea canephora",-1.90954250488444,-1.86075234071501,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","BCK","1","Coffea canephora",-2.13268605619865,-2.07206143438221,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","bharath","1","Coffea canephora",-1.40876721697195,-1.37891425382227,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","bopanna","1","Coffea canephora",-3.51898041731854,-3.29583686600433,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","chinappa","1","Coffea canephora",-3.51898041731854,-3.29583686600433,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","karumbaiah","1","Coffea canephora",-1.76978056250928,-1.72722094809048,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","kushal Nt","1","Coffea canephora",-1.40876721697195,-1.37891425382227,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","kushal org","1","Coffea canephora",-3.11351530921037,-2.95936462938312,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","manna","1","Coffea canephora",-4.90527477843843,-4.21212759787848,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","mohan","1","Coffea canephora",-0.685767073262323,-0.67116827384117,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","muthanna","1","Coffea canephora",-3.51898041731854,-3.29583686600433,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","nanda","1","Coffea canephora",-3.80666248977032,-3.51898041731854,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","raja","1","Coffea canephora",-2.50737950564006,-2.42036812865043,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","raju","1","Coffea canephora",-4.90527477843843,-4.21212759787848,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","sannu","1","Coffea canephora",-4.21212759787848,-3.80666248977032,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","skanda Nt","1","Coffea canephora",-3.29583686600433,-3.11351530921037,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","skanda SO","1","Coffea canephora",-3.80666248977032,-3.51898041731854,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","somanna","1","Coffea canephora",-2.82583323675859,-2.70805020110221,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","subaiah","1","Coffea canephora",-2.01490302054226,-1.96083579927199,-4.90527477843843
+"Smitha_Krishnan_Coffea_canephora_India_2014","vasanti","1","Coffea canephora",-0.156004248476581,-0.143100843640673,-4.49980967033027
+"Virginie_Boreux_Coffea_canephora_India_2008","102","1","Coffea canephora",-6.10924758276437,-5.41610040220442,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","124","1","Coffea canephora",-6.39692965521615,-5.7037824746562,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","13","1","Coffea canephora",-2.68824757380603,-2.66882948794893,-6.62007320653036
+"Virginie_Boreux_Coffea_canephora_India_2008","140","1","Coffea canephora",-5.92692602597041,-5.52146091786225,-6.62007320653036
+"Virginie_Boreux_Coffea_canephora_India_2008","16","1","Coffea canephora",-4.60517018598809,-4.45101950616083,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","162","1","Coffea canephora",-5.41610040220442,-5.01063529409626,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","176","1","Coffea canephora",-4.8283137373023,-4.67416305747504,-6.62007320653036
+"Virginie_Boreux_Coffea_canephora_India_2008","18","1","Coffea canephora",-5.7037824746562,-5.29831736654804,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","185","1","Coffea canephora",-6.39692965521615,-5.7037824746562,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","20","1","Coffea canephora",-3.48457899060121,-3.44201937618241,-6.62007320653036
+"Virginie_Boreux_Coffea_canephora_India_2008","216","1","Coffea canephora",-5.41610040220442,-5.01063529409626,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","220","1","Coffea canephora",-6.10924758276437,-5.41610040220442,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","222","1","Coffea canephora",-5.01063529409626,-4.78749174278205,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","245","1","Coffea canephora",-5.01063529409626,-4.72295322164447,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","251","1","Coffea canephora",-5.01063529409626,-4.72295322164447,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","252","1","Coffea canephora",-6.10924758276437,-5.41610040220442,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","255","1","Coffea canephora",-3.11351530921037,-3.06472514504094,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","257","1","Coffea canephora",-4.78749174278205,-4.60517018598809,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","262","1","Coffea canephora",-4.45101950616083,-4.31748811353631,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","263","1","Coffea canephora",-5.7037824746562,-5.29831736654804,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","264","1","Coffea canephora",-5.29831736654804,-5.01063529409626,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","265","1","Coffea canephora",-3.91202300542815,-3.83198029775461,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","268","1","Coffea canephora",-4.31748811353631,-4.23744540586277,-6.80239476332431
+"Virginie_Boreux_Coffea_canephora_India_2008","27","1","Coffea canephora",-3.68887945411394,-3.62434093297637,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","274","1","Coffea canephora",-2.42036812865043,-2.40794560865187,-6.80239476332431
+"Virginie_Boreux_Coffea_canephora_India_2008","276","1","Coffea canephora",-4.16333743370905,-4.02980604108453,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","279","1","Coffea canephora",-3.47019025314911,-3.40119738166216,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","28","1","Coffea canephora",-4.02980604108453,-3.91202300542815,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","280","1","Coffea canephora",-3.27603423870815,-3.2188758248682,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","284","1","Coffea canephora",-2.70805020110221,-2.67526037827922,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","285","1","Coffea canephora",-3.16480860359792,-3.11351530921037,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","286","1","Coffea canephora",-2.89037175789616,-2.85115104474288,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","287","1","Coffea canephora",-4.02980604108453,-3.91202300542815,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","293","1","Coffea canephora",-3.57555076880693,-3.55202027139674,-7.3132203870903
+"Virginie_Boreux_Coffea_canephora_India_2008","296","1","Coffea canephora",-4.8283137373023,-4.67416305747504,-6.62007320653036
+"Virginie_Boreux_Coffea_canephora_India_2008","298","1","Coffea canephora",-2.85115104474288,-2.83210284977219,-6.80239476332431
+"Virginie_Boreux_Coffea_canephora_India_2008","300","1","Coffea canephora",-3.40119738166216,-3.37302650469546,-6.95654544315157
+"Virginie_Boreux_Coffea_canephora_India_2008","302","1","Coffea canephora",-3.17805383034795,-3.13883311719466,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","304","1","Coffea canephora",-6.10924758276437,-5.7037824746562,-6.80239476332431
+"Virginie_Boreux_Coffea_canephora_India_2008","315","1","Coffea canephora",-2.50919934235705,-2.49293882148526,-6.62007320653036
+"Virginie_Boreux_Coffea_canephora_India_2008","325","1","Coffea canephora",-4.31748811353631,-4.16333743370905,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","46","1","Coffea canephora",-5.41610040220442,-5.01063529409626,-6.10924758276437
+"Virginie_Boreux_Coffea_canephora_India_2008","53","1","Coffea canephora",-5.29831736654804,-5.01063529409626,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","54","1","Coffea canephora",-6.39692965521615,-5.7037824746562,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","55","1","Coffea canephora",-5.29831736654804,-5.01063529409626,-6.39692965521615
+"Virginie_Boreux_Coffea_canephora_India_2008","58","1","Coffea canephora",-5.29831736654804,-5.01063529409626,-6.39692965521615
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio1","4","Malus domestica",-2.30258509299405,-2.01490302054226,-3.40119738166216
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio10","4","Malus domestica",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio11","4","Malus domestica",-2.01490302054226,-2.30258509299405,-2.30258509299405
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio12","4","Malus domestica",-2.01490302054226,-2.01490302054226,-2.70805020110221
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio13","4","Malus domestica",-1.79175946922805,-1.79175946922805,-2.70805020110221
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio14","4","Malus domestica",-1.09861228866811,-1.20397280432594,-2.30258509299405
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio15","4","Malus domestica",-0.693147180559945,-1.20397280432594,-1.32175583998232
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio2","4","Malus domestica",-2.01490302054226,-2.01490302054226,-2.70805020110221
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio3","4","Malus domestica",-2.70805020110221,-2.30258509299405,-3.40119738166216
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio4","4","Malus domestica",-1.20397280432594,-1.6094379124341,-1.79175946922805
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio5","4","Malus domestica",-0.762140052046897,-1.20397280432594,-1.45528723260684
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio6","4","Malus domestica",-2.30258509299405,-2.70805020110221,-2.30258509299405
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio7","4","Malus domestica",0.741937344729377,0.569094531889966,-0.916290731874155
+"Virginie_Boreux_Malus_domestica_Germany_2015","bio8","4","Malus domestica",-1.6094379124341,-2.01490302054226,-2.01490302054226
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip1","4","Malus domestica",-1.79175946922805,-2.01490302054226,-2.30258509299405
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip10","4","Malus domestica",-1.79175946922805,-2.01490302054226,-2.30258509299405
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip11","4","Malus domestica",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip12","4","Malus domestica",-0.143100843640673,-1.00330210886378,-0.567984037605939
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip13","4","Malus domestica",0.209720530982069,0.0645385211375712,-1.45528723260684
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip14","4","Malus domestica",-3.40119738166216,-2.70805020110221,-3.40119738166216
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip15","4","Malus domestica",-3.40119738166216,-3.40119738166216,-2.70805020110221
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip3","4","Malus domestica",-2.70805020110221,-2.70805020110221,-2.70805020110221
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip4","4","Malus domestica",0.336472236621213,-1.20397280432594,0.154150679827258
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip6","4","Malus domestica",-2.01490302054226,-1.79175946922805,-3.40119738166216
+"Virginie_Boreux_Malus_domestica_Germany_2015","ip7","4","Malus domestica",-3.40119738166216,-3.40119738166216,-2.70805020110221

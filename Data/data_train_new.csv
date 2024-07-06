@@ -1,0 +1,818 @@
+study_id,site_id,crop,biome_num,management,sampling_year,log_vr_large,log_vr_small,plot_id,log_vr_total
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,Bramlett,Prunus dulcis,12,0,2009,-0.393042588109605,1.0473189942805616,Plot_92,1.2383742310432708
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,Etters,Prunus dulcis,12,0,2009,-2.59026716544582,-0.6443570163905107,Plot_93,-0.6443570163905107
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,Full Belly,Prunus dulcis,12,0,2009,-0.393042588109605,0.04879016416943458,Plot_94,0.5007752879124917
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,Laury,Prunus dulcis,12,0,2009,-1.20397280432593,0.5452270504833255,Plot_95,0.6678293725756579
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,T&P3,Prunus dulcis,12,0,2009,-2.59026716544582,-0.7985076962177691,Plot_102,-0.7985076962177691
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,Taber,Prunus dulcis,8,0,2009,-1.89711998488588,-0.3930425881096047,Plot_103,-0.2876820724517784
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,Tim Mueller 1,Prunus dulcis,12,0,2009,-1.20397280432593,-0.025317807984287392,Plot_104,0.18232155679395717
+Alexandra_Maria_Klein_Prunus_dulcis_USA_2009,Tim Mueller 2,Prunus dulcis,12,0,2009,-2.59026716544582,-0.9808292530117237,Plot_105,-0.9808292530117237
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,COF2,Coffea arabica,1,0,2011-2012,-5.13579843705026,-3.5263605246161616,Plot_106,-3.5263605246161616
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,COF3,Coffea arabica,1,0,2011-2012,-5.13579843705026,-3.3440389678222067,Plot_107,-3.3440389678222067
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,COF4,Coffea arabica,7,0,2011-2012,-5.13579843705026,-5.135798437050262,Plot_108,-5.135798437050262
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,COF5,Coffea arabica,1,0,2011-2012,-5.13579843705026,-4.442651256490317,Plot_109,-4.442651256490317
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,HOM1,Coffea arabica,1,3,2011-2012,-5.13579843705026,-3.1898882879949486,Plot_110,-3.1898882879949486
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,HOM2,Coffea arabica,7,3,2011-2012,-5.13579843705026,-2.6508917872622613,Plot_111,-2.6508917872622613
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,HOM4,Coffea arabica,1,3,2011-2012,-5.13579843705026,-1.3071570405611668,Plot_112,-1.3071570405611668
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,SUN1,Coffea arabica,7,0,2011-2012,-5.13579843705026,-4.442651256490317,Plot_114,-4.442651256490317
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,SUN2,Coffea arabica,1,0,2011-2012,-5.13579843705026,-4.037186148382152,Plot_115,-4.037186148382152
+Alice_Classen_Coffea_arabica_Tanzania_2011_2012,SUN4,Coffea arabica,7,0,2011-2012,-5.13579843705026,-3.7495040759303713,Plot_117,-3.7495040759303713
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_1,Malus domestica,4,0,2019,-3.40119738166216,-2.5902671654458267,Plot_2861,-2.3025850929940455
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_10,Malus domestica,4,0,2019,-4.78749174278205,-3.6888794541139363,Plot_2870,-3.6888794541139363
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_11,Malus domestica,4,0,2019,-2.07944154167984,-1.6094379124341003,Plot_2871,-1.1499055830556604
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_12,Malus domestica,4,0,2019,-2.84158159372673,-2.70805020110221,Plot_2872,-2.1484344131667874
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_13,Malus domestica,4,0,2019,-2.84158159372673,-2.222542385320509,Plot_2873,-1.8430527636156055
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_14,Malus domestica,4,0,2019,-3.40119738166216,-3.6888794541139363,Plot_2874,-2.995732273553991
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_2,Malus domestica,4,0,2019,-2.14843441316679,-3.6888794541139363,Plot_2862,-2.0149030205422647
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_3,Malus domestica,4,0,2019,-1.89711998488588,-2.70805020110221,Plot_2863,-1.5686159179138452
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_4,Malus domestica,4,0,2019,-2.59026716544583,-2.70805020110221,Plot_2864,-2.0149030205422647
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_5,Malus domestica,4,0,2019,-2.99573227355399,-2.995732273553991,Plot_2865,-2.3895964699836756
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_6,Malus domestica,4,0,2019,-2.30258509299405,-3.6888794541139363,Plot_2866,-2.1484344131667874
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_7,Malus domestica,4,0,2019,-3.17805383034795,-3.6888794541139363,Plot_2867,-2.841581593726733
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_8,Malus domestica,4,0,2019,-2.38959646998368,-2.841581593726733,Plot_2868,-1.9542783987258299
+Ariza_etal_apple_Belgium_2019,Ariza_etal_2019_9,Malus domestica,4,0,2019,-3.68887945411394,-2.4849066497880004,Plot_2869,-2.3025850929940455
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_1,Prunus avium,4,0,2019,-2.70805020110221,-2.5902671654458267,Plot_2845,-2.0149030205422647
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_10,Prunus avium,4,0,2019,-3.40119738166216,-2.3025850929940455,Plot_2854,-2.0794415416798357
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_11,Prunus avium,4,0,2019,-4.0943445622221,-2.222542385320509,Plot_2855,-2.1484344131667874
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_12,Prunus avium,4,0,2019,-4.78749174278205,-0.8754687373538999,Plot_2856,-0.8754687373538999
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_13,Prunus avium,4,0,2019,-2.07944154167984,-0.8556661100577202,Plot_2857,-0.6131044728864089
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_14,Prunus avium,4,0,2019,-4.0943445622221,-2.222542385320509,Plot_2858,-2.1484344131667874
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_15,Prunus avium,4,0,2019,-3.40119738166216,-3.6888794541139363,Plot_2859,-2.995732273553991
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_16,Prunus avium,4,0,2019,-2.84158159372673,-2.0794415416798357,Plot_2860,-1.742969305058623
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_2,Prunus avium,4,0,2019,-2.99573227355399,-2.70805020110221,Plot_2846,-2.222542385320509
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_3,Prunus avium,4,0,2019,-2.30258509299405,-1.420195912795572,Plot_2847,-1.0986122886681098
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_4,Prunus avium,4,0,2019,-1.74296930505862,-2.4849066497880004,Plot_2848,-1.3862943611198906
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_5,Prunus avium,4,0,2019,-3.40119738166216,-2.3025850929940455,Plot_2849,-2.0794415416798357
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_6,Prunus avium,4,0,2019,-4.0943445622221,-0.3930425881096072,Plot_2850,-0.38077249551779285
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_7,Prunus avium,4,0,2019,-4.0943445622221,-3.1780538303479458,Plot_2851,-2.995732273553991
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_8,Prunus avium,4,0,2019,-3.68887945411394,-2.995732273553991,Plot_2852,-2.70805020110221
+Ariza_etal_sweetcherry_Belgium_2019,Ariza_etal_2019_9,Prunus avium,4,0,2019,-3.17805383034795,-3.6888794541139363,Plot_2853,-2.841581593726733
+Betina_Blochtein_Brassica_napus_Brazil_2011,L 1 Snitowski,Brassica napus,1,0,2011,-5.59842195899838,-3.8066624897703196,Plot_170,-3.8066624897703196
+Betina_Blochtein_Brassica_napus_Brazil_2011,L 6 Sr. Donadel,Brassica napus,1,0,2011,-5.59842195899838,-3.6525118099430616,Plot_175,-3.6525118099430616
+Betina_Blochtein_Brassica_napus_Brazil_2011,L2 Snitowski,Brassica napus,1,0,2011,-5.59842195899838,-3.1135153092103742,Plot_171,-3.1135153092103742
+Betina_Blochtein_Brassica_napus_Brazil_2011,L3 Karlec,Brassica napus,1,0,2011,-4.90527477843843,-3.1135153092103742,Plot_172,-3.033472601536838
+Betina_Blochtein_Brassica_napus_Brazil_2011,L4 Rupp,Brassica napus,7,0,2011,-5.59842195899838,-2.2662174488231708,Plot_173,-2.2662174488231708
+Betina_Blochtein_Brassica_napus_Brazil_2011,L5 Sr. Rupp,Brassica napus,7,0,2011,-5.59842195899838,-4.212127597878484,Plot_174,-4.212127597878484
+Bryony_Willcox_Macadamia_integrifolia_Australia_2016,mac_3,Macadamia integrifolia,4,0,2016,-4.9416424226093,-4.941642422609305,Plot_254,-4.941642422609305
+Bryony_Willcox_Macadamia_integrifolia_Australia_2016,mac_5,Macadamia integrifolia,4,0,2016,-4.9416424226093,-4.941642422609305,Plot_255,-4.941642422609305
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango10,Mangifera indica,7,0,2016,-5.48063892334199,-3.1780538303479458,Plot_237,-3.1780538303479458
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango2,Mangifera indica,7,0,2016,-5.19295685089021,-3.1135153092103742,Plot_229,-3.1135153092103742
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango3,Mangifera indica,7,0,2016,-5.39362754635236,-3.784189633918261,Plot_230,-3.784189633918261
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango4,Mangifera indica,7,0,2016,-5.29831736654804,-1.1239300966523995,Plot_231,-1.1239300966523995
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango5,Mangifera indica,7,0,2016,-5.07517381523383,-1.1239300966523995,Plot_232,-1.1239300966523995
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango6,Mangifera indica,7,0,2016,-5.88610403145016,-4.787491742782046,Plot_233,-4.787491742782046
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango7,Mangifera indica,1,0,2016,-5.19295685089021,-4.499809670330265,Plot_234,-4.499809670330265
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango8,Mangifera indica,7,0,2016,-5.48063892334199,-0.5461649902112995,Plot_235,-0.5461649902112995
+Bryony_Willcox_Mangifera_indica_Australia_2016,mango9,Mangifera indica,7,0,2016,-5.39362754635236,0.27625337662815813,Plot_236,0.27625337662815813
+Bryony_Willcox_Mangifera_indica_Australia_2016_2,man_1,Mangifera indica,4,0,2016,-4.9416424226093,-2.2335922215070942,Plot_256,-2.2335922215070942
+Bryony_Willcox_Mangifera_indica_Australia_2016_2,man_2,Mangifera indica,4,0,2016,-5.07517381523383,-1.8562979903656263,Plot_257,-1.8562979903656263
+Bryony_Willcox_Mangifera_indica_Australia_2017,man_1,Mangifera indica,4,0,2017,-5.07517381523383,-3.4657359027997265,Plot_263,-3.4657359027997265
+Bryony_Willcox_Mangifera_indica_Australia_2017,man_2,Mangifera indica,4,0,2017,-5.76832099579377,-3.283414346005772,Plot_264,-3.283414346005772
+Bryony_Willcox_Persea_americana_Australia_2015,avo_1,Persea americana,4,0,2015,-5.19295685089021,-4.0943445622221,Plot_238,-4.0943445622221
+Bryony_Willcox_Persea_americana_Australia_2015,avo_10,Persea americana,12,0,2015,-4.78749174278205,-4.787491742782046,Plot_239,-4.787491742782046
+Bryony_Willcox_Persea_americana_Australia_2015,avo_11,Persea americana,8,0,2015,-4.0943445622221,-4.0943445622221,Plot_240,-4.0943445622221
+Bryony_Willcox_Persea_americana_Australia_2015,avo_12,Persea americana,8,0,2015,-4.78749174278205,-4.787491742782046,Plot_241,-4.787491742782046
+Bryony_Willcox_Persea_americana_Australia_2015,avo_2,Persea americana,4,0,2015,-4.78749174278205,-4.787491742782046,Plot_242,-4.787491742782046
+Bryony_Willcox_Persea_americana_Australia_2015,avo_3,Persea americana,4,0,2015,-4.78749174278205,-3.6888794541139363,Plot_243,-3.6888794541139363
+Bryony_Willcox_Persea_americana_Australia_2015,avo_5,Persea americana,4,0,2015,-4.78749174278205,-2.0149030205422647,Plot_244,-2.0149030205422647
+Bryony_Willcox_Persea_americana_Australia_2015,avo_6,Persea americana,4,0,2015,-4.78749174278205,-0.6766178786087348,Plot_245,-0.6766178786087348
+Bryony_Willcox_Persea_americana_Australia_2015,avo_7,Persea americana,4,0,2015,-4.78749174278205,-4.787491742782046,Plot_246,-4.787491742782046
+Bryony_Willcox_Persea_americana_Australia_2015,avo_8,Persea americana,8,0,2015,-3.68887945411394,-3.6888794541139363,Plot_247,-3.6888794541139363
+Bryony_Willcox_Persea_americana_Australia_2015,avo_9,Persea americana,8,0,2015,-4.78749174278205,-4.0943445622221,Plot_248,-4.0943445622221
+Bryony_Willcox_Persea_americana_Australia_2016,avo_1,Persea americana,4,0,2016,-4.9416424226093,-2.456735772821304,Plot_249,-2.456735772821304
+Bryony_Willcox_Persea_americana_Australia_2016,avo_2,Persea americana,4,0,2016,-5.07517381523383,-0.564314308716977,Plot_250,-0.564314308716977
+Bryony_Willcox_Persea_americana_Australia_2016,avo_3,Persea americana,4,0,2016,-5.07517381523383,-3.9765615265657175,Plot_251,-3.9765615265657175
+Bryony_Willcox_Persea_americana_Australia_2016,avo_5,Persea americana,4,0,2016,-4.38202663467388,-2.995732273553991,Plot_252,-2.995732273553991
+Bryony_Willcox_Persea_americana_Australia_2016,avo_6,Persea americana,4,0,2016,-5.07517381523383,0.6646190969454072,Plot_253,0.6646190969454072
+Bryony_Willcox_Persea_americana_Australia_2017,avo_1,Persea americana,4,0,2017,-5.19295685089021,-3.1135153092103742,Plot_258,-3.1135153092103742
+Bryony_Willcox_Persea_americana_Australia_2017,avo_2,Persea americana,4,0,2017,-5.19295685089021,-1.241713132308783,Plot_259,-1.241713132308783
+Bryony_Willcox_Persea_americana_Australia_2017,avo_3,Persea americana,4,0,2017,-5.29831736654804,-3.6888794541139363,Plot_260,-3.6888794541139363
+Bryony_Willcox_Persea_americana_Australia_2017,avo_5,Persea americana,4,0,2017,-5.07517381523383,-0.4023449807719208,Plot_261,-0.4023449807719208
+Bryony_Willcox_Persea_americana_Australia_2017,avo_6,Persea americana,4,0,2017,-4.78749174278205,-0.40546510810816444,Plot_262,-0.40546510810816444
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,BQ1,Vicia faba,1,3,2017,-3.40119738166216,-2.3025850929940455,Plot_2875,-2.1019143975318944
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,BQ2,Vicia faba,1,0,2017,-4.49980967033027,-4.499809670330265,Plot_2881,-4.499809670330265
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUMBI1,Vicia faba,1,0,2017,-4.49980967033027,-4.499809670330265,Plot_2882,-4.499809670330265
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUMBI2,Vicia faba,1,0,2017,-4.49980967033027,-4.499809670330265,Plot_2889,-4.499809670330265
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUMBI3,Vicia faba,1,0,2017,-4.49980967033027,-4.499809670330265,Plot_2883,-4.499809670330265
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUMBI4,Vicia faba,1,0,2017,-4.49980967033027,-3.8066624897703196,Plot_2884,-3.8066624897703196
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUMBI5,Vicia faba,1,0,2017,-4.49980967033027,-2.890371757896165,Plot_2885,-2.890371757896165
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUMBI6,Vicia faba,1,0,2017,-4.49980967033027,-3.8066624897703196,Plot_2886,-3.8066624897703196
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUSU1,Vicia faba,1,0,2017,-3.80666248977032,-2.1019143975318944,Plot_2876,-2.0149030205422647
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,CUSU2,Vicia faba,10,0,2017,-3.40119738166216,-3.4011973816621555,Plot_2877,-2.890371757896165
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,Q1,Vicia faba,10,0,2017,-2.89037175789616,-4.499809670330265,Plot_2878,-2.890371757896165
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,Q2,Vicia faba,10,0,2017,-4.49980967033027,-3.8066624897703196,Plot_2887,-3.8066624897703196
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,Q3,Vicia faba,10,0,2017,-4.49980967033027,-2.5538995212749516,Plot_2888,-2.5538995212749516
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,Q4,Vicia faba,10,0,2017,-3.80666248977032,-4.499809670330265,Plot_2879,-3.8066624897703196
+Carlos_Zaragoza_Trello_Vicia_faba_Ecuador_2017,Q5,Vicia faba,10,0,2017,-3.80666248977032,-4.499809670330265,Plot_2880,-3.8066624897703196
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_02,Vaccinium corymbosum,4,3,2013,-1.6094379124341,-2.1484344131667874,Plot_285,-1.2039728043259361
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_03,Vaccinium corymbosum,4,3,2013,-1.1239300966524,-1.8971199848858813,Plot_288,-0.7711087220296571
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_06,Vaccinium corymbosum,4,3,2013,-0.265703165733006,-1.2039728043259361,Plot_294,0.04879016416943205
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_07,Vaccinium corymbosum,4,3,2013,-0.771108722029657,-1.3375041969504586,Plot_297,-0.33897536683933144
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_08,Vaccinium corymbosum,4,0,2013,-0.333144446528538,-0.7621400520468967,Plot_300,0.15415067982725836
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_09,Vaccinium corymbosum,4,3,2013,-1.26113121816588,-1.529395204760564,Plot_303,-0.7270487322356266
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_10,Vaccinium corymbosum,4,3,2013,-0.916290731874155,-0.6603573577369544,Plot_306,-0.10536051565782628
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_11,Vaccinium corymbosum,4,0,2013,-1.08618976866955,-1.2039728043259361,Plot_309,-0.4700036292457356
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_12,Vaccinium corymbosum,4,0,2013,-0.644357016390513,-0.10536051565782628,Plot_312,0.3364722366212129
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_13,Vaccinium corymbosum,4,0,2013,-1.6094379124341,-2.1484344131667874,Plot_315,-1.2039728043259361
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_14,Vaccinium corymbosum,4,0,2013,-1.29098418131557,-1.0498221244986778,Plot_318,-0.4902063365632549
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2013,Nich_VTblu_Site_15,Vaccinium corymbosum,4,3,2013,0.032789822822991,-1.2611312181658847,Plot_319,0.26236426446749106
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_01,Vaccinium corymbosum,4,3,2014,-1.81707727721234,-1.9396795993046774,Plot_281,-1.2039728043259361
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_02,Vaccinium corymbosum,4,3,2014,-1.57434659262283,-2.169053700369523,Plot_283,-1.157452788691043
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_03,Vaccinium corymbosum,4,3,2014,-2.10842907855309,-1.445134861142824,Plot_286,-1.0498221244986778
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_04,Vaccinium corymbosum,4,0,2014,-1.66073120682165,-2.120263536200091,Plot_289,-1.2039728043259361
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_06,Vaccinium corymbosum,4,3,2014,-1.02165124753198,-1.9661128563728327,Plot_292,-0.7133498878774648
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_07,Vaccinium corymbosum,4,3,2014,-1.1239300966524,-0.9480394301887354,Plot_295,-0.3477859965214863
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_08,Vaccinium corymbosum,4,0,2014,-1.74296930505862,-1.4642559025896025,Plot_298,-0.916290731874155
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_09,Vaccinium corymbosum,4,3,2014,-1.74296930505862,-1.1765738301378215,Plot_301,-0.7444404749474959
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_10,Vaccinium corymbosum,4,3,2014,-1.51982575374441,-1.0147308046874075,Plot_304,-0.5533852381847867
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_11,Vaccinium corymbosum,4,0,2014,-1.56861591791385,-0.916290731874155,Plot_307,-0.5108256237659907
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_12,Vaccinium corymbosum,4,0,2014,-1.7227665977411,-1.3040562628829186,Plot_310,-0.8145080375642128
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_13,Vaccinium corymbosum,4,0,2014,-1.79175946922805,-2.3895964699836756,Plot_313,-1.3862943611198906
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2014,Nich_VTblu_Site_14,Vaccinium corymbosum,4,0,2014,-1.93967959930468,-1.2250262135237684,Plot_316,-0.8410673106365675
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_01,Vaccinium corymbosum,4,3,2015,-2.20727491318972,-1.8325814637483102,Plot_282,-1.3470736479666092
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_02,Vaccinium corymbosum,4,3,2015,-0.980829253011726,-2.184802057337662,Plot_284,-0.7444404749474959
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_03,Vaccinium corymbosum,4,3,2015,-2.30258509299405,-1.3862943611198906,Plot_287,-1.0861897686695525
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_04,Vaccinium corymbosum,4,0,2015,-1.6094379124341,-2.995732273553991,Plot_290,-1.491654876777717
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_05,Vaccinium corymbosum,4,3,2015,-1.38629436111989,-2.184802057337662,Plot_291,-1.0498221244986778
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_06,Vaccinium corymbosum,4,3,2015,-1.01473080468741,-1.6739764335716716,Plot_293,-0.6208265189803193
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_07,Vaccinium corymbosum,4,3,2015,-1.20397280432594,-1.1086626245216111,Plot_296,-0.4780358009429998
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_08,Vaccinium corymbosum,4,0,2015,-1.16315080980568,-1.0498221244986778,Plot_299,-0.4307829160924542
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_09,Vaccinium corymbosum,4,3,2015,-1.69644928942373,-1.6519975268528961,Plot_302,-1.0033021088637848
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_10,Vaccinium corymbosum,4,3,2015,-1.10866262452161,-0.941608539858445,Plot_305,-0.342490308946776
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_11,Vaccinium corymbosum,4,0,2015,-1.71479842809193,-1.2378743560016174,Plot_308,-0.7765287894989963
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_12,Vaccinium corymbosum,4,0,2015,-0.980829253011726,-1.1239300966523995,Plot_311,-0.3930425881096072
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_13,Vaccinium corymbosum,4,0,2015,-1.6094379124341,-2.3025850929940455,Plot_314,-1.2909841813155656
+Charlie_Nicholson_Vaccinium_corymbosum_USA_2015,Nich_VTblu_Site_14,Vaccinium corymbosum,4,0,2015,-2.484906649788,-0.916290731874155,Plot_317,-0.7621400520468967
+Christof_Schuepp_Prunus_avium_Switzerland_2011,11,Prunus avium,4,2,2011,-4.49980967033027,-2.890371757896165,Plot_330,-2.890371757896165
+Christof_Schuepp_Prunus_avium_Switzerland_2011,12,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_331,-3.8066624897703196
+Christof_Schuepp_Prunus_avium_Switzerland_2011,16,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_335,-3.8066624897703196
+Christof_Schuepp_Prunus_avium_Switzerland_2011,2,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_321,-3.8066624897703196
+Christof_Schuepp_Prunus_avium_Switzerland_2011,20,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_338,-3.8066624897703196
+Christof_Schuepp_Prunus_avium_Switzerland_2011,24,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_342,-3.8066624897703196
+Christof_Schuepp_Prunus_avium_Switzerland_2011,25,Prunus avium,4,2,2011,-4.49980967033027,-3.1135153092103742,Plot_343,-3.1135153092103742
+Christof_Schuepp_Prunus_avium_Switzerland_2011,26,Prunus avium,4,2,2011,-4.49980967033027,-2.890371757896165,Plot_344,-2.890371757896165
+Christof_Schuepp_Prunus_avium_Switzerland_2011,27,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_345,-3.8066624897703196
+Christof_Schuepp_Prunus_avium_Switzerland_2011,30,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_347,-3.8066624897703196
+Christof_Schuepp_Prunus_avium_Switzerland_2011,9,Prunus avium,4,2,2011,-4.49980967033027,-3.8066624897703196,Plot_328,-3.8066624897703196
+Claire_Kremen_Fragaria_ananassa_USA_2012,AR,Fragaria x ananassa,12,3,2012,-1.6519975268529,0.11778303565638346,Plot_348,0.26875406256626205
+Claire_Kremen_Fragaria_ananassa_USA_2012,C,Fragaria x ananassa,12,3,2012,-1.6519975268529,-1.2611312181658847,Plot_349,-0.7621400520468967
+Claire_Kremen_Fragaria_ananassa_USA_2012,CB,Fragaria x ananassa,12,3,2012,-2.22254238532051,-0.5389965007326869,Plot_350,-0.38077249551779285
+Claire_Kremen_Fragaria_ananassa_USA_2012,DS,Fragaria x ananassa,12,3,2012,-4.78749174278205,-2.3025850929940455,Plot_351,-2.3025850929940455
+Claire_Kremen_Fragaria_ananassa_USA_2012,F,Fragaria x ananassa,5,3,2012,-4.78749174278205,0.9994056385846617,Plot_352,0.9994056385846617
+Claire_Kremen_Fragaria_ananassa_USA_2012,FE,Fragaria x ananassa,12,3,2012,-4.78749174278205,-2.0794415416798357,Plot_353,-2.0794415416798357
+Claire_Kremen_Fragaria_ananassa_USA_2012,LE,Fragaria x ananassa,12,3,2012,-4.78749174278205,-0.4436863209283621,Plot_354,-0.4436863209283621
+Claire_Kremen_Fragaria_ananassa_USA_2012,M,Fragaria x ananassa,12,3,2012,-4.78749174278205,1.1287103198253892,Plot_355,1.1287103198253892
+Claire_Kremen_Fragaria_ananassa_USA_2012,RB,Fragaria x ananassa,12,3,2012,-3.40119738166216,-0.05129329438755058,Plot_356,-0.025317807984289897
+Claire_Kremen_Fragaria_ananassa_USA_2012,RF,Fragaria x ananassa,12,3,2012,-1.49165487677772,-0.49703230163365497,Plot_357,-0.19237189264745613
+Claire_Kremen_Fragaria_ananassa_USA_2012,RH,Fragaria x ananassa,12,3,2012,-4.0943445622221,-1.5686159179138452,Plot_358,-1.529395204760564
+Claire_Kremen_Fragaria_ananassa_USA_2012,RK,Fragaria x ananassa,12,3,2012,-4.78749174278205,-2.0149030205422647,Plot_359,-2.0149030205422647
+Claire_Kremen_Fragaria_ananassa_USA_2012,S,Fragaria x ananassa,12,3,2012,-3.68887945411394,-0.04255961441879589,Plot_360,-0.025317807984289897
+Claire_Kremen_Fragaria_ananassa_USA_2012,SH,Fragaria x ananassa,5,3,2012,-1.52939520476056,-0.8754687373538999,Plot_361,-0.4700036292457356
+Claire_Kremen_Fragaria_ananassa_USA_2012,TB,Fragaria x ananassa,12,3,2012,-4.78749174278205,-3.1780538303479458,Plot_362,-3.1780538303479458
+Claire_Kremen_Fragaria_ananassa_USA_2012,UC,Fragaria x ananassa,12,3,2012,-4.0943445622221,0.4647816852645838,Plot_363,0.47000362924573563
+David_Crowder_Brassica_napus_USA_2013,clar1,Brassica napus,8,0,2013,-2.01490302054226,-3.4011973816621555,Plot_407,-2.0149030205422647
+David_Crowder_Brassica_napus_USA_2013,clar2,Brassica napus,8,0,2013,-3.40119738166216,-2.70805020110221,Plot_408,-2.70805020110221
+David_Crowder_Brassica_napus_USA_2013,conr1,Brassica napus,8,0,2013,-3.40119738166216,-1.0986122886681098,Plot_409,-1.0986122886681098
+David_Crowder_Brassica_napus_USA_2013,druf1,Brassica napus,8,0,2013,-3.40119738166216,-2.70805020110221,Plot_410,-2.70805020110221
+David_Crowder_Brassica_napus_USA_2013,hinn1,Brassica napus,8,0,2013,-3.40119738166216,-1.791759469228055,Plot_411,-1.791759469228055
+David_Crowder_Brassica_napus_USA_2013,hinn2,Brassica napus,8,0,2013,-3.40119738166216,-2.0149030205422647,Plot_412,-2.0149030205422647
+David_Crowder_Brassica_napus_USA_2013,jens1,Brassica napus,8,0,2013,-3.40119738166216,-2.70805020110221,Plot_413,-2.70805020110221
+David_Crowder_Brassica_napus_USA_2013,odbe1,Brassica napus,8,0,2013,-3.40119738166216,-2.3025850929940455,Plot_415,-2.3025850929940455
+David_Crowder_Brassica_napus_USA_2013,pcfs2,Brassica napus,8,0,2013,-3.40119738166216,-1.791759469228055,Plot_416,-1.791759469228055
+David_Crowder_Brassica_napus_USA_2013,stub3,Brassica napus,8,0,2013,-3.40119738166216,-2.0149030205422647,Plot_417,-2.0149030205422647
+David_Crowder_Brassica_napus_USA_2013,stub7,Brassica napus,8,0,2013,-3.40119738166216,-2.3025850929940455,Plot_418,-2.3025850929940455
+David_Crowder_Brassica_napus_USA_2013,UIK,Brassica napus,8,0,2013,-3.40119738166216,-2.70805020110221,Plot_419,-2.70805020110221
+David_Crowder_Brassica_napus_USA_2013,UIP,Brassica napus,8,0,2013,-3.40119738166216,-2.3025850929940455,Plot_420,-2.3025850929940455
+David_Crowder_Brassica_napus_USA_2013,winf1,Brassica napus,8,0,2013,-3.40119738166216,-2.70805020110221,Plot_421,-2.70805020110221
+David_Crowder_Brassica_napus_USA_2014,beck2,Brassica napus,8,0,2014,-3.40119738166216,-1.791759469228055,Plot_422,-1.791759469228055
+David_Crowder_Brassica_napus_USA_2014,clar4,Brassica napus,8,0,2014,-3.40119738166216,-1.6094379124341003,Plot_423,-1.6094379124341003
+David_Crowder_Brassica_napus_USA_2014,conr4,Brassica napus,8,0,2014,-3.40119738166216,-1.455287232606842,Plot_424,-1.455287232606842
+David_Crowder_Brassica_napus_USA_2014,conr5,Brassica napus,8,0,2014,-2.70805020110221,-2.0149030205422647,Plot_425,-1.791759469228055
+David_Crowder_Brassica_napus_USA_2014,druf3,Brassica napus,8,0,2014,-3.40119738166216,-2.70805020110221,Plot_426,-2.70805020110221
+David_Crowder_Brassica_napus_USA_2014,jens3,Brassica napus,8,0,2014,-3.40119738166216,-1.0033021088637848,Plot_427,-1.0033021088637848
+David_Crowder_Brassica_napus_USA_2014,jens4,Brassica napus,8,0,2014,-3.40119738166216,-2.3025850929940455,Plot_428,-2.3025850929940455
+David_Crowder_Brassica_napus_USA_2014,odbe2,Brassica napus,8,0,2014,-2.70805020110221,-1.6094379124341003,Plot_429,-1.455287232606842
+David_Crowder_Brassica_napus_USA_2014,olso3,Brassica napus,8,0,2014,-3.40119738166216,-0.8362480242006186,Plot_431,-0.8362480242006186
+David_Crowder_Brassica_napus_USA_2014,UIK2,Brassica napus,8,0,2014,-3.40119738166216,-2.70805020110221,Plot_435,-2.70805020110221
+David_Crowder_Brassica_napus_USA_2014,UIP4,Brassica napus,8,0,2014,-3.40119738166216,-0.5679840376059393,Plot_436,-0.5679840376059393
+David_Crowder_Fragaria_ananassa_USA_2016,site_13,Fragaria x ananassa,5,3,2016,-1.26113121816588,-2.995732273553991,Plot_442,-1.1499055830556604
+David_Crowder_Fragaria_ananassa_USA_2016,site_18,Fragaria x ananassa,5,3,2016,-1.52939520476056,-2.995732273553991,Plot_443,-1.3862943611198906
+David_Crowder_Fragaria_ananassa_USA_2016,site_23,Fragaria x ananassa,5,3,2016,-2.70805020110221,-3.4011973816621555,Plot_444,-2.4849066497880004
+David_Crowder_Fragaria_ananassa_USA_2016,site_24,Fragaria x ananassa,5,3,2016,-2.99573227355399,-3.4011973816621555,Plot_445,-2.70805020110221
+David_Crowder_Fragaria_ananassa_USA_2016,site_25,Fragaria x ananassa,5,3,2016,-1.45528723260684,-4.0943445622221,Plot_446,-1.455287232606842
+David_Crowder_Fragaria_ananassa_USA_2016,site_26,Fragaria x ananassa,5,3,2016,-2.99573227355399,-3.4011973816621555,Plot_447,-2.70805020110221
+David_Crowder_Fragaria_ananassa_USA_2016,site_29,Fragaria x ananassa,5,3,2016,-2.99573227355399,-4.0943445622221,Plot_448,-2.995732273553991
+David_Crowder_Fragaria_ananassa_USA_2016,site_3,Fragaria x ananassa,5,3,2016,-1.52939520476056,-3.4011973816621555,Plot_437,-1.455287232606842
+David_Crowder_Fragaria_ananassa_USA_2016,site_30,Fragaria x ananassa,5,3,2016,-4.0943445622221,-2.70805020110221,Plot_449,-2.70805020110221
+David_Crowder_Fragaria_ananassa_USA_2016,site_34,Fragaria x ananassa,5,3,2016,-2.70805020110221,-2.1484344131667874,Plot_451,-1.791759469228055
+David_Crowder_Fragaria_ananassa_USA_2016,site_36,Fragaria x ananassa,5,3,2016,-1.69644928942373,-3.4011973816621555,Plot_452,-1.6094379124341003
+David_Crowder_Fragaria_ananassa_USA_2016,site_5,Fragaria x ananassa,5,3,2016,-1.6094379124341,-3.4011973816621555,Plot_438,-1.529395204760564
+David_Crowder_Fragaria_ananassa_USA_2016,site_6,Fragaria x ananassa,5,3,2016,-0.660357357736954,-2.995732273553991,Plot_439,-0.5978370007556204
+David_Crowder_Fragaria_ananassa_USA_2016,site_7,Fragaria x ananassa,5,3,2016,-1.89711998488588,-4.0943445622221,Plot_440,-1.8971199848858813
+David_Crowder_Fragaria_ananassa_USA_2016,site_8,Fragaria x ananassa,5,3,2016,-3.40119738166216,-3.4011973816621555,Plot_441,-2.995732273553991
+David_Kleijn_Allium_porrum_Italy_2012,1_Prod_Field,Allium porrum,12,0,2012,-0.356674943938732,0.6418538861723947,Plot_453,0.9162907318741551
+David_Kleijn_Allium_porrum_Italy_2012,1TT,Allium porrum,12,0,2012,-1.20397280432594,0.8754687373538999,Plot_454,0.9555114450274363
+David_Kleijn_Allium_porrum_Italy_2012,2TT,Allium porrum,12,0,2012,0.78845736036427,0.7884573603642703,Plot_455,1.4586150226995167
+David_Kleijn_Allium_porrum_Italy_2012,3TT,Allium porrum,12,0,2012,-2.30258509299405,-0.35667494393873245,Plot_456,-0.35667494393873245
+David_Kleijn_Allium_porrum_Italy_2012,4TT,Allium porrum,12,0,2012,-1.6094379124341,0.1823215567939546,Plot_457,0.26236426446749106
+David_Kleijn_Allium_porrum_Italy_2012,5TT,Allium porrum,12,0,2012,-1.20397280432594,-1.6094379124341003,Plot_458,-0.916290731874155
+David_Kleijn_Allium_porrum_Italy_2012,6TT,Allium porrum,12,0,2012,0.0953101798043249,0.7884573603642703,Plot_459,1.1631508098056809
+David_Kleijn_Allium_porrum_Italy_2012,7TT,Allium porrum,12,0,2012,-2.30258509299405,-1.2039728043259361,Plot_460,-1.2039728043259361
+David_Kleijn_Allium_porrum_Italy_2012,8TT,Allium porrum,12,0,2012,0,0,Plot_461,0.6418538861723947
+David_Kleijn_Allium_porrum_Italy_2012,Prod. Bedr.,Allium porrum,12,0,2012,-2.30258509299405,0,Plot_462,0
+Dupont_redclover_Denmark_2008,Braedstrup_2008,Trifolium pratense,4,3,2008,0.734667185778132,-4.6076670661866785,Plot_2921,0.7346671857781324
+Dupont_redclover_Denmark_2008,Brushojgard_2008,Trifolium pratense,4,3,2008,0.921563508235545,-3.713165479994091,Plot_2920,0.9215635082355447
+Dupont_redclover_Denmark_2008,"Frijsendalsvej, Sall_2008",Trifolium pratense,4,3,2008,1.31997171818882,-4.314817884980432,Plot_2922,1.3199717181888182
+Dupont_redclover_Denmark_2008,Galten_2008,Trifolium pratense,4,3,2008,0.834426322683508,-5.680286368189022,Plot_2923,0.8344263226835077
+Dupont_redclover_Denmark_2008,"Gjern, Tingvejen_2008",Trifolium pratense,4,3,2008,0.99213475005396,-4.549128795104466,Plot_2924,0.9921347500539597
+Dupont_redclover_Denmark_2008,Hesselballe_2008,Trifolium pratense,4,3,2008,1.5630020754263,-4.035419883572072,Plot_2925,1.5630020754263032
+Dupont_redclover_Denmark_2008,Odense_2008,Trifolium pratense,4,3,2008,1.09425432850628,-4.710880640410205,Plot_2926,1.094254328506283
+Dupont_redclover_Denmark_2008,Randers NO Syd_2008,Trifolium pratense,4,3,2008,0.283969373627618,-5.1670690799380825,Plot_2927,0.2839693736276178
+Dupont_redclover_Denmark_2008,Skejby_2008,Trifolium pratense,4,3,2008,0.905385498391893,-4.341638573768593,Plot_2928,0.905385498391893
+Dupont_redclover_Denmark_2008,Vamdrup_2008,Trifolium pratense,4,3,2008,0.766280844712925,-4.722656881443761,Plot_2929,0.7662808447129252
+Dupont_redclover_Denmark_2008,"Vester Skerninge, Amarksvej_2008",Trifolium pratense,4,3,2008,1.40220632811251,-4.83416326209119,Plot_2930,1.4022063281125143
+Dupont_redclover_Denmark_2009,Braedstrup_2009,Trifolium pratense,4,3,2009,-1.5508078279827,-4.728861658330644,Plot_2931,-1.5508078279826985
+Dupont_redclover_Denmark_2009,Galten_2009,Trifolium pratense,4,3,2009,-0.594742474053219,-4.769129743948856,Plot_2932,-0.5947424740532191
+Dupont_redclover_Denmark_2009,"Gjern, Blak_2009",Trifolium pratense,4,3,2009,-0.164890146946022,-4.6192374431995304,Plot_2933,-0.16489014694602241
+Dupont_redclover_Denmark_2009,"Gjern, Tingvejen_2009",Trifolium pratense,4,3,2009,0.133803538496389,-4.520156811661135,Plot_2934,0.13380353849638874
+Dupont_redclover_Denmark_2009,Hammel 1_2009,Trifolium pratense,4,3,2009,0.376932403025431,-5.495185386449985,Plot_2935,0.3769324030254307
+Dupont_redclover_Denmark_2009,Hammel 2_2009,Trifolium pratense,4,3,2009,0.107495228001545,-4.998450245899036,Plot_2936,0.10749522800154458
+Dupont_redclover_Denmark_2009,Horning_2009,Trifolium pratense,4,3,2009,1.09545359621144,-5.493472881322078,Plot_2937,1.0954535962114418
+Dupont_redclover_Denmark_2009,Nr. Aaby_2009,Trifolium pratense,4,3,2009,0.135955636236029,-5.0401940963378005,Plot_2938,0.13595563623602894
+Dupont_redclover_Denmark_2009,Odense_2009,Trifolium pratense,4,3,2009,1.02130746146175,-4.910937725986259,Plot_2939,1.021307461461751
+Dupont_redclover_Denmark_2009,Randers NO Nord_2009,Trifolium pratense,4,3,2009,0.817622334693569,-4.7733646458172885,Plot_2940,0.8176223346935686
+Dupont_redclover_Denmark_2009,Randers NO Syd_2009,Trifolium pratense,4,3,2009,0.801518922144918,-4.800599898734783,Plot_2941,0.8015189221449183
+Dupont_redclover_Denmark_2009,Randers SO_2009,Trifolium pratense,4,3,2009,1.03789876874366,-4.946037511943528,Plot_2942,1.037898768743662
+Dupont_redclover_Denmark_2009,Ringe_2009,Trifolium pratense,4,3,2009,0.954002010778582,-4.848116364598481,Plot_2943,0.9540020107785822
+Dupont_redclover_Denmark_2009,Ry_2009,Trifolium pratense,4,3,2009,0.788533815886307,-4.595961246902782,Plot_2944,0.7885338158863067
+Dupont_redclover_Denmark_2009,Skive_2009,Trifolium pratense,4,3,2009,-0.44416519485393,-4.800874021543522,Plot_2945,-0.44416519485393036
+Dupont_redclover_Denmark_2009,"Vester Skerninge, Kohavevej_2009",Trifolium pratense,4,3,2009,0.371344086470156,-5.0403019653848835,Plot_2946,0.371344086470156
+Dupont_redclover_Denmark_2009,Viborg_2009,Trifolium pratense,4,3,2009,-0.4134577728522,-5.095588999976419,Plot_2947,-0.41345777285219976
+Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010,Plot_2C_2010_Glebe500_06,Malus domestica,2,0,2010,-3.68887945411394,-2.5902671654458267,Plot_565,-2.5902671654458267
+Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010,Plot_5B_2010_Glebe500_06,Malus domestica,2,0,2010,-4.9416424226093,-3.5553480614894135,Plot_569,-3.5553480614894135
+Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010,Plot_5C_2010_Glebe500_05,Malus domestica,2,0,2010,-4.78749174278205,-2.995732273553991,Plot_570,-2.995732273553991
+Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2010,Plot_6A_2010_Glebe500_06,Malus domestica,2,0,2010,-4.78749174278205,-2.5902671654458267,Plot_571,-2.5902671654458267
+Fabiana_Oliveira_da_Silva_Malus_domestica_Brazil_2012,Plot_1B_2012_Glebe500_05,Malus domestica,2,0,2012,-4.78749174278205,-3.1780538303479458,Plot_579,-3.1780538303479458
+Finbarr_G_Horgan_Abelmoschus_esculentus_Philippines_2015,Bukidnon02_dry,Abelmoschus esculentus,1,0,2015,-4.0943445622221,-3.4011973816621555,Plot_586,-3.4011973816621555
+Finbarr_G_Horgan_Abelmoschus_esculentus_Philippines_2015,Bukidnon02_wet,Abelmoschus esculentus,1,0,2015,-4.0943445622221,-2.995732273553991,Plot_587,-2.995732273553991
+Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,Bukidnon01_dry,Cucumis sativus,1,0,2015,-4.0943445622221,-1.0033021088637848,Plot_596,-1.0033021088637848
+Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,Bukidnon01_wet,Cucumis sativus,1,0,2015,-4.0943445622221,-2.3025850929940455,Plot_597,-2.3025850929940455
+Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,Bukidnon02_dry,Cucumis sativus,1,0,2015,-4.0943445622221,-2.3025850929940455,Plot_598,-2.3025850929940455
+Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,Bukidnon02_wet,Cucumis sativus,1,0,2015,-4.0943445622221,-3.4011973816621555,Plot_599,-3.4011973816621555
+Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,IRRI700_wet,Cucumis sativus,1,0,2015,-4.0943445622221,-2.995732273553991,Plot_605,-2.995732273553991
+Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,Tanay_dry,Cucumis sativus,1,0,2015,-4.0943445622221,-1.1499055830556604,Plot_606,-1.1499055830556604
+Finbarr_G_Horgan_Cucumis_sativus_Philippines_2015,Tanay_wet,Cucumis sativus,1,0,2015,-4.0943445622221,-2.3025850929940455,Plot_607,-2.3025850929940455
+Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015,Bukidnon01_wet,Lagenaria siceraria,1,0,2015,-4.0943445622221,-2.995732273553991,Plot_609,-2.995732273553991
+Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015,Bukidnon02_wet,Lagenaria siceraria,1,0,2015,-4.0943445622221,-3.4011973816621555,Plot_611,-3.4011973816621555
+Finbarr_G_Horgan_Lagenaria_siceraria_Philippines_2015,Tanay_dry,Lagenaria siceraria,1,0,2015,-4.0943445622221,-2.70805020110221,Plot_618,-2.70805020110221
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,Bukidnon01_dry,Luffa acutangula,1,0,2015,-4.0943445622221,-1.8971199848858813,Plot_620,-1.8971199848858813
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,Bukidnon01_wet,Luffa acutangula,1,0,2015,-4.0943445622221,-1.0498221244986778,Plot_621,-1.0498221244986778
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,Bukidnon02_dry,Luffa acutangula,1,0,2015,-4.0943445622221,-1.3862943611198906,Plot_622,-1.3862943611198906
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,Bukidnon02_wet,Luffa acutangula,1,0,2015,-4.0943445622221,-2.995732273553991,Plot_623,-2.995732273553991
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,IRRI700_dry,Luffa acutangula,1,0,2015,-4.0943445622221,-2.70805020110221,Plot_628,-2.70805020110221
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,IRRI700_wet,Luffa acutangula,1,0,2015,-4.0943445622221,-2.70805020110221,Plot_629,-2.70805020110221
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,Tanay_dry,Luffa acutangula,1,0,2015,-4.0943445622221,-1.3862943611198906,Plot_630,-1.3862943611198906
+Finbarr_G_Horgan_Luffa_acutangula_Philippines_2015,Tanay_wet,Luffa acutangula,1,0,2015,-4.0943445622221,-2.70805020110221,Plot_631,-2.70805020110221
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,Bukidnon01_dry,Momordica charantia,1,0,2015,-4.0943445622221,-1.8971199848858813,Plot_632,-1.8971199848858813
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,Bukidnon01_wet,Momordica charantia,1,0,2015,-4.0943445622221,-1.455287232606842,Plot_633,-1.455287232606842
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,Bukidnon02_dry,Momordica charantia,1,0,2015,-4.0943445622221,-1.6964492894237302,Plot_634,-1.6964492894237302
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,Bukidnon02_wet,Momordica charantia,1,0,2015,-4.0943445622221,-2.995732273553991,Plot_635,-2.995732273553991
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,IRRI700_dry,Momordica charantia,1,0,2015,-4.0943445622221,-3.4011973816621555,Plot_640,-3.4011973816621555
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,IRRI700_wet,Momordica charantia,1,0,2015,-4.0943445622221,-3.4011973816621555,Plot_641,-3.4011973816621555
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,Tanay_dry,Momordica charantia,1,0,2015,-4.0943445622221,0.2751032902449208,Plot_642,0.2751032902449208
+Finbarr_G_Horgan_Momordica_charantia_Philippines_2015,Tanay_wet,Momordica charantia,1,0,2015,-4.0943445622221,-2.70805020110221,Plot_643,-2.70805020110221
+Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013,CASTELLANOS,Vaccinium meridionale,1,3,2013,-1.67397643357167,-4.382026634673881,Plot_691,-1.6739764335716716
+Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013,GONZALEZ,Vaccinium meridionale,1,3,2013,-1.38629436111989,-0.6931471805599453,Plot_692,-0.3044891907681621
+Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013,JIMENEZ,Vaccinium meridionale,1,3,2013,-0.338975366839331,-1.742969305058623,Plot_693,-0.13353139262452263
+Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013,PENA,Vaccinium meridionale,1,3,2013,-2.30258509299405,-3.6888794541139363,Plot_694,-2.184802057337662
+Guiomar_Nates_Parra_Vaccinium_meridionale_Colombia_2013,SIERRA,Vaccinium meridionale,1,3,2013,-1.20397280432594,-2.772588722239781,Plot_695,-1.0498221244986778
+Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005,Biala,Fagopyrum esculentum,4,0,2005,-5.59842195899838,-4.212127597878484,Plot_696,-4.212127597878484
+Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005,Branew,Fagopyrum esculentum,4,0,2005,-6.65929391968364,-5.272999558563747,Plot_697,-5.272999558563747
+Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005,Kapronie,Fagopyrum esculentum,4,0,2005,-6.20455776256869,-4.700480365792417,Plot_698,-4.59511985013459
+Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005,Kolonia Branewska,Fagopyrum esculentum,4,0,2005,-6.65929391968364,-5.560681631015528,Plot_699,-5.560681631015528
+Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005,Majdan,Fagopyrum esculentum,4,0,2005,-6.49223983502047,-5.393627546352362,Plot_700,-5.393627546352362
+Hajnalka_Szentgyorgyi_Fagopyrum_esculentum_Poland_2005,Wolka Ratajska,Fagopyrum esculentum,4,0,2005,-6.17378610390194,-5.075173815233827,Plot_701,-5.075173815233827
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,1,Brassica napus,4,0,2013,-1.79175946922805,-3.4011973816621555,Plot_750,-1.791759469228055
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,10,Brassica napus,4,0,2013,-2.70805020110221,-3.4011973816621555,Plot_759,-2.70805020110221
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,11,Brassica napus,4,0,2013,-2.70805020110221,-3.4011973816621555,Plot_760,-2.70805020110221
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,12,Brassica napus,4,0,2013,-3.40119738166216,-2.3025850929940455,Plot_761,-2.3025850929940455
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,13,Brassica napus,4,0,2013,-3.40119738166216,-3.4011973816621555,Plot_762,-3.4011973816621555
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,14,Brassica napus,4,0,2013,-3.40119738166216,-3.4011973816621555,Plot_763,-3.4011973816621555
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,15,Brassica napus,4,0,2013,-2.01490302054226,-1.791759469228055,Plot_764,-1.3217558399823195
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,2,Brassica napus,4,0,2013,-2.30258509299405,-1.791759469228055,Plot_751,-1.455287232606842
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,3,Brassica napus,4,0,2013,-3.40119738166216,-2.70805020110221,Plot_752,-2.70805020110221
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,4,Brassica napus,4,0,2013,-3.40119738166216,-3.4011973816621555,Plot_753,-3.4011973816621555
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,5,Brassica napus,4,0,2013,-2.70805020110221,-3.4011973816621555,Plot_754,-2.70805020110221
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,6,Brassica napus,4,0,2013,-1.32175583998232,-2.3025850929940455,Plot_755,-1.0986122886681098
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,7,Brassica napus,4,0,2013,-2.30258509299405,-2.0149030205422647,Plot_756,-1.6094379124341003
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,8,Brassica napus,4,0,2013,-1.6094379124341,-2.70805020110221,Plot_757,-1.455287232606842
+Ignasi_Bartomeus_Brassica_napus_Sweden_2013,9,Brassica napus,4,0,2013,-3.40119738166216,-3.4011973816621555,Plot_758,-3.4011973816621555
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Bussloo,Brassica napus,4,0,2011,-1.32175583998232,-2.70805020110221,Plot_1629,-1.1499055830556604
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Deventer,Brassica napus,4,0,2011,-0.727048732235627,-2.4849066497880004,Plot_1630,-0.5978370007556204
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Doetinchem,Brassica napus,4,0,2011,0.667829372575655,-2.0149030205422647,Plot_1631,0.7259370033829363
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Gelselaar,Brassica napus,4,0,2011,0.139761942375159,-4.0943445622221,Plot_1632,0.13976194237515863
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Kloosterhaar,Brassica napus,4,0,2011,-4.0943445622221,-4.0943445622221,Plot_1633,-4.0943445622221
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Lengel,Brassica napus,4,0,2011,-1.69644928942373,-2.70805020110221,Plot_1634,-1.455287232606842
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Lettele,Brassica napus,4,0,2011,-0.510825623765991,-2.4849066497880004,Plot_1635,-0.40546510810816444
+Jeroen_Scheper_Brassica_napus_Netherlands_2011,Schalkhaar,Brassica napus,4,0,2011,-1.45528723260684,-3.4011973816621555,Plot_1636,-1.3862943611198906
+Jeroen_Scheper_Brassica_napus_several_countries_2012,Bussloo,Brassica napus,4,0,2012,-2.99573227355399,-2.1484344131667874,Plot_1637,-1.8971199848858813
+Jeroen_Scheper_Brassica_napus_several_countries_2012,Doetinchem,Brassica napus,4,0,2012,-2.70805020110221,-1.6964492894237302,Plot_1638,-1.455287232606842
+Jeroen_Scheper_Brassica_napus_several_countries_2012,Gelselaar,Brassica napus,4,0,2012,-2.99573227355399,-2.70805020110221,Plot_1639,-2.3025850929940455
+Jeroen_Scheper_Brassica_napus_several_countries_2012,Kloosterhaar,Brassica napus,4,0,2012,-2.70805020110221,-2.4849066497880004,Plot_1640,-2.0149030205422647
+Jeroen_Scheper_Brassica_napus_several_countries_2012,Lengel,Brassica napus,4,0,2012,-1.52939520476056,-2.70805020110221,Plot_1641,-1.3217558399823195
+Jeroen_Scheper_Brassica_napus_several_countries_2012,Schalkhaar,Brassica napus,4,0,2012,-2.30258509299405,-2.4849066497880004,Plot_1642,-1.791759469228055
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C02,Coffea arabica,7,0,2013,-3.68887945411394,-2.995732273553991,Plot_1717,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C07,Coffea arabica,7,0,2013,-3.68887945411394,-3.6888794541139363,Plot_1721,-3.6888794541139363
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C08,Coffea arabica,2,0,2013,-3.68887945411394,-2.3025850929940455,Plot_1722,-2.3025850929940455
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C09,Coffea arabica,7,0,2013,-2.59026716544583,-2.3025850929940455,Plot_1723,-1.8971199848858813
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C14,Coffea arabica,7,0,2013,-3.68887945411394,-2.0794415416798357,Plot_1728,-2.0794415416798357
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C17,Coffea arabica,2,0,2013,-2.99573227355399,-2.5902671654458267,Plot_1730,-2.3025850929940455
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C18,Coffea arabica,2,0,2013,-3.68887945411394,-2.995732273553991,Plot_1731,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,C19,Coffea arabica,2,0,2013,-3.68887945411394,-2.995732273553991,Plot_1732,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O01,Coffea arabica,2,3,2013,-3.68887945411394,-2.5902671654458267,Plot_1735,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O03,Coffea arabica,7,3,2013,-3.68887945411394,-2.5902671654458267,Plot_1736,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O04,Coffea arabica,7,3,2013,-2.99573227355399,-3.6888794541139363,Plot_1737,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O06,Coffea arabica,7,3,2013,-3.68887945411394,-2.5902671654458267,Plot_1738,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O08,Coffea arabica,7,3,2013,-3.68887945411394,-2.995732273553991,Plot_1739,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O09,Coffea arabica,7,3,2013,-3.68887945411394,-2.5902671654458267,Plot_1740,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O12,Coffea arabica,7,3,2013,-2.59026716544583,-3.6888794541139363,Plot_1742,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O14,Coffea arabica,7,3,2013,-3.68887945411394,-2.995732273553991,Plot_1743,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2013,O18,Coffea arabica,2,3,2013,-3.68887945411394,-2.3025850929940455,Plot_1746,-2.3025850929940455
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,C03,Coffea arabica,7,0,2014,-2.59026716544583,-1.742969305058623,Plot_1748,-1.491654876777717
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,C04,Coffea arabica,7,0,2014,-2.59026716544583,-2.995732273553991,Plot_1749,-2.3025850929940455
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,C07,Coffea arabica,7,0,2014,-2.99573227355399,-2.0794415416798357,Plot_1751,-1.8971199848858813
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,C09,Coffea arabica,7,0,2014,-3.68887945411394,-2.995732273553991,Plot_1753,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,C17,Coffea arabica,2,0,2014,-2.59026716544583,-2.995732273553991,Plot_1756,-2.3025850929940455
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,O01,Coffea arabica,2,3,2014,-3.68887945411394,-2.5902671654458267,Plot_1758,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,O03,Coffea arabica,7,3,2014,-2.99573227355399,-2.995732273553991,Plot_1759,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,O04,Coffea arabica,7,3,2014,-3.68887945411394,-2.995732273553991,Plot_1760,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,O07,Coffea arabica,7,3,2014,-3.68887945411394,-1.491654876777717,Plot_1761,-1.491654876777717
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,O08,Coffea arabica,7,3,2014,-3.68887945411394,-2.5902671654458267,Plot_1762,-2.5902671654458267
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,O09,Coffea arabica,7,3,2014,-3.68887945411394,-2.995732273553991,Plot_1763,-2.995732273553991
+Juliana_Hipolito_Coffea_arabica_Brazil_2014,O14,Coffea arabica,7,3,2014,-2.99573227355399,-2.995732273553991,Plot_1765,-2.5902671654458267
+Juliana_Hipolito_Mangifera_indica_Brazil_2005,1,Mangifera indica,2,0,2005,-7.96554557312999,-6.866933284461882,Plot_1769,-6.866933284461882
+Juliana_Hipolito_Mangifera_indica_Brazil_2005,2,Mangifera indica,2,0,2005,-7.27239839257005,-6.579251212010101,Plot_1770,-6.579251212010101
+Juliana_Hipolito_Mangifera_indica_Brazil_2005,3,Mangifera indica,2,0,2005,-7.27239839257005,-5.19295685089021,Plot_1771,-5.19295685089021
+Juliana_Hipolito_Mangifera_indica_Brazil_2005,4,Mangifera indica,2,0,2005,-7.27239839257005,-5.886104031450156,Plot_1772,-5.886104031450156
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.IAJ.C,Malus domestica,4,0,2018,-2.21784386453896,-3.6041382256588457,Plot_1773,-2.0459936076122958
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.IAJ.E,Malus domestica,4,0,2018,-2.56494935746154,-3.5765502691400166,Plot_1774,-2.3237873006446486
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.LHO.C,Malus domestica,4,0,2018,-3.16406758837321,-2.7586024802650413,Plot_1775,-2.316769727986002
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.LHO.E,Malus domestica,4,0,2018,-2.84620053958303,-3.4339872044851463,Plot_1776,-2.4784757594577096
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.LWO.C,Malus domestica,4,0,2018,-2.58571134890997,-4.983606621708336,Plot_1777,-2.585711348909966
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.LWO.E,Malus domestica,4,0,2018,-3.19184715248028,-3.0376964726530233,Plot_1778,-2.498699971920336
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.MFO.C,Malus domestica,4,0,2018,-3.20545280453606,-3.898599985096005,Plot_1779,-2.917770732084279
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,c.MFO.E,Malus domestica,4,0,2018,-3.01693448120459,-3.5765502691400166,Plot_1780,-2.6602595372658615
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.BAF.C,Malus domestica,4,0,2018,-1.33020489446885,-2.8526314299133175,Plot_1781,-1.1478833376748925
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.BAF.E,Malus domestica,4,0,2018,-1.29756624551121,-3.3219480100080148,Plot_1782,-1.1903207151576087
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.IAJ.C,Malus domestica,4,0,2018,-3.15463355613985,-5.351858133476067,Plot_1783,-3.154633556139847
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.IAJ.E,Malus domestica,4,0,2018,-2.65825953659919,-3.100092288878234,Plot_1784,-2.2062744128561373
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.LIA.C,Malus domestica,4,0,2018,-1.93152141160321,-3.9464244321454784,Plot_1785,-1.836211231798889
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.LIA.E,Malus domestica,4,0,2018,-2.20204386377217,-3.258096538021482,Plot_1786,-1.9363406980391626
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.TAF.C,Malus domestica,4,0,2018,-2.80568867066613,-3.984343667007772,Plot_1787,-2.5980493058878817
+Katherine_LW_Burns_Malus_domestica_Ireland_2018,d.TAF.E,Malus domestica,4,0,2018,-3.24356843745857,-3.2435684374585723,Plot_1788,-2.6149597780361984
+Katherine_LW_Burns_Vicia_faba_Ireland_2018,BDF.18.C,Vicia faba,4,0,2018,-3.2188758248682,-5.0106352940962555,Plot_1789,-3.2188758248682006
+Katherine_LW_Burns_Vicia_faba_Ireland_2018,BDF.18.E,Vicia faba,4,0,2018,-2.93119375241642,-5.0106352940962555,Plot_1790,-2.9311937524164198
+Katherine_LW_Burns_Vicia_faba_Ireland_2019,JGF.19.C,Vicia faba,4,0,2019,-2.77258872223978,-5.480638923341991,Plot_1793,-2.772588722239781
+Katherine_LW_Burns_Vicia_faba_Ireland_2019,KSF.19.C,Vicia faba,4,0,2019,-3.40119738166216,-5.480638923341991,Plot_1794,-3.4011973816621555
+Katherine_LW_Burns_Vicia_faba_Ireland_2019,KSF.19.E,Vicia faba,4,0,2019,-3.68887945411394,-5.480638923341991,Plot_1795,-3.6888794541139363
+Katherine_LW_Burns_Vicia_faba_Ireland_2019,NGF.19.C,Vicia faba,4,0,2019,-2.04665171885684,-5.480638923341991,Plot_1796,-2.046651718856845
+Katherine_LW_Burns_Vicia_faba_Ireland_2019,NGF.19.E,Vicia faba,4,0,2019,-2.26176309847379,-5.480638923341991,Plot_1797,-2.2617630984737906
+Leah_Blechschmidt_Malus_domestica_Canada_2018,1,Malus domestica,4,0,2018,-4.21212759787848,-2.6026896854443837,Plot_2948,-2.6026896854443837
+Leah_Blechschmidt_Malus_domestica_Canada_2018,10,Malus domestica,4,0,2018,-3.04289774199642,0.6888017093004429,Plot_2957,0.7066063339339496
+Leah_Blechschmidt_Malus_domestica_Canada_2018,13,Malus domestica,4,0,2018,-2.87235325239349,-1.4860588912735955,Plot_2960,-1.3142086343469364
+Leah_Blechschmidt_Malus_domestica_Canada_2018,14,Malus domestica,4,0,2018,-4.0943445622221,-3.4011973816621555,Plot_2961,-3.4011973816621555
+Leah_Blechschmidt_Malus_domestica_Canada_2018,2,Malus domestica,4,0,2018,-4.0943445622221,-1.8971199848858813,Plot_2949,-1.8971199848858813
+Leah_Blechschmidt_Malus_domestica_Canada_2018,3,Malus domestica,4,0,2018,-3.62434093297637,-2.0149030205422647,Plot_2950,-1.91959284073794
+Leah_Blechschmidt_Malus_domestica_Canada_2018,4,Malus domestica,4,0,2018,-3.2188758248682,-2.0149030205422647,Plot_2951,-1.8325814637483102
+Leah_Blechschmidt_Malus_domestica_Canada_2018,5,Malus domestica,4,0,2018,-3.74212396863275,-1.10306663901749,Plot_2952,-1.06797531920622
+Leah_Blechschmidt_Malus_domestica_Canada_2018,6,Malus domestica,4,0,2018,-2.93119375241642,-4.029806041084529,Plot_2953,-2.9311937524164198
+Leah_Blechschmidt_Malus_domestica_Canada_2018,8,Malus domestica,4,0,2018,-4.31748811353631,-1.8325814637483102,Plot_2955,-1.8325814637483102
+Leah_Blechschmidt_Malus_domestica_Canada_2019,1,Malus domestica,4,0,2019,-3.47019025314911,-1.8607523407150068,Plot_2962,-1.765442160910682
+Leah_Blechschmidt_Malus_domestica_Canada_2019,10,Malus domestica,4,0,2019,-0.624648258206278,-0.2499548087648669,Plot_2969,0.26399094233736736
+Leah_Blechschmidt_Malus_domestica_Canada_2019,11,Malus domestica,4,0,2019,-3.14988295338125,-2.05127066471314,Plot_2970,-1.8505999692509885
+Leah_Blechschmidt_Malus_domestica_Canada_2019,12,Malus domestica,4,0,2019,-3.29583686600433,-3.295836866004329,Plot_2971,-2.890371757896165
+Leah_Blechschmidt_Malus_domestica_Canada_2019,13,Malus domestica,4,0,2019,-4.0943445622221,-4.0943445622221,Plot_2972,-4.0943445622221
+Leah_Blechschmidt_Malus_domestica_Canada_2019,14,Malus domestica,4,0,2019,-3.51898041731854,-2.8258332367585934,Plot_2973,-2.6026896854443837
+Leah_Blechschmidt_Malus_domestica_Canada_2019,2,Malus domestica,4,0,2019,-2.89037175789616,-2.379546134130174,Plot_2963,-2.043073897508961
+Leah_Blechschmidt_Malus_domestica_Canada_2019,4,Malus domestica,4,0,2019,-2.08389589202922,-2.553899521274952,Plot_2964,-1.6784307839210522
+Leah_Blechschmidt_Malus_domestica_Canada_2019,5,Malus domestica,4,0,2019,-2.23804657185647,-0.9852836033611064,Plot_2965,-0.7621400520468967
+Leah_Blechschmidt_Malus_domestica_Canada_2019,7,Malus domestica,4,0,2019,-2.12026353620009,-1.8325814637483102,Plot_2966,-1.3217558399823195
+Leah_Blechschmidt_Malus_domestica_Canada_2019,8,Malus domestica,4,0,2019,-4.21212759787848,-3.518980417318539,Plot_2967,-3.518980417318539
+Leah_Blechschmidt_Malus_domestica_Canada_2019,9,Malus domestica,4,0,2019,-2.70805020110221,-3.8066624897703196,Plot_2968,-2.70805020110221
+Louis_Sutter_Brassica_napus_Switzerland_2014,S1,Brassica napus,4,0,2014,-3.71705033108063,-3.4657359027997265,Plot_1806,-2.9549102790337356
+Louis_Sutter_Brassica_napus_Switzerland_2014,S10,Brassica napus,4,0,2014,-4.56434819146784,-3.1780538303479458,Plot_1815,-3.0239031505206873
+Louis_Sutter_Brassica_napus_Switzerland_2014,S11,Brassica napus,4,0,2014,-4.969813299576,-2.9549102790337356,Plot_1816,-2.890371757896165
+Louis_Sutter_Brassica_napus_Switzerland_2014,S12,Brassica napus,4,0,2014,-3.3603753871419,-3.2650652073375754,Plot_1817,-2.667228206581955
+Louis_Sutter_Brassica_napus_Switzerland_2014,S13,Brassica napus,4,0,2014,-5.66296048013595,-1.791759469228055,Plot_1818,-1.791759469228055
+Louis_Sutter_Brassica_napus_Switzerland_2014,S14,Brassica napus,4,0,2014,-4.969813299576,-4.564348191467836,Plot_1819,-4.276666119016055
+Louis_Sutter_Brassica_napus_Switzerland_2014,S15,Brassica napus,4,0,2014,-4.969813299576,-3.7170503310806327,Plot_1820,-3.58351893845611
+Louis_Sutter_Brassica_napus_Switzerland_2014,S16,Brassica napus,4,0,2014,-5.66296048013595,-4.969813299576001,Plot_1821,-4.969813299576001
+Louis_Sutter_Brassica_napus_Switzerland_2014,S17,Brassica napus,4,0,2014,-5.66296048013595,-4.564348191467836,Plot_1822,-4.564348191467836
+Louis_Sutter_Brassica_napus_Switzerland_2014,S18,Brassica napus,4,0,2014,-4.969813299576,-3.4657359027997265,Plot_1823,-3.3603753871419
+Louis_Sutter_Brassica_napus_Switzerland_2014,S2,Brassica napus,4,0,2014,-5.66296048013595,-2.9549102790337356,Plot_1807,-2.9549102790337356
+Louis_Sutter_Brassica_napus_Switzerland_2014,S3,Brassica napus,4,0,2014,-5.66296048013595,-2.9549102790337356,Plot_1808,-2.9549102790337356
+Louis_Sutter_Brassica_napus_Switzerland_2014,S4,Brassica napus,4,0,2014,-5.66296048013595,-3.2650652073375754,Plot_1809,-3.2650652073375754
+Louis_Sutter_Brassica_napus_Switzerland_2014,S5,Brassica napus,4,0,2014,-5.66296048013595,-2.9549102790337356,Plot_1810,-2.9549102790337356
+Louis_Sutter_Brassica_napus_Switzerland_2014,S6,Brassica napus,4,0,2014,-5.66296048013595,-3.871201010907891,Plot_1811,-3.871201010907891
+Louis_Sutter_Brassica_napus_Switzerland_2014,S7,Brassica napus,4,0,2014,-4.56434819146784,-3.4657359027997265,Plot_1812,-3.2650652073375754
+Louis_Sutter_Brassica_napus_Switzerland_2014,S8,Brassica napus,4,0,2014,-4.969813299576,-3.58351893845611,Plot_1813,-3.4657359027997265
+Louis_Sutter_Brassica_napus_Switzerland_2014,S9,Brassica napus,4,0,2014,-5.66296048013595,-2.2617630984737906,Plot_1814,-2.2617630984737906
+Marcos_Minarro_Malus_domestica_Spain_2015,Bus06,Malus domestica,4,1,2015,-4.31748811353631,-2.70805020110221,Plot_1902,-2.70805020110221
+Marcos_Minarro_Malus_domestica_Spain_2015,Cal17,Malus domestica,4,1,2015,-4.31748811353631,-3.2188758248682006,Plot_1913,-3.2188758248682006
+Marcos_Minarro_Malus_domestica_Spain_2015,Cam07,Malus domestica,4,3,2015,-3.62434093297637,-2.9309437836612124,Plot_1903,-2.707850221099544
+Marcos_Minarro_Malus_domestica_Spain_2015,Cay09,Malus domestica,4,1,2015,-2.12026353620009,-2.70805020110221,Plot_1905,-1.7525387560747736
+Marcos_Minarro_Malus_domestica_Spain_2015,Cey08,Malus domestica,4,1,2015,-2.93119375241642,-1.6093712479895572,Plot_1904,-1.427060801627743
+Marcos_Minarro_Malus_domestica_Spain_2015,Col13,Malus domestica,4,1,2015,-3.62434093297637,-3.2188758248682006,Plot_1909,-2.9311937524164198
+Marcos_Minarro_Malus_domestica_Spain_2015,Gai04,Malus domestica,4,1,2015,-3.2188758248682,-3.624340932976365,Plot_1900,-2.9311937524164198
+Marcos_Minarro_Malus_domestica_Spain_2015,Lav16,Malus domestica,4,1,2015,-2.70805020110221,-2.371577964480997,Plot_1912,-1.91959284073794
+Marcos_Minarro_Malus_domestica_Spain_2015,Mas12,Malus domestica,4,1,2015,-3.2188758248682,-2.371577964480997,Plot_1908,-2.120263536200091
+Marcos_Minarro_Malus_domestica_Spain_2015,Mun24,Malus domestica,4,3,2015,-3.2188758248682,-3.2188758248682006,Plot_1920,-2.70805020110221
+Marcos_Minarro_Malus_domestica_Spain_2015,Nor22,Malus domestica,4,1,2015,-2.70805020110221,-2.0149030205422647,Plot_1918,-1.6784307839210517
+Marcos_Minarro_Malus_domestica_Spain_2015,Obi23,Malus domestica,4,1,2015,-1.6094379124341,-1.8325814637483102,Plot_1919,-1.0593915755148284
+Marcos_Minarro_Malus_domestica_Spain_2015,Pan21,Malus domestica,4,1,2015,-2.70805020110221,-2.5257286443082556,Plot_1917,-2.0149030205422647
+Marcos_Minarro_Malus_domestica_Spain_2015,Por10,Malus domestica,4,1,2015,-3.62434093297637,-2.9309437836612124,Plot_1906,-2.707850221099544
+Marcos_Minarro_Malus_domestica_Spain_2015,Que19,Malus domestica,4,1,2015,-3.2188758248682,-2.70805020110221,Plot_1915,-2.371577964480997
+Marcos_Minarro_Malus_domestica_Spain_2015,Qui15,Malus domestica,4,1,2015,-2.371577964481,-2.9311937524164198,Plot_1911,-2.0149030205422647
+Marcos_Minarro_Malus_domestica_Spain_2015,Ria02,Malus domestica,4,1,2015,-3.62434093297637,-3.2188758248682006,Plot_1898,-2.9311937524164198
+Marcos_Minarro_Malus_domestica_Spain_2015,Sal20,Malus domestica,4,1,2015,-1.54489939129653,-2.37143511754125,Plot_1916,-1.2264002066655664
+Marcos_Minarro_Malus_domestica_Spain_2015,San18,Malus domestica,4,1,2015,-3.62434093297637,-3.2188758248682006,Plot_1914,-2.9311937524164198
+Marcos_Minarro_Malus_domestica_Spain_2015,Sel01,Malus domestica,4,3,2015,-0.762140052046897,-2.9311937524164198,Plot_1897,-0.6799019538099246
+Marcos_Minarro_Malus_domestica_Spain_2015,Sor05,Malus domestica,4,1,2015,-3.62434093297637,-2.371577964480997,Plot_1901,-2.2380465718564744
+Marcos_Minarro_Malus_domestica_Spain_2015,Tin25,Malus domestica,4,1,2015,-2.93119375241642,-1.6784307839210517,Plot_1921,-1.4842747694800944
+Marcos_Minarro_Malus_domestica_Spain_2015,Tor03,Malus domestica,4,1,2015,-4.31748811353631,-3.624340932976365,Plot_1899,-3.624340932976365
+Marcos_Minarro_Malus_domestica_Spain_2015,Val14,Malus domestica,4,1,2015,-2.70805020110221,-2.0149030205422647,Plot_1910,-1.6784307839210517
+Marcos_Minarro_Malus_domestica_Spain_2015,Ver11,Malus domestica,4,1,2015,-2.70805020110221,-1.48368670712854,Plot_1907,-1.2724895986794014
+Nicolas_J_Vereecken_Brassica_napus_Belgium_2019,Flemalle,Brassica napus,4,0,2019,-1.45528723260684,-3.033472601536838,Plot_2058,-1.2742893027433957
+Nicolas_J_Vereecken_Brassica_napus_Belgium_2019,Freres_Delvaux,Brassica napus,4,0,2019,-4.21212759787848,-3.1560749236291703,Plot_2059,-2.890371757896165
+Nicolas_J_Vereecken_Brassica_napus_Belgium_2019,Pirmez,Brassica napus,4,3,2019,-2.82583323675859,-2.4849066497880004,Plot_2060,-1.960835799271989
+Nicolas_J_Vereecken_Brassica_napus_Belgium_2019,Schiepers,Brassica napus,4,3,2019,-2.42036812865043,-3.4011973816621555,Plot_2061,-2.117181869662683
+Nicolas_J_Vereecken_Brassica_napus_France_2016,Villebrun-Colza,Brassica napus,4,0,2016,-2.77258872223978,-4.969813299576001,Plot_2023,-2.6772785424354564
+Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019,Coin_des_Champs,Fragaria x ananassa,4,3,2019,-2.89037175789616,-2.5303690238647576,Plot_2062,-2.0149030205422647
+Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019,Ferme_du_Chateau,Fragaria x ananassa,4,0,2019,-5.19295685089021,-3.033472601536838,Plot_2063,-2.959364629383116
+Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019,Fruits_du_Verger,Fragaria x ananassa,4,0,2019,-1.26113121816588,-6.29156913955832,Plot_2064,-1.2611312181658847
+Nicolas_J_Vereecken_Fragaria_x_ananassa_Belgium_2019,Val-Notre-Dame,Fragaria x ananassa,4,3,2019,-3.2005266862,-3.3471301603918797,Plot_2065,-2.6026896854443837
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Ballat,Malus domestica,4,3,2019,-4.68213122712422,-3.247046701834897,Plot_2025,-3.0726933146901194
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Bianca 18O,Malus domestica,4,3,2019,-4.68213122712422,-3.1135153092103742,Plot_2026,-2.959364629383116
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Bianca 20C,Malus domestica,4,1,2019,-2.99573227355399,-4.345658990503007,Plot_2027,-2.7950615780918397
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Bianca 21C,Malus domestica,4,1,2019,-4.0943445622221,-6.29156913955832,Plot_2028,-4.0943445622221
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Bianca 21O,Malus domestica,4,3,2019,-3.89367386675995,-4.68213122712422,Plot_2029,-3.58351893845611
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Gasi_malus_2019,Malus domestica,4,3,2019,-2.2140316956526,-0.8405306859926195,Plot_2030,-0.6182458723868276
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Laduron,Malus domestica,4,3,2019,-3.4583557955021,-1.109785589266235,Plot_2031,-1.023710980494992
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Pommeraie_2019,Malus domestica,4,3,2019,-2.95936462938312,-1.8489178830680035,Plot_2032,-1.5730702682632256
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Vergers de Barry,Malus domestica,4,3,2019,-4.90527477843843,-3.4583557955021043,Plot_2033,-3.295836866004329
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Vergers de Brunehaut,Malus domestica,4,1,2019,-1.45528723260684,-2.2662174488231708,Plot_2034,-1.0930721082924943
+Nicolas_J_Vereecken_Malus_domestica_Belgium_2019,Vergers de la Vallee,Malus domestica,4,1,2019,-1.848917883068,-0.9209311114306573,Plot_2035,-0.5911255661676337
+Nicolas_J_Vereecken_Malus_domestica_France_2016,Villebrun-Verger,Malus domestica,4,0,2016,-2.77258872223978,-4.969813299576001,Plot_2024,-2.6772785424354564
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Bois de la Borde,Malus domestica,4,3,2019,-2.79506157809184,-3.58351893845611,Plot_2036,-2.4414215378482615
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Dampleux,Malus domestica,4,1,2019,-1.96083579927199,-2.4203681286504293,Plot_2037,-1.4793847841859027
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Ferme de Canon,Malus domestica,4,3,2019,-2.3212772260062,-2.0149030205422647,Plot_2038,-1.4712875739532831
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Fontenay,Malus domestica,4,1,2019,-2.62800749342867,-2.086876520167354,Plot_2039,-1.6376087894007967
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Innenheim,Malus domestica,4,1,2019,-2.62800749342867,-2.1644347545132283,Plot_2040,-1.6863989535702288
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Jeunes de la Motte,Malus domestica,4,1,2019,-2.37954613413017,-3.58351893845611,Plot_2041,-2.132686056198648
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Le Plessis,Malus domestica,4,3,2019,-2.70805020110221,-2.7950615780918397,Plot_2042,-2.0720614343822135
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Maillebois,Malus domestica,4,3,2019,-2.60268968544438,-1.4317567351966478,Plot_2043,-1.1676051601550612
+Nicolas_J_Vereecken_Malus_domestica_France_2019,SCA de la Plesse,Malus domestica,4,1,2019,-1.79175946922805,-3.3471301603918797,Plot_2044,-1.6094379124341003
+Nicolas_J_Vereecken_Malus_domestica_France_2019,SCA de Vauleard,Malus domestica,4,1,2019,-2.11718186966268,-3.295836866004329,Plot_2045,-1.8607523407150064
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Tilly,Malus domestica,4,1,2019,-2.34032542097689,-2.0574626349610607,Plot_2046,-1.5040773967762742
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Traenheim,Malus domestica,4,3,2019,-3.03347260153684,-2.7950615780918397,Plot_2047,-2.231126129011901
+Nicolas_J_Vereecken_Malus_domestica_France_2019,Vergers Ohey,Malus domestica,4,3,2019,-2.6806512269141,-2.2842359543258492,Plot_2048,-1.78070963304147
+Nicolas_J_Vereecken_Pyrus_communis_Belgium_2019,Gasi_pyrus_2019,Pyrus communis,4,3,2019,-3.80666248977032,-1.9740810260220096,Plot_2066,-1.8372218433048122
+Nicolas_J_Vereecken_Pyrus_communis_Belgium_2019,Pommeraie_pyrus_2019,Pyrus communis,4,3,2019,-3.2470467018349,-2.765208614942159,Plot_2067,-2.3025850929940455
+Nicolas_J_Vereecken_Rubus_idaeus_Belgium_2017,La Framboiseraie de Redu,Rubus idaeus,4,0,2017,-3.58351893845611,-5.19295685089021,Plot_2052,-3.58351893845611
+Nicolas_J_Vereecken_Vaccinium_corymbosum_Belgium_2017,Fredandberries,Vaccinium corymbosum,4,3,2017,-2.70805020110221,-4.499809670330265,Plot_2053,-2.6280074934286737
+Nicolas_J_Vereecken_Vaccinium_corymbosum_Belgium_2017,Myrtille de Chardeneux,Vaccinium corymbosum,4,0,2017,-1.75896964640506,-4.499809670330265,Plot_2054,-1.7272209480904839
+Nicolas_J_Vereecken_Vaccinium_corymbosum_Belgium_2017,P'tits Fruits d'Ici,Vaccinium corymbosum,4,3,2017,-1.6094379124341,-3.4011973816621555,Plot_2055,-1.4672634236535578
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,AB,Vaccinium corymbosum,8,0,2016,-3.06472514504094,-5.0106352940962555,Plot_2068,-3.0647251450409425
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,AR,Vaccinium corymbosum,8,0,2016,-4.31748811353631,-5.0106352940962555,Plot_2069,-4.31748811353631
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,BB,Vaccinium corymbosum,8,0,2016,-5.01063529409626,-4.31748811353631,Plot_2070,-4.31748811353631
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,BBR3,Vaccinium corymbosum,8,0,2016,-5.01063529409626,-5.0106352940962555,Plot_2071,-5.0106352940962555
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,BBR4,Vaccinium corymbosum,8,0,2016,-3.62434093297637,-5.0106352940962555,Plot_2072,-3.624340932976365
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,BBR5,Vaccinium corymbosum,8,0,2016,-2.93119375241642,-5.0106352940962555,Plot_2073,-2.9311937524164198
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,BM,Vaccinium corymbosum,8,0,2016,-5.01063529409626,-5.0106352940962555,Plot_2074,-5.0106352940962555
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,BSA,Vaccinium corymbosum,8,0,2016,-5.01063529409626,-3.912023005428146,Plot_2075,-3.912023005428146
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,BSF,Vaccinium corymbosum,8,0,2016,-3.06472514504094,-4.31748811353631,Plot_2076,-2.9311937524164198
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,PSE,Vaccinium corymbosum,8,0,2016,-2.70805020110221,-5.0106352940962555,Plot_2077,-2.70805020110221
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,PSO,Vaccinium corymbosum,8,0,2016,-2.93119375241642,-5.0106352940962555,Plot_2078,-2.9311937524164198
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,QM,Vaccinium corymbosum,8,0,2016,-5.01063529409626,-5.0106352940962555,Plot_2079,-5.0106352940962555
+Pablo_Cavigliasso_Vaccinium_corymbosum_Argentina_2016,QT,Vaccinium corymbosum,8,0,2016,-3.91202300542815,-5.0106352940962555,Plot_2080,-3.912023005428146
+Rachael_Winfree_Cucumis_melo_USA_2004,bar,Cucumis melo,4,0,2004,-1.32175583998232,-0.6931471805599453,Plot_2221,-0.3101549283038396
+Rachael_Winfree_Cucumis_melo_USA_2004,del,Cucumis melo,4,0,2004,-2.70805020110221,-1.0986122886681098,Plot_2222,-1.0033021088637848
+Rachael_Winfree_Cucumis_melo_USA_2004,ker,Cucumis melo,4,0,2004,-2.01490302054226,-3.4011973816621555,Plot_2223,-2.0149030205422647
+Rachael_Winfree_Cucumis_melo_USA_2004,lee,Cucumis melo,5,0,2004,-3.40119738166216,-2.3025850929940455,Plot_2224,-2.3025850929940455
+Rachael_Winfree_Cucumis_melo_USA_2004,lit,Cucumis melo,4,0,2004,-2.30258509299405,-2.0149030205422647,Plot_2225,-1.6094379124341003
+Rachael_Winfree_Cucumis_melo_USA_2004,map,Cucumis melo,4,0,2004,-2.01490302054226,-1.3217558399823195,Plot_2226,-1.0033021088637848
+Rachael_Winfree_Cucumis_melo_USA_2004,non,Cucumis melo,4,0,2004,-2.30258509299405,-2.3025850929940455,Plot_2227,-1.791759469228055
+Rachael_Winfree_Cucumis_melo_USA_2004,pen,Cucumis melo,4,0,2004,-3.40119738166216,-2.0149030205422647,Plot_2228,-2.0149030205422647
+Rachael_Winfree_Cucumis_melo_USA_2004,phi,Cucumis melo,4,0,2004,-0.567984037605939,-3.4011973816621555,Plot_2229,-0.5679840376059393
+Rachael_Winfree_Cucumis_melo_USA_2004,ray,Cucumis melo,4,0,2004,-3.40119738166216,-2.3025850929940455,Plot_2230,-2.3025850929940455
+Rachael_Winfree_Cucumis_melo_USA_2004,spr,Cucumis melo,4,0,2004,-0.762140052046897,-1.3217558399823195,Plot_2231,-0.35667494393873245
+Rachael_Winfree_Cucumis_melo_USA_2004,ter,Cucumis melo,4,0,2004,-2.01490302054226,-2.70805020110221,Plot_2232,-1.791759469228055
+Rachael_Winfree_Cucumis_melo_USA_2004,tra,Cucumis melo,4,0,2004,-1.6094379124341,-0.916290731874155,Plot_2233,-0.5679840376059393
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,aun,Solanum lycopersicum,4,0,2004,-3.40119738166216,-1.791759469228055,Plot_2250,-1.791759469228055
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,bar,Solanum lycopersicum,4,0,2004,-2.30258509299405,-1.791759469228055,Plot_2251,-1.455287232606842
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,che,Solanum lycopersicum,4,0,2004,-1.45528723260684,-1.3217558399823195,Plot_2252,-0.7621400520468967
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,del,Solanum lycopersicum,4,0,2004,-3.40119738166216,-2.0149030205422647,Plot_2253,-2.0149030205422647
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,hop,Solanum lycopersicum,4,0,2004,-2.30258509299405,-0.40546510810816444,Plot_2254,-0.3101549283038396
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,ker,Solanum lycopersicum,4,0,2004,-2.70805020110221,-1.6094379124341003,Plot_2255,-1.455287232606842
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,mis,Solanum lycopersicum,4,0,2004,-3.40119738166216,-1.0986122886681098,Plot_2256,-1.0986122886681098
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,pen,Solanum lycopersicum,4,0,2004,-3.40119738166216,-1.6094379124341003,Plot_2257,-1.6094379124341003
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,phi,Solanum lycopersicum,4,0,2004,-2.30258509299405,-2.70805020110221,Plot_2258,-2.0149030205422647
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,ray,Solanum lycopersicum,4,0,2004,-2.70805020110221,-2.0149030205422647,Plot_2259,-1.791759469228055
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,sny,Solanum lycopersicum,4,0,2004,-3.40119738166216,-0.456758402495715,Plot_2260,-0.456758402495715
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,sun,Solanum lycopersicum,4,0,2004,-3.40119738166216,-2.70805020110221,Plot_2261,-2.70805020110221
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,trad,Solanum lycopersicum,4,0,2004,-3.40119738166216,-1.455287232606842,Plot_2262,-1.455287232606842
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,wat,Solanum lycopersicum,4,0,2004,-2.70805020110221,-2.3025850929940455,Plot_2263,-2.0149030205422647
+Rachael_Winfree_Solanum_lycopersicum_USA_2004,wil,Solanum lycopersicum,4,0,2004,-2.70805020110221,-0.5679840376059393,Plot_2264,-0.5108256237659907
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,bar,Solanum lycopersicum,4,0,2005,-1.79175946922805,-1.791759469228055,Plot_2265,-1.2039728043259361
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,bra,Solanum lycopersicum,4,0,2005,-2.01490302054226,-1.3217558399823195,Plot_2266,-1.0033021088637848
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,bri,Solanum lycopersicum,4,0,2005,-1.79175946922805,-1.6094379124341003,Plot_2267,-1.0986122886681098
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,ker,Solanum lycopersicum,4,0,2005,-3.40119738166216,-1.455287232606842,Plot_2268,-1.455287232606842
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,kim,Solanum lycopersicum,4,0,2005,-2.70805020110221,-2.3025850929940455,Plot_2269,-2.0149030205422647
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,lee,Solanum lycopersicum,5,0,2005,-2.70805020110221,-3.4011973816621555,Plot_2270,-2.70805020110221
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,lit,Solanum lycopersicum,4,0,2005,-3.40119738166216,-1.791759469228055,Plot_2271,-1.791759469228055
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,pen,Solanum lycopersicum,4,0,2005,-3.40119738166216,-1.791759469228055,Plot_2272,-1.791759469228055
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,phi,Solanum lycopersicum,4,0,2005,-2.01490302054226,-2.0149030205422647,Plot_2273,-1.455287232606842
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,ray,Solanum lycopersicum,4,0,2005,-0.762140052046897,-1.791759469228055,Plot_2274,-0.5108256237659907
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,ter,Solanum lycopersicum,4,0,2005,-3.40119738166216,-2.0149030205422647,Plot_2275,-2.0149030205422647
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,tra,Solanum lycopersicum,4,0,2005,-1.79175946922805,-2.0149030205422647,Plot_2276,-1.3217558399823195
+Rachael_Winfree_Solanum_lycopersicum_USA_2005,wat,Solanum lycopersicum,4,0,2005,-2.01490302054226,-1.6094379124341003,Plot_2277,-1.2039728043259361
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,AH,Vaccinium corymbosum,5,0,2010,-5.19295685089021,-4.499809670330265,Plot_2278,-4.499809670330265
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,AML,Vaccinium corymbosum,5,0,2010,-4.0943445622221,-3.58351893845611,Plot_2279,-3.247046701834897
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,BER,Vaccinium corymbosum,5,0,2010,-5.19295685089021,-3.1135153092103742,Plot_2280,-3.1135153092103742
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,DEL,Vaccinium corymbosum,5,0,2010,-5.19295685089021,-4.499809670330265,Plot_2281,-4.499809670330265
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,DEM,Vaccinium corymbosum,5,0,2010,-3.80666248977032,-2.6280074934286737,Plot_2282,-2.4203681286504293
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,DH,Vaccinium corymbosum,5,0,2010,-4.49980967033027,-2.70805020110221,Plot_2283,-2.6280074934286737
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,DON,Vaccinium corymbosum,5,0,2010,-5.19295685089021,-3.8066624897703196,Plot_2284,-3.8066624897703196
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,GLO,Vaccinium corymbosum,5,0,2010,-5.19295685089021,-1.7272209480904839,Plot_2285,-1.7272209480904839
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,GRA,Vaccinium corymbosum,5,0,2010,-4.49980967033027,-4.0943445622221,Plot_2286,-3.8066624897703196
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,LEE,Vaccinium corymbosum,5,0,2010,-3.40119738166216,-2.0149030205422647,Plot_2287,-1.8256610209037363
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,MAC,Vaccinium corymbosum,5,0,2010,-2.62800749342867,-4.499809670330265,Plot_2288,-2.5538995212749516
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,MBR,Vaccinium corymbosum,5,0,2010,-5.19295685089021,-2.995732273553991,Plot_2289,-2.995732273553991
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,MIL,Vaccinium corymbosum,5,0,2010,-2.89037175789616,-2.5538995212749516,Plot_2290,-2.0574626349610607
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,MOO,Vaccinium corymbosum,5,0,2010,-2.79506157809184,-2.3597435068339943,Plot_2291,-1.8971199848858813
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,RS,Vaccinium corymbosum,5,0,2010,-4.49980967033027,-3.247046701834897,Plot_2292,-3.1135153092103742
+Rachael_Winfree_Vaccinium_corymbosum_USA_2010,WHA,Vaccinium corymbosum,5,0,2010,-2.19722457733622,-1.7272209480904839,Plot_2293,-1.2611312181658847
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,AH,Vaccinium corymbosum,5,0,2011,-4.0943445622221,-2.4203681286504293,Plot_2294,-2.3025850929940455
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,AML,Vaccinium corymbosum,5,0,2011,-5.19295685089021,-3.8066624897703196,Plot_2295,-3.8066624897703196
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,BER,Vaccinium corymbosum,5,0,2011,-5.19295685089021,-2.4203681286504293,Plot_2296,-2.4203681286504293
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,DEL,Vaccinium corymbosum,5,0,2011,-5.19295685089021,-4.0943445622221,Plot_2297,-4.0943445622221
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,DEM,Vaccinium corymbosum,5,0,2011,-2.484906649788,-1.8256610209037363,Plot_2298,-1.4317567351966478
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,DH,Vaccinium corymbosum,5,0,2011,-4.0943445622221,-3.1135153092103742,Plot_2299,-2.890371757896165
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,DON,Vaccinium corymbosum,5,0,2011,-5.19295685089021,-2.7950615780918397,Plot_2300,-2.7950615780918397
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,GLO,Vaccinium corymbosum,5,0,2011,-5.19295685089021,-2.0574626349610607,Plot_2301,-2.0574626349610607
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,GRA,Vaccinium corymbosum,5,0,2011,-4.0943445622221,-2.6280074934286737,Plot_2302,-2.4849066497880004
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,LEE,Vaccinium corymbosum,5,0,2011,-3.40119738166216,-1.3217558399823195,Plot_2303,-1.2226649373380885
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,MAC,Vaccinium corymbosum,5,0,2011,-2.19722457733622,-2.1019143975318944,Plot_2304,-1.4793847841859027
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,MBR,Vaccinium corymbosum,5,0,2011,-4.49980967033027,-3.58351893845611,Plot_2305,-3.4011973816621555
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,MIL,Vaccinium corymbosum,5,0,2011,-2.79506157809184,-1.455287232606842,Plot_2306,-1.241713132308783
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,MOO,Vaccinium corymbosum,5,0,2011,-2.24851787172377,-1.3862943611198906,Plot_2307,-1.0498221244986778
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,RS,Vaccinium corymbosum,5,0,2011,-4.49980967033027,-3.4011973816621555,Plot_2308,-3.247046701834897
+Rachael_Winfree_Vaccinium_corymbosum_USA_2011,WHA,Vaccinium corymbosum,5,0,2011,-2.14843441316679,-1.8971199848858813,Plot_2309,-1.3428092491801518
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,HC,Vaccinium macrocarpon,5,0,2009,-1.38629436111989,-1.529395204760564,Plot_2311,-0.7711087220296571
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,HN,Vaccinium macrocarpon,5,0,2009,-1.43758765550744,-1.9542783987258299,Plot_2312,-0.9808292530117262
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,HP,Vaccinium macrocarpon,5,0,2009,-1.47330573810952,-2.184802057337662,Plot_2313,-1.0861897686695525
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,HR,Vaccinium macrocarpon,5,0,2009,-2.18480205733766,-2.113343093355517,Plot_2314,-1.4733057381095205
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,HS,Vaccinium macrocarpon,5,0,2009,-2.22254238532051,-3.534728774286678,Plot_2315,-2.0149030205422647
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,JN,Vaccinium macrocarpon,5,0,2009,-2.14843441316679,-2.9156895658804545,Plot_2318,-1.791759469228055
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,JW,Vaccinium macrocarpon,5,0,2009,-1.63049132163193,-2.841581593726733,Plot_2319,-1.3862943611198906
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,LC,Vaccinium macrocarpon,5,0,2009,-0.969779416825141,-1.9252908618525775,Plot_2320,-0.6523251860396901
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,LE,Vaccinium macrocarpon,5,0,2009,-2.11334309335552,-3.871201010907891,Plot_2321,-1.984131361875511
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,MO,Vaccinium macrocarpon,5,0,2009,-1.30625165344635,-2.841581593726733,Plot_2322,-1.1239300966523995
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,TH,Vaccinium macrocarpon,5,0,2009,-1.17657383013782,-2.2617630984737906,Plot_2323,-0.8956714446714193
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,UC,Vaccinium macrocarpon,5,0,2009,-0.85566611005772,-1.9252908618525775,Plot_2324,-0.5679840376059393
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2009,WH,Vaccinium macrocarpon,5,0,2009,-2.59026716544583,-1.6094379124341003,Plot_2325,-1.3062516534463542
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,HC,Vaccinium macrocarpon,5,0,2010,-1.29098418131557,-1.2611312181658847,Plot_2327,-0.5902897951202375
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,HN,Vaccinium macrocarpon,5,0,2010,-1.26113121816588,-1.6304913216319328,Plot_2328,-0.7444404749474959
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,HP,Vaccinium macrocarpon,5,0,2010,-1.09861228866811,-2.5902671654458267,Plot_2329,-0.9059279448386085
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,HR,Vaccinium macrocarpon,5,0,2010,-1.26113121816588,-1.9542783987258299,Plot_2330,-0.8655184065007319
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,HS,Vaccinium macrocarpon,5,0,2010,-2.53619994417555,-2.772588722239781,Plot_2331,-1.984131361875511
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,JN,Vaccinium macrocarpon,5,0,2010,-1.56861591791385,-3.283414346005772,Plot_2334,-1.420195912795572
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,JW,Vaccinium macrocarpon,5,0,2010,-1.04982212449868,-2.9156895658804545,Plot_2335,-0.916290731874155
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,LC,Vaccinium macrocarpon,5,0,2010,-0.463359086527067,-2.184802057337662,Plot_2336,-0.3044891907681621
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,LE,Vaccinium macrocarpon,5,0,2010,-2.484906649788,-2.841581593726733,Plot_2337,-1.984131361875511
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,MO,Vaccinium macrocarpon,5,0,2010,-0.701515430230462,-0.9267620317414506,Plot_2338,-0.11934675763256625
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,TH,Vaccinium macrocarpon,5,0,2010,-1.86972101069777,-1.8697210106977669,Plot_2339,-1.1901794821936003
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,UC,Vaccinium macrocarpon,5,0,2010,-0.885519073207401,-1.2611312181658847,Plot_2340,-0.3686511349854481
+Rachael_Winfree_Vaccinium_macrocarpon_USA_2010,WH,Vaccinium macrocarpon,5,0,2010,-0.969779416825141,-3.4011973816621555,Plot_2341,-0.8956714446714193
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,A1,Helianthus annuus,7,0,2011,-4.91265488573605,-1.0208345876254254,Plot_2408,-1.0208345876254254
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,A2,Helianthus annuus,7,0,2011,-4.64439089914137,-0.5500463369192721,Plot_2409,-0.5500463369192721
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,A3,Helianthus annuus,7,0,2011,-4.89783979995091,-1.6789639750827106,Plot_2410,-1.6789639750827106
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,A4,Helianthus annuus,7,0,2011,-4.9416424226093,-3.5553480614894135,Plot_2411,-3.5553480614894135
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,A5,Helianthus annuus,7,0,2011,-4.62497281328427,-3.0155349008501706,Plot_2412,-3.0155349008501706
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,N1,Helianthus annuus,7,0,2011,-5.03043792139244,-0.3209077200801014,Plot_2413,-0.3209077200801014
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,N2,Helianthus annuus,7,0,2011,-4.89783979995091,-1.4013322384844311,Plot_2414,-1.4013322384844311
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,N3,Helianthus annuus,7,0,2011,-4.7361984483945,-1.6007042324653458,Plot_2415,-1.6007042324653458
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,N4,Helianthus annuus,7,0,2011,-4.7361984483945,-2.2512917986064953,Plot_2416,-2.2512917986064953
+Ruan_Veldtman_Helianthus_annuus_South_Africa_2011,N5,Helianthus annuus,7,0,2011,-4.93447393313069,-1.798979717201542,Plot_2417,-1.798979717201542
+Ruan_Veldtman_Malus_domestica_South_Africa_2011,Vredelust Farm  - near,Malus domestica,12,1,2011,-4.38202663467388,-3.6888794541139363,Plot_2427,-3.6888794541139363
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,1,Brassica napus,4,0,2011,-2.18480205733766,-1.6739764335716716,Plot_2428,-1.246532418744732
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,10,Brassica napus,4,0,2011,-2.18480205733766,-2.3025850929940455,Plot_2434,-1.6094379124341003
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,11,Brassica napus,4,0,2011,-1.1239300966524,-2.772588722239781,Plot_2435,-0.9808292530117262
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,12,Brassica napus,4,0,2011,-0.374693449441411,-2.5902671654458267,Plot_2436,-0.2876820724517809
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,13,Brassica napus,4,0,2011,-4.38202663467388,-1.6094379124341003,Plot_2437,-1.6094379124341003
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,14,Brassica napus,4,0,2011,-3.28341434600577,-2.436116485618568,Plot_2438,-2.184802057337662
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,15,Brassica napus,4,0,2011,-4.38202663467388,-3.283414346005772,Plot_2439,-3.283414346005772
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,16,Brassica napus,4,0,2011,-2.77258872223978,-3.6888794541139363,Plot_2440,-2.5902671654458267
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,17,Brassica napus,4,0,2011,-2.77258872223978,-2.3025850929940455,Plot_2441,-1.8971199848858813
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,18,Brassica napus,4,0,2011,-4.38202663467388,-2.184802057337662,Plot_2442,-2.184802057337662
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,19,Brassica napus,4,0,2011,-2.77258872223978,-2.772588722239781,Plot_2443,-2.184802057337662
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,2,Brassica napus,4,0,2011,-2.99573227355399,-2.5902671654458267,Plot_2429,-2.184802057337662
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,20,Brassica napus,4,0,2011,-4.38202663467388,-3.6888794541139363,Plot_2444,-3.6888794541139363
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,21,Brassica napus,4,0,2011,-3.28341434600577,-3.283414346005772,Plot_2445,-2.772588722239781
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,22,Brassica napus,4,0,2011,-3.28341434600577,-2.5902671654458267,Plot_2446,-2.3025850929940455
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,23,Brassica napus,4,0,2011,-3.28341434600577,-2.772588722239781,Plot_2447,-2.436116485618568
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,24,Brassica napus,4,0,2011,-3.68887945411394,-2.436116485618568,Plot_2448,-2.3025850929940455
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,5,Brassica napus,4,0,2011,-3.68887945411394,-3.283414346005772,Plot_2430,-2.995732273553991
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,6,Brassica napus,4,0,2011,-2.07944154167984,-2.5902671654458267,Plot_2431,-1.6739764335716716
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,7,Brassica napus,4,0,2011,-0.798507696217772,-2.436116485618568,Plot_2432,-0.6443570163905132
+Sandra_Lindstrom_Brassica_napus_Sweden_2011,8,Brassica napus,4,0,2011,-2.77258872223978,-2.436116485618568,Plot_2433,-1.984131361875511
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,25,Brassica napus,4,0,2012,-3.50655789731998,-3.506557897319982,Plot_2449,-2.995732273553991
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,27,Brassica napus,4,0,2012,-4.60517018598809,-2.8134107167600364,Plot_2451,-2.8134107167600364
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,28,Brassica napus,4,0,2012,-3.50655789731998,-4.605170185988091,Plot_2452,-3.506557897319982
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,29,Brassica napus,4,0,2012,-3.91202300542815,-2.4079456086518722,Plot_2453,-2.3025850929940455
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,30,Brassica napus,4,0,2012,-2.99573227355399,-2.995732273553991,Plot_2454,-2.436116485618568
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,31,Brassica napus,4,0,2012,-4.60517018598809,-2.8134107167600364,Plot_2455,-2.8134107167600364
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,32,Brassica napus,4,0,2012,-3.91202300542815,-2.659260036932778,Plot_2456,-2.5257286443082556
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,33,Brassica napus,4,0,2012,-2.99573227355399,-4.605170185988091,Plot_2457,-2.995732273553991
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,34,Brassica napus,4,0,2012,-3.91202300542815,-2.995732273553991,Plot_2458,-2.8134107167600364
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,35,Brassica napus,4,0,2012,-4.60517018598809,-3.912023005428146,Plot_2459,-3.912023005428146
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,37,Brassica napus,4,0,2012,-3.91202300542815,-3.2188758248682006,Plot_2460,-2.995732273553991
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,38,Brassica napus,4,0,2012,-4.60517018598809,-2.2072749131897207,Plot_2461,-2.2072749131897207
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,39,Brassica napus,4,0,2012,-2.99573227355399,-3.506557897319982,Plot_2462,-2.659260036932778
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,40,Brassica napus,4,0,2012,-3.91202300542815,-3.912023005428146,Plot_2463,-3.506557897319982
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,41,Brassica napus,4,0,2012,-4.60517018598809,-3.912023005428146,Plot_2464,-3.912023005428146
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,42,Brassica napus,4,0,2012,-4.60517018598809,-3.506557897319982,Plot_2465,-3.506557897319982
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,43,Brassica napus,4,0,2012,-3.91202300542815,-2.5257286443082556,Plot_2466,-2.4079456086518722
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,44,Brassica napus,4,0,2012,-3.91202300542815,-4.605170185988091,Plot_2467,-3.912023005428146
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,45,Brassica napus,4,0,2012,-4.60517018598809,-3.912023005428146,Plot_2468,-3.912023005428146
+Sandra_Lindstrom_Brassica_napus_Sweden_2012,46,Brassica napus,4,0,2012,-3.91202300542815,-1.6607312068216509,Plot_2469,-1.6094379124341003
+Saul_A_Cunningham_Brassica_napus_Australia_2006,a,Brassica napus,4,0,2006,-5.39816270151775,0.7088601863581319,Plot_2491,0.7088601863581319
+Saul_A_Cunningham_Brassica_napus_Australia_2006,b,Brassica napus,4,0,2006,-5.4553211153577,0.02947581818274603,Plot_2492,0.02947581818274603
+Saul_A_Cunningham_Brassica_napus_Australia_2006,c,Brassica napus,4,0,2006,-4.96284463025991,-0.5440040225355984,Plot_2493,-0.5440040225355984
+Saul_A_Cunningham_Brassica_napus_Australia_2006,d,Brassica napus,4,0,2006,-4.76217393479776,-1.989585212932975,Plot_2494,-1.989585212932975
+Saul_A_Cunningham_Brassica_napus_Australia_2006,e,Brassica napus,4,0,2006,-6.12029741895095,-1.857617541909635,Plot_2495,-1.857617541909635
+Saul_A_Cunningham_Brassica_napus_Australia_2006,f,Brassica napus,4,0,2006,-5.33753807970132,-0.8377284093710529,Plot_2496,-0.8377284093710529
+Silvia_Castro_Helianthus_annuus_Spain_2017,AUS-EGI1_2017,Helianthus annuus,12,0,2017,-5.8348107370626,-3.8889005880072918,Plot_2506,-3.8889005880072918
+Silvia_Castro_Helianthus_annuus_Spain_2017,AUS-EGI2_2017,Helianthus annuus,12,0,2017,-5.74939298590825,-3.4468078929142076,Plot_2507,-3.4468078929142076
+Silvia_Castro_Helianthus_annuus_Spain_2017,AUS-NON1_2017,Helianthus annuus,12,0,2017,-5.52942908751142,-4.836281906951478,Plot_2509,-4.836281906951478
+Silvia_Castro_Helianthus_annuus_Spain_2017,MEL-EGI1_2017,Helianthus annuus,12,0,2017,-4.32280727501391,-3.53434991464964,Plot_2510,-3.224194986345801
+Silvia_Castro_Helianthus_annuus_Spain_2017,MEL-NGI1_2017,Helianthus annuus,12,0,2017,-4.33859707674655,-3.86859344750081,Plot_2511,-3.4631283393926457
+Silvia_Castro_Helianthus_annuus_Spain_2017,MEL-NON1_2017,Helianthus annuus,12,0,2017,-4.38202663467388,-5.075173815233827,Plot_2512,-4.1588830833596715
+Silvia_Castro_Helianthus_annuus_Spain_2017,PRE-EGI1_2017,Helianthus annuus,12,0,2017,-5.7037824746562,-4.605170185988091,Plot_2513,-4.605170185988091
+Silvia_Castro_Helianthus_annuus_Spain_2017,PRE-EGI2_2017,Helianthus annuus,12,0,2017,-5.8111409929767,-3.508555899982655,Plot_2514,-3.508555899982655
+Silvia_Castro_Helianthus_annuus_Spain_2017,PRE-NON1_2017,Helianthus annuus,12,0,2017,-4.97327950755249,-4.973279507552487,Plot_2516,-4.567814399444322
+Silvia_Castro_Helianthus_annuus_Spain_2017,RED-EGI1_2017,Helianthus annuus,12,0,2017,-3.87812145375246,-4.283586561860629,Plot_2517,-3.4726563456443005
+Silvia_Castro_Helianthus_annuus_Spain_2017,RED-EGI2_2017,Helianthus annuus,12,0,2017,-4.01096295328305,-3.0554515082556133,Plot_2518,-2.787187521660934
+Silvia_Castro_Helianthus_annuus_Spain_2017,RED-NGI1_2017,Helianthus annuus,12,0,2017,-5.32056797548286,-4.915102867374692,Plot_2519,-4.627420794922911
+Silvia_Castro_Helianthus_annuus_Spain_2017,RED-NON1_2017,Helianthus annuus,12,0,2017,-4.38514676201012,-3.206491765668479,Plot_2520,-2.9988524008902346
+Silvia_Castro_Helianthus_annuus_Spain_2017,VIL-EGI1_2017,Helianthus annuus,12,0,2017,-5.25749537202778,-4.1588830833596715,Plot_2521,-4.0047324035324134
+Silvia_Castro_Helianthus_annuus_Spain_2017,VIL-EGI2_2017,Helianthus annuus,12,0,2017,-5.92692602597041,-4.135166556742356,Plot_2522,-4.135166556742356
+Silvia_Castro_Helianthus_annuus_Spain_2017,VIL-NGI1_2017,Helianthus annuus,12,0,2017,-5.75574221358691,-4.146304301152812,Plot_2523,-4.146304301152812
+Silvia_Castro_Helianthus_annuus_Spain_2017,VIL-NON1_2017,Helianthus annuus,12,0,2017,-5.95324333428778,-4.343805421853684,Plot_2524,-4.343805421853684
+Silvia_Castro_Helianthus_annuus_Spain_2018,AUS-EGI1_2018,Helianthus annuus,12,0,2018,-5.4510384535657,-3.05314318076733,Plot_2525,-3.05314318076733
+Silvia_Castro_Helianthus_annuus_Spain_2018,AUS-EGI2_2018,Helianthus annuus,12,0,2018,-4.26619481914876,-4.959341999708705,Plot_2526,-4.04305126783455
+Silvia_Castro_Helianthus_annuus_Spain_2018,AUS-NGI1_2018,Helianthus annuus,12,0,2018,-5.26527751246984,-5.2652775124698366,Plot_2527,-4.859812404361672
+Silvia_Castro_Helianthus_annuus_Spain_2018,AUS-NON1_2018,Helianthus annuus,12,0,2018,-5.76832099579377,-4.382026634673881,Plot_2528,-4.382026634673881
+Silvia_Castro_Helianthus_annuus_Spain_2018,MEL-EGI1_2018,Helianthus annuus,12,0,2018,-4.95582705760126,-4.550361949493096,Plot_2529,-4.2626798770413155
+Silvia_Castro_Helianthus_annuus_Spain_2018,MEL-NGI1_2018,Helianthus annuus,12,0,2018,-4.21656219494635,-4.43970574626056,Plot_2530,-3.746558565700614
+Silvia_Castro_Helianthus_annuus_Spain_2018,MEL-NON1_2018,Helianthus annuus,12,0,2018,-5.18458860121969,-4.77912349311153,Plot_2531,-4.491441420659749
+Silvia_Castro_Helianthus_annuus_Spain_2018,PRE-EGI2_2018,Helianthus annuus,12,0,2018,-5.29831736654804,-4.605170185988091,Plot_2533,-4.605170185988091
+Silvia_Castro_Helianthus_annuus_Spain_2018,PRE-NGI1_2018,Helianthus annuus,12,0,2018,-5.07829394257007,-4.385146762010125,Plot_2534,-4.162003210695915
+Silvia_Castro_Helianthus_annuus_Spain_2018,PRE-NON1_2018,Helianthus annuus,12,0,2018,-5.77144112313002,-5.07829394257007,Plot_2535,-5.07829394257007
+Silvia_Castro_Helianthus_annuus_Spain_2018,RED-EGI1_2018,Helianthus annuus,12,0,2018,-2.27726728500976,-3.481240089335692,Plot_2536,-2.0541237336955462
+Silvia_Castro_Helianthus_annuus_Spain_2018,RED-EGI2_2018,Helianthus annuus,12,0,2018,-1.06007862466587,-3.8430301339411947,Plot_2537,-1.0098167898849786
+Silvia_Castro_Helianthus_annuus_Spain_2018,RED-NGI1_2018,Helianthus annuus,12,0,2018,-1.5800633037542,-4.119037174812472,Plot_2538,-1.5163474893680884
+Silvia_Castro_Helianthus_annuus_Spain_2018,RED-NON1_2018,Helianthus annuus,12,0,2018,-1.10488190168171,-5.768320995793772,Plot_2539,-1.104881901681705
+Silvia_Castro_Helianthus_annuus_Spain_2018,VIL-EGI1_2018,Helianthus annuus,12,0,2018,-4.9452074887738,-4.2520603082138555,Plot_2540,-4.028916756899645
+Silvia_Castro_Helianthus_annuus_Spain_2018,VIL-EGI2_2018,Helianthus annuus,12,0,2018,-3.73766961828337,-3.960813169597578,Plot_2541,-3.2676659890376327
+Silvia_Castro_Helianthus_annuus_Spain_2018,VIL-NGI1_2018,Helianthus annuus,12,0,2018,-4.65396035015752,-4.366278277705742,Plot_2542,-3.960813169597578
+Silvia_Castro_Helianthus_annuus_Spain_2018,VIL-NON1_2018,Helianthus annuus,12,0,2018,-4.40060302024682,-4.400603020246817,Plot_2543,-3.8409872323113943
+Smitha_Krishnan_Coffea_canephora_India_2007,bal,Coffea canephora,1,0,2007,-5.59842195899838,-1.2289741065313533,Plot_2554,-1.2289741065313533
+Smitha_Krishnan_Coffea_canephora_India_2007,bas,Coffea canephora,1,0,2007,-5.59842195899838,-3.295836866004329,Plot_2555,-3.295836866004329
+Smitha_Krishnan_Coffea_canephora_India_2007,baso,Coffea canephora,1,0,2007,-5.19295685089021,-2.0574626349610607,Plot_2556,-2.0574626349610607
+Smitha_Krishnan_Coffea_canephora_India_2007,be,Coffea canephora,1,0,2007,-5.19295685089021,-3.8066624897703196,Plot_2557,-3.8066624897703196
+Smitha_Krishnan_Coffea_canephora_India_2007,chl,Coffea canephora,1,0,2007,-5.59842195899838,-2.8258332367585934,Plot_2558,-2.8258332367585934
+Smitha_Krishnan_Coffea_canephora_India_2007,chs,Coffea canephora,1,0,2007,-5.59842195899838,-2.765208614942159,Plot_2559,-2.765208614942159
+Smitha_Krishnan_Coffea_canephora_India_2007,devpur,Coffea canephora,1,0,2007,-5.41610040220442,-0.43936665978384565,Plot_2560,-0.43936665978384565
+Smitha_Krishnan_Coffea_canephora_India_2007,dhm,Coffea canephora,1,0,2007,-5.59842195899838,-1.7272209480904839,Plot_2561,-1.7272209480904839
+Smitha_Krishnan_Coffea_canephora_India_2007,hal,Coffea canephora,1,0,2007,-5.59842195899838,-1.7272209480904839,Plot_2562,-1.7272209480904839
+Smitha_Krishnan_Coffea_canephora_India_2007,has,Coffea canephora,1,0,2007,-5.59842195899838,-2.1644347545132283,Plot_2563,-2.1644347545132283
+Smitha_Krishnan_Coffea_canephora_India_2007,kap,Coffea canephora,1,0,2007,-5.59842195899838,-2.3025850929940455,Plot_2564,-2.3025850929940455
+Smitha_Krishnan_Coffea_canephora_India_2007,kil,Coffea canephora,1,0,2007,-5.59842195899838,-1.254616537144691,Plot_2565,-1.254616537144691
+Smitha_Krishnan_Coffea_canephora_India_2007,kis,Coffea canephora,1,0,2007,-5.59842195899838,-3.033472601536838,Plot_2566,-3.033472601536838
+Smitha_Krishnan_Coffea_canephora_India_2008,bshbck,Coffea canephora,1,0,2008,-5.41610040220442,-3.8066624897703196,Plot_2567,-3.8066624897703196
+Smitha_Krishnan_Coffea_canephora_India_2008,dha.sulu,Coffea canephora,1,0,2008,-5.41610040220442,-3.624340932976365,Plot_2568,-3.624340932976365
+Smitha_Krishnan_Coffea_canephora_India_2008,hardha,Coffea canephora,1,0,2008,-5.41610040220442,-3.0182051294060495,Plot_2569,-3.0182051294060495
+Smitha_Krishnan_Coffea_canephora_India_2008,harkas,Coffea canephora,1,0,2008,-5.41610040220442,-4.029806041084529,Plot_2570,-4.029806041084529
+Smitha_Krishnan_Coffea_canephora_India_2008,ichbha,Coffea canephora,1,0,2008,-5.41610040220442,-1.8325814637483102,Plot_2571,-1.8325814637483102
+Smitha_Krishnan_Coffea_canephora_India_2008,kottageri,Coffea canephora,1,0,2008,-5.41610040220442,-4.722953221644475,Plot_2574,-4.722953221644475
+Smitha_Krishnan_Coffea_canephora_India_2008,kutnan,Coffea canephora,1,0,2008,-5.41610040220442,-4.722953221644475,Plot_2575,-4.722953221644475
+Smitha_Krishnan_Coffea_canephora_India_2008,nal,Coffea canephora,1,0,2008,-5.41610040220442,-3.1135153092103742,Plot_2576,-3.1135153092103742
+Smitha_Krishnan_Coffea_canephora_India_2008,nit,Coffea canephora,1,0,2008,-5.41610040220442,-2.4716614230379794,Plot_2577,-2.4716614230379794
+Smitha_Krishnan_Coffea_canephora_India_2008,polche,Coffea canephora,1,0,2008,-5.41610040220442,-2.70805020110221,Plot_2578,-2.70805020110221
+Smitha_Krishnan_Coffea_canephora_India_2008,porpon,Coffea canephora,1,0,2008,-5.41610040220442,-4.722953221644475,Plot_2579,-4.722953221644475
+Smitha_Krishnan_Coffea_canephora_India_2008,titbck,Coffea canephora,1,0,2008,-5.41610040220442,-4.029806041084529,Plot_2580,-4.029806041084529
+Smitha_Krishnan_Coffea_canephora_India_2008,tittat,Coffea canephora,1,0,2008,-5.41610040220442,-4.722953221644475,Plot_2581,-4.722953221644475
+Smitha_Krishnan_Coffea_canephora_India_2008,tshkor,Coffea canephora,1,0,2008,-5.41610040220442,-4.31748811353631,Plot_2583,-4.31748811353631
+Smitha_Krishnan_Coffea_canephora_India_2008,tshogr,Coffea canephora,1,0,2008,-5.41610040220442,-3.624340932976365,Plot_2584,-3.624340932976365
+Smitha_Krishnan_Coffea_canephora_India_2009,armnew,Coffea canephora,1,0,2009,-5.92692602597041,-2.213353959266103,Plot_2585,-2.213353959266103
+Smitha_Krishnan_Coffea_canephora_India_2009,bolnew,Coffea canephora,1,0,2009,-5.92692602597041,-1.341958547299839,Plot_2586,-1.341958547299839
+Smitha_Krishnan_Coffea_canephora_India_2009,deviyynew,Coffea canephora,1,0,2009,-5.92692602597041,-1.106644460365374,Plot_2587,-1.106644460365374
+Smitha_Krishnan_Coffea_canephora_India_2009,devtatnew,Coffea canephora,1,0,2009,-5.92692602597041,-3.0937126819141945,Plot_2588,-3.0937126819141945
+Smitha_Krishnan_Coffea_canephora_India_2009,hatvannew,Coffea canephora,1,0,2009,-5.92692602597041,-1.6642461489290954,Plot_2589,-1.6642461489290954
+Smitha_Krishnan_Coffea_canephora_India_2009,kottolinew,Coffea canephora,1,0,2009,-5.92692602597041,-2.2380465718564744,Plot_2590,-2.2380465718564744
+Smitha_Krishnan_Coffea_canephora_India_2009,maibatnew,Coffea canephora,1,0,2009,-5.92692602597041,-3.2188758248682006,Plot_2591,-3.2188758248682006
+Smitha_Krishnan_Coffea_canephora_India_2009,maimalnew,Coffea canephora,1,0,2009,-5.92692602597041,-3.1543373037306295,Plot_2592,-3.1543373037306295
+Smitha_Krishnan_Coffea_canephora_India_2009,maimannew,Coffea canephora,1,0,2009,-5.92692602597041,-4.135166556742356,Plot_2593,-4.135166556742356
+Smitha_Krishnan_Coffea_canephora_India_2014,BBtC conv,Coffea canephora,1,0,2014,-4.90527477843843,-1.9095425048844386,Plot_2607,-1.9095425048844386
+Smitha_Krishnan_Coffea_canephora_India_2014,BBtC org,Coffea canephora,1,3,2014,-4.90527477843843,-1.8607523407150064,Plot_2600,-1.8607523407150064
+Smitha_Krishnan_Coffea_canephora_India_2014,BCK,Coffea canephora,1,0,2014,-4.90527477843843,-2.132686056198648,Plot_2611,-2.132686056198648
+Smitha_Krishnan_Coffea_canephora_India_2014,bharath,Coffea canephora,1,3,2014,-4.90527477843843,-1.4087672169719492,Plot_2595,-1.4087672169719492
+Smitha_Krishnan_Coffea_canephora_India_2014,bopanna,Coffea canephora,1,0,2014,-4.90527477843843,-3.295836866004329,Plot_2617,-3.295836866004329
+Smitha_Krishnan_Coffea_canephora_India_2014,chinappa,Coffea canephora,1,0,2014,-4.90527477843843,-3.295836866004329,Plot_2618,-3.295836866004329
+Smitha_Krishnan_Coffea_canephora_India_2014,karumbaiah,Coffea canephora,1,3,2014,-4.90527477843843,-1.7272209480904839,Plot_2601,-1.7272209480904839
+Smitha_Krishnan_Coffea_canephora_India_2014,kushal Nt,Coffea canephora,1,0,2014,-4.90527477843843,-1.378914253822268,Plot_2603,-1.378914253822268
+Smitha_Krishnan_Coffea_canephora_India_2014,kushal org,Coffea canephora,1,3,2014,-4.90527477843843,-2.959364629383116,Plot_2594,-2.959364629383116
+Smitha_Krishnan_Coffea_canephora_India_2014,manna,Coffea canephora,1,0,2014,-4.90527477843843,-4.212127597878484,Plot_2614,-4.212127597878484
+Smitha_Krishnan_Coffea_canephora_India_2014,mohan,Coffea canephora,1,0,2014,-4.90527477843843,-0.6711682738411702,Plot_2613,-0.6711682738411702
+Smitha_Krishnan_Coffea_canephora_India_2014,muthanna,Coffea canephora,1,3,2014,-4.90527477843843,-3.295836866004329,Plot_2602,-3.295836866004329
+Smitha_Krishnan_Coffea_canephora_India_2014,nanda,Coffea canephora,1,0,2014,-4.90527477843843,-3.518980417318539,Plot_2610,-3.518980417318539
+Smitha_Krishnan_Coffea_canephora_India_2014,raja,Coffea canephora,1,0,2014,-4.90527477843843,-2.4203681286504293,Plot_2609,-2.4203681286504293
+Smitha_Krishnan_Coffea_canephora_India_2014,raju,Coffea canephora,1,0,2014,-4.90527477843843,-4.212127597878484,Plot_2605,-4.212127597878484
+Smitha_Krishnan_Coffea_canephora_India_2014,sannu,Coffea canephora,1,0,2014,-4.90527477843843,-3.8066624897703196,Plot_2612,-3.8066624897703196
+Smitha_Krishnan_Coffea_canephora_India_2014,skanda Nt,Coffea canephora,1,0,2014,-4.90527477843843,-3.1135153092103742,Plot_2604,-3.1135153092103742
+Smitha_Krishnan_Coffea_canephora_India_2014,skanda SO,Coffea canephora,1,0,2014,-4.90527477843843,-3.518980417318539,Plot_2616,-3.518980417318539
+Smitha_Krishnan_Coffea_canephora_India_2014,somanna,Coffea canephora,1,0,2014,-4.90527477843843,-2.70805020110221,Plot_2608,-2.70805020110221
+Smitha_Krishnan_Coffea_canephora_India_2014,subaiah,Coffea canephora,1,0,2014,-4.90527477843843,-1.960835799271989,Plot_2606,-1.960835799271989
+Smitha_Krishnan_Coffea_canephora_India_2014,vasanti,Coffea canephora,1,3,2014,-4.49980967033027,-0.1431008436406733,Plot_2598,-0.1431008436406733
+Virginie_Boreux_Coffea_canephora_India_2008,102,Coffea canephora,1,0,2008,-6.10924758276437,-5.41610040220442,Plot_2663,-5.41610040220442
+Virginie_Boreux_Coffea_canephora_India_2008,124,Coffea canephora,1,0,2008,-6.39692965521615,-5.703782474656201,Plot_2665,-5.703782474656201
+Virginie_Boreux_Coffea_canephora_India_2008,13,Coffea canephora,1,0,2008,-6.62007320653036,-2.668829487948929,Plot_2641,-2.668829487948929
+Virginie_Boreux_Coffea_canephora_India_2008,140,Coffea canephora,1,0,2008,-6.62007320653036,-5.521460917862246,Plot_2669,-5.521460917862246
+Virginie_Boreux_Coffea_canephora_India_2008,16,Coffea canephora,1,0,2008,-6.39692965521615,-4.451019506160833,Plot_2642,-4.451019506160833
+Virginie_Boreux_Coffea_canephora_India_2008,162,Coffea canephora,1,0,2008,-6.10924758276437,-5.0106352940962555,Plot_2674,-5.0106352940962555
+Virginie_Boreux_Coffea_canephora_India_2008,176,Coffea canephora,1,0,2008,-6.62007320653036,-4.674163057475043,Plot_2677,-4.674163057475043
+Virginie_Boreux_Coffea_canephora_India_2008,18,Coffea canephora,1,0,2008,-6.39692965521615,-5.298317366548036,Plot_2643,-5.298317366548036
+Virginie_Boreux_Coffea_canephora_India_2008,185,Coffea canephora,1,0,2008,-6.39692965521615,-5.703782474656201,Plot_2678,-5.703782474656201
+Virginie_Boreux_Coffea_canephora_India_2008,20,Coffea canephora,1,0,2008,-6.62007320653036,-3.4420193761824103,Plot_2644,-3.4420193761824103
+Virginie_Boreux_Coffea_canephora_India_2008,216,Coffea canephora,1,0,2008,-6.10924758276437,-5.0106352940962555,Plot_2683,-5.0106352940962555
+Virginie_Boreux_Coffea_canephora_India_2008,220,Coffea canephora,1,0,2008,-6.10924758276437,-5.41610040220442,Plot_2685,-5.41610040220442
+Virginie_Boreux_Coffea_canephora_India_2008,222,Coffea canephora,1,0,2008,-6.39692965521615,-4.787491742782046,Plot_2686,-4.787491742782046
+Virginie_Boreux_Coffea_canephora_India_2008,245,Coffea canephora,1,0,2008,-6.10924758276437,-4.722953221644475,Plot_2691,-4.722953221644475
+Virginie_Boreux_Coffea_canephora_India_2008,251,Coffea canephora,1,0,2008,-6.10924758276437,-4.722953221644475,Plot_2695,-4.722953221644475
+Virginie_Boreux_Coffea_canephora_India_2008,252,Coffea canephora,1,0,2008,-6.10924758276437,-5.41610040220442,Plot_2696,-5.41610040220442
+Virginie_Boreux_Coffea_canephora_India_2008,255,Coffea canephora,1,0,2008,-6.10924758276437,-3.0647251450409425,Plot_2699,-3.0647251450409425
+Virginie_Boreux_Coffea_canephora_India_2008,257,Coffea canephora,1,0,2008,-6.39692965521615,-4.605170185988091,Plot_2701,-4.605170185988091
+Virginie_Boreux_Coffea_canephora_India_2008,262,Coffea canephora,1,0,2008,-6.39692965521615,-4.31748811353631,Plot_2705,-4.31748811353631
+Virginie_Boreux_Coffea_canephora_India_2008,263,Coffea canephora,1,0,2008,-6.39692965521615,-5.298317366548036,Plot_2706,-5.298317366548036
+Virginie_Boreux_Coffea_canephora_India_2008,264,Coffea canephora,1,0,2008,-6.39692965521615,-5.0106352940962555,Plot_2707,-5.0106352940962555
+Virginie_Boreux_Coffea_canephora_India_2008,265,Coffea canephora,1,0,2008,-6.39692965521615,-3.8319802977546096,Plot_2708,-3.8319802977546096
+Virginie_Boreux_Coffea_canephora_India_2008,268,Coffea canephora,1,0,2008,-6.80239476332431,-4.237445405862774,Plot_2710,-4.237445405862774
+Virginie_Boreux_Coffea_canephora_India_2008,27,Coffea canephora,1,0,2008,-6.39692965521615,-3.624340932976365,Plot_2646,-3.624340932976365
+Virginie_Boreux_Coffea_canephora_India_2008,274,Coffea canephora,1,0,2008,-6.80239476332431,-2.4079456086518722,Plot_2712,-2.4079456086518722
+Virginie_Boreux_Coffea_canephora_India_2008,276,Coffea canephora,1,0,2008,-6.10924758276437,-4.029806041084529,Plot_2714,-4.029806041084529
+Virginie_Boreux_Coffea_canephora_India_2008,279,Coffea canephora,1,0,2008,-6.10924758276437,-3.4011973816621555,Plot_2717,-3.4011973816621555
+Virginie_Boreux_Coffea_canephora_India_2008,28,Coffea canephora,1,0,2008,-6.10924758276437,-3.912023005428146,Plot_2647,-3.912023005428146
+Virginie_Boreux_Coffea_canephora_India_2008,280,Coffea canephora,1,0,2008,-6.10924758276437,-3.2188758248682006,Plot_2718,-3.2188758248682006
+Virginie_Boreux_Coffea_canephora_India_2008,284,Coffea canephora,1,0,2008,-6.10924758276437,-2.6752603782792193,Plot_2721,-2.6752603782792193
+Virginie_Boreux_Coffea_canephora_India_2008,285,Coffea canephora,1,0,2008,-6.10924758276437,-3.1135153092103742,Plot_2722,-3.1135153092103742
+Virginie_Boreux_Coffea_canephora_India_2008,286,Coffea canephora,1,0,2008,-6.10924758276437,-2.8511510447428834,Plot_2723,-2.8511510447428834
+Virginie_Boreux_Coffea_canephora_India_2008,287,Coffea canephora,1,0,2008,-6.10924758276437,-3.912023005428146,Plot_2724,-3.912023005428146
+Virginie_Boreux_Coffea_canephora_India_2008,293,Coffea canephora,1,0,2008,-7.3132203870903,-3.552020271396739,Plot_2728,-3.552020271396739
+Virginie_Boreux_Coffea_canephora_India_2008,296,Coffea canephora,1,0,2008,-6.62007320653036,-4.674163057475043,Plot_2729,-4.674163057475043
+Virginie_Boreux_Coffea_canephora_India_2008,298,Coffea canephora,1,0,2008,-6.80239476332431,-2.832102849772189,Plot_2730,-2.832102849772189
+Virginie_Boreux_Coffea_canephora_India_2008,300,Coffea canephora,1,0,2008,-6.95654544315157,-3.373026504695459,Plot_2731,-3.373026504695459
+Virginie_Boreux_Coffea_canephora_India_2008,302,Coffea canephora,1,0,2008,-6.39692965521615,-3.138833117194664,Plot_2733,-3.138833117194664
+Virginie_Boreux_Coffea_canephora_India_2008,304,Coffea canephora,1,0,2008,-6.80239476332431,-5.703782474656201,Plot_2735,-5.703782474656201
+Virginie_Boreux_Coffea_canephora_India_2008,315,Coffea canephora,1,0,2008,-6.62007320653036,-2.4929388214852644,Plot_2742,-2.4929388214852644
+Virginie_Boreux_Coffea_canephora_India_2008,325,Coffea canephora,1,0,2008,-6.10924758276437,-4.163337433709052,Plot_2749,-4.163337433709052
+Virginie_Boreux_Coffea_canephora_India_2008,46,Coffea canephora,1,0,2008,-6.10924758276437,-5.0106352940962555,Plot_2649,-5.0106352940962555
+Virginie_Boreux_Coffea_canephora_India_2008,53,Coffea canephora,1,0,2008,-6.39692965521615,-5.0106352940962555,Plot_2650,-5.0106352940962555
+Virginie_Boreux_Coffea_canephora_India_2008,54,Coffea canephora,1,0,2008,-6.39692965521615,-5.703782474656201,Plot_2651,-5.703782474656201
+Virginie_Boreux_Coffea_canephora_India_2008,55,Coffea canephora,1,0,2008,-6.39692965521615,-5.0106352940962555,Plot_2652,-5.0106352940962555
+Virginie_Boreux_Coffea_canephora_India_2008,58,Coffea canephora,1,0,2008,-6.39692965521615,-5.0106352940962555,Plot_2655,-5.0106352940962555
+Virginie_Boreux_Malus_domestica_Germany_2015,bio1,Malus domestica,4,3,2015,-3.40119738166216,-2.0149030205422647,Plot_2752,-2.0149030205422647
+Virginie_Boreux_Malus_domestica_Germany_2015,bio10,Malus domestica,4,3,2015,-3.40119738166216,-2.70805020110221,Plot_2761,-2.70805020110221
+Virginie_Boreux_Malus_domestica_Germany_2015,bio11,Malus domestica,4,3,2015,-2.30258509299405,-2.3025850929940455,Plot_2762,-1.791759469228055
+Virginie_Boreux_Malus_domestica_Germany_2015,bio12,Malus domestica,4,3,2015,-2.70805020110221,-2.3025850929940455,Plot_2763,-2.0149030205422647
+Virginie_Boreux_Malus_domestica_Germany_2015,bio13,Malus domestica,4,3,2015,-2.70805020110221,-1.791759469228055,Plot_2764,-1.6094379124341003
+Virginie_Boreux_Malus_domestica_Germany_2015,bio14,Malus domestica,4,3,2015,-2.30258509299405,-1.6094379124341003,Plot_2765,-1.3217558399823195
+Virginie_Boreux_Malus_domestica_Germany_2015,bio15,Malus domestica,4,3,2015,-1.32175583998232,-1.3217558399823195,Plot_2766,-0.6931471805599453
+Virginie_Boreux_Malus_domestica_Germany_2015,bio2,Malus domestica,4,3,2015,-2.70805020110221,-2.0149030205422647,Plot_2753,-1.791759469228055
+Virginie_Boreux_Malus_domestica_Germany_2015,bio3,Malus domestica,4,3,2015,-3.40119738166216,-3.4011973816621555,Plot_2754,-3.4011973816621555
+Virginie_Boreux_Malus_domestica_Germany_2015,bio4,Malus domestica,4,3,2015,-1.79175946922805,-1.6094379124341003,Plot_2755,-1.0986122886681098
+Virginie_Boreux_Malus_domestica_Germany_2015,bio5,Malus domestica,4,3,2015,-1.45528723260684,-1.2039728043259361,Plot_2756,-0.6931471805599453
+Virginie_Boreux_Malus_domestica_Germany_2015,bio6,Malus domestica,4,3,2015,-2.30258509299405,-3.4011973816621555,Plot_2757,-2.3025850929940455
+Virginie_Boreux_Malus_domestica_Germany_2015,bio7,Malus domestica,4,3,2015,-0.916290731874155,-0.1823215567939546,Plot_2758,0.1823215567939546
+Virginie_Boreux_Malus_domestica_Germany_2015,bio8,Malus domestica,4,3,2015,-2.01490302054226,-2.3025850929940455,Plot_2759,-1.6094379124341003
+Virginie_Boreux_Malus_domestica_Germany_2015,ip1,Malus domestica,4,0,2015,-2.30258509299405,-2.0149030205422647,Plot_2767,-1.6094379124341003
+Virginie_Boreux_Malus_domestica_Germany_2015,ip10,Malus domestica,4,0,2015,-2.30258509299405,-2.70805020110221,Plot_2776,-2.0149030205422647
+Virginie_Boreux_Malus_domestica_Germany_2015,ip11,Malus domestica,4,0,2015,-3.40119738166216,-2.70805020110221,Plot_2777,-2.70805020110221
+Virginie_Boreux_Malus_domestica_Germany_2015,ip12,Malus domestica,4,0,2015,-0.567984037605939,-2.0149030205422647,Plot_2778,-0.40546510810816444
+Virginie_Boreux_Malus_domestica_Germany_2015,ip13,Malus domestica,4,0,2015,-1.45528723260684,-2.70805020110221,Plot_2779,-1.3217558399823195
+Virginie_Boreux_Malus_domestica_Germany_2015,ip14,Malus domestica,4,0,2015,-3.40119738166216,-2.70805020110221,Plot_2780,-2.70805020110221
+Virginie_Boreux_Malus_domestica_Germany_2015,ip15,Malus domestica,4,0,2015,-2.70805020110221,-3.4011973816621555,Plot_2781,-2.70805020110221
+Virginie_Boreux_Malus_domestica_Germany_2015,ip3,Malus domestica,4,0,2015,-2.70805020110221,-2.70805020110221,Plot_2769,-2.3025850929940455
+Virginie_Boreux_Malus_domestica_Germany_2015,ip4,Malus domestica,4,0,2015,0.154150679827258,-1.6094379124341003,Plot_2770,0.28768207245178085
+Virginie_Boreux_Malus_domestica_Germany_2015,ip6,Malus domestica,4,0,2015,-3.40119738166216,-1.791759469228055,Plot_2772,-1.791759469228055
+Virginie_Boreux_Malus_domestica_Germany_2015,ip7,Malus domestica,4,0,2015,-2.70805020110221,-3.4011973816621555,Plot_2773,-2.70805020110221
