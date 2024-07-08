@@ -1,4 +1,4 @@
-# GlobalCNN_Models4WildPollinators
+# WildPollinators_CNN_Models
 
 ## Overview
 
