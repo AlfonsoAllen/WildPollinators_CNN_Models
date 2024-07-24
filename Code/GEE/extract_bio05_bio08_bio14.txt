@@ -1,0 +1,59 @@
+// Load points of interest from the asset
+var points = ee.FeatureCollection('users/alfonsoallenperkins/Mechanistic/sites');
+
+// Load the climate models dataset from IPCC
+var dataset = ee.ImageCollection('NASA/NEX-GDDP')
+                .filter(ee.Filter.date('2049-01-01', '2050-12-31'))
+                .select(['tasmin', 'tasmax', 'pr']); // Select temperature minimum, maximum, and precipitation bands
+
+// Define the year of interest
+var year = 2050;
+
+// Function to calculate monthly mean
+var monthlyData = ee.List.sequence(1, 12).map(function(month) {
+  var start = ee.Date.fromYMD(year, month, 1);
+  var end = start.advance(1, 'month');
+  var monthlyImage = dataset.filterDate(start, end).mean().set('month', month);
+  return monthlyImage;
+});
+
+var monthlyCollection = ee.ImageCollection.fromImages(monthlyData);
+
+// bio05: Maximum temperature of the warmest month
+var bio05 = monthlyCollection.select('tasmax').reduce(ee.Reducer.max()).rename('bio05');
+
+// bio08: Mean temperature of the wettest quarter
+var bio08 = ee.ImageCollection.fromImages(
+  ee.List.sequence(1, 12).map(function(month) {
+    var start = ee.Date.fromYMD(year, month, 1);
+    var end = start.advance(3, 'month');
+    var quarterImage = dataset.filterDate(start, end).select(['tasmax', 'pr']).mean();
+    return quarterImage.set('month', month);
+  })
+);
+
+// Calculate the wettest quarter
+var wettestQuarter = bio08.qualityMosaic('pr').select('tasmax').rename('bio08');
+
+// bio14: Precipitation of the driest month
+var bio14 = monthlyCollection.select('pr').reduce(ee.Reducer.min()).rename('bio14');
+
+// Combine the bioclimatic variables into a single image
+var bioclimImage = bio05.addBands(wettestQuarter).addBands(bio14);
+
+// Extract the bioclimatic variables for each point
+var results = bioclimImage.reduceRegions({
+  collection: points,
+  reducer: ee.Reducer.mean(),
+  scale: 5000 // Adjust the scale according to the data resolution
+}).map(function(feature) {
+  return feature.set('year', year);
+});
+
+// Export the results to Google Drive
+Export.table.toDrive({
+  collection: results,
+  description: 'BioclimaticVariables_2050',
+  fileFormat: 'CSV',
+  folder: 'GEE outputs'
+});
