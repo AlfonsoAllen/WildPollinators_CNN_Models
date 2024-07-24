@@ -1,0 +1,46 @@
+// Load OBServ sites
+var points = ee.FeatureCollection('users/alfonsoallenperkins/Mechanistic/sites');
+
+// Load the climate model dataset from IPCC
+var dataset = ee.ImageCollection('NASA/NEX-GDDP')
+                .filter(ee.Filter.date('2049-01-01', '2050-12-31'))
+                .select(['tasmin', 'tasmax']); // Select the minimum and maximum temperature bands
+
+// Define the year of interest
+var year = 2050;
+var startDate = ee.Date.fromYMD(year, 1, 1);
+var endDate = ee.Date.fromYMD(year, 12, 31);
+
+// Function to calculate the monthly diurnal range and then the annual mean of the diurnal range
+var monthlyDiurnalRange = ee.List.sequence(1, 12).map(function(month) {
+  var start = ee.Date.fromYMD(year, month, 1);
+  var end = start.advance(1, 'month');
+  var monthlyData = dataset.filterDate(start, end).map(function(image) {
+    return image.expression(
+      'tasmax - tasmin', { // Calculate the diurnal range
+        'tasmin': image.select('tasmin'),
+        'tasmax': image.select('tasmax')
+      }
+    ).rename('diurnal_range');
+  }).mean();
+  return monthlyData.set('month', month);
+});
+
+var annualDiurnalRangeImage = ee.ImageCollection.fromImages(monthlyDiurnalRange).mean().set('year', year);
+
+// Estimate the annual mean diurnal range for each site
+var results = annualDiurnalRangeImage.reduceRegions({
+  collection: points,
+  reducer: ee.Reducer.mean(),
+  scale: 5000,
+}).map(function(feature) {
+  return feature.set('year', year);
+});
+
+// Save results (export them to G-Drive)
+Export.table.toDrive({
+  collection: results,
+  description: 'MeanDiurnalRange_2050',
+  fileFormat: 'CSV',
+  folder: 'GEE outputs'
+});
