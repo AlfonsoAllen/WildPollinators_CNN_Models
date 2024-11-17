@@ -1,4 +1,5 @@
 # WildPollinators_CNN_Models
+[![DOI](https://zenodo.org/badge/825033949.svg)](https://doi.org/10.5281/zenodo.14176333)
 
 ## Overview
 
